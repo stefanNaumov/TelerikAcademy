@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\5.TrapeziumSquare\obj\Debug\5.TrapeziumSquare.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\5.TrapeziumSquare\obj\Debug\5.TrapeziumSquare.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\5.TrapeziumSquare\bin\Debug\5.TrapeziumSquare.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\5.TrapeziumSquare\bin\Debug\5.TrapeziumSquare.pdb

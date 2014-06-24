@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="js-console.css"/>
+</head>
+<body>
+    <label for="element">Enter element to remove: </label>
+    <input type="text" id="element"/>
+    <button onclick="buttonClickRemove()">Remove!</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        var arr = [1, 2, 1, 4, 1, 3, 4, 1, 111, 3, 2, 1, "1"];
+        jsConsole.write("Array: ");
+        for (var i = 0; i < arr.length; i++) {
+            jsConsole.write(arr[i] + " ");
+        }
+        jsConsole.writeLine();
+       Array.prototype.remove = function removeElement(element) {
+           var newArray = [];
+           for (var i = 0, j = 0; i < arr.length;j++, i++) {
+               
+               if (this[i] !== element) {
+                   newArray.push(this[i]);
+               }
+           }
+           return newArray;
+       }
+       function buttonClickRemove() {
+           var element = jsConsole.read("#element");
+           var removedElArr = arr.remove(element);
+           jsConsole.writeLine("Array with removed element: ");
+           for (var i = 0; i < removedElArr.length; i++) {
+               jsConsole.write(removedElArr[i] + " ");
+           }
+           jsConsole.writeLine();
+       }
+    </script>
+</body>
+    
+</html>

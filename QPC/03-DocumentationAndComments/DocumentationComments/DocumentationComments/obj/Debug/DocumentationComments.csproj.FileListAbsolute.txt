@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\DocumentationComments\DocumentationComments\bin\Debug\DocumentationComments.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\DocumentationComments\DocumentationComments\bin\Debug\DocumentationComments.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\DocumentationComments\DocumentationComments\bin\Debug\DocumentationComments.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\DocumentationComments\DocumentationComments\obj\Debug\DocumentationComments.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\DocumentationComments\DocumentationComments\obj\Debug\DocumentationComments.pdb

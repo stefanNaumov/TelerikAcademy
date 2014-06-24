@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\01.FruitsTable\bin\01.FruitsTable.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\01.FruitsTable\bin\01.FruitsTable.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\01.FruitsTable\obj\Debug\01.FruitsTable.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\01.FruitsTable\obj\Debug\01.FruitsTable.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\01.FruitsTable\obj\Debug\01.FruitsTable.pdb

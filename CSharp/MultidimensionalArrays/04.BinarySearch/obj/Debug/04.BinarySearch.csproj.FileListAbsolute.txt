@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\04.BinarySearch\bin\Debug\04.BinarySearch.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\04.BinarySearch\bin\Debug\04.BinarySearch.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\04.BinarySearch\obj\Debug\04.BinarySearch.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\04.BinarySearch\obj\Debug\04.BinarySearch.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\04.BinarySearch\obj\Debug\04.BinarySearch.pdb

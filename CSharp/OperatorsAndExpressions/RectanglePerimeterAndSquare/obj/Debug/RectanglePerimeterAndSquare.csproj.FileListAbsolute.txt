@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\RectanglePerimeterAndSquare\bin\Debug\RectanglePerimeterAndSquare.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\RectanglePerimeterAndSquare\bin\Debug\RectanglePerimeterAndSquare.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\RectanglePerimeterAndSquare\obj\Debug\RectanglePerimeterAndSquare.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\RectanglePerimeterAndSquare\obj\Debug\RectanglePerimeterAndSquare.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\RectanglePerimeterAndSquare\obj\Debug\RectanglePerimeterAndSquare.pdb

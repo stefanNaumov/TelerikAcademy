@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\11.RandomAdvertisment\obj\Debug\11.RandomAdvertisment.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\11.RandomAdvertisment\bin\Debug\11.RandomAdvertisment.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\11.RandomAdvertisment\bin\Debug\11.RandomAdvertisment.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\11.RandomAdvertisment\obj\Debug\11.RandomAdvertisment.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\11.RandomAdvertisment\obj\Debug\11.RandomAdvertisment.pdb

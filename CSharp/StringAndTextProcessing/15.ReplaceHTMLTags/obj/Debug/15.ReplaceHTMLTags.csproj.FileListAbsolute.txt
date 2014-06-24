@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\15.ReplaceHTMLTags\bin\Debug\15.ReplaceHTMLTags.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\15.ReplaceHTMLTags\obj\Debug\15.ReplaceHTMLTags.pdb

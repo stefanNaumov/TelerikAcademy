@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\09.LoopForS\bin\Debug\09.LoopForS.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\09.LoopForS\bin\Debug\09.LoopForS.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\09.LoopForS\obj\Debug\09.LoopForS.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\09.LoopForS\obj\Debug\09.LoopForS.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\09.LoopForS\obj\Debug\09.LoopForS.pdb

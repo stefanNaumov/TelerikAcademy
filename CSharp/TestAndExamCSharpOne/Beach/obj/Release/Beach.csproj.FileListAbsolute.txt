@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Beach\bin\Release\Beach.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Beach\bin\Release\Beach.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Beach\obj\Release\Beach.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Beach\obj\Release\Beach.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Beach\obj\Release\Beach.pdb

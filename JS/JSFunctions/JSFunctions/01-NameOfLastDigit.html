@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="js-console.css"/>
+    <title>Name of last digit</title>
+</head>
+<body>
+    <label for="number">Enter number: </label>
+    <input type="text" id="number"/>
+    <button onclick="nameOfLastDigit()">Check</button>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function nameOfLastDigit() {
+            var number = jsConsole.readInteger("#number");
+            var name;
+            switch (number % 10) {
+                case 1:
+                    name = "one";
+                    break;
+                case 2:
+                    name = "two";
+                    break;
+                case 3:
+                    name = "three";
+                    break;
+                case 4:
+                    name = "four";
+                    break;
+                case 5:
+                    name = "five";
+                    break;
+                case 6:
+                    name = "six";
+                    break;
+                case 7:
+                    name = "seven";
+                    break;
+                case 8:
+                    name = "eight";
+                    break;
+                case 9:
+                    name = "nine";
+                    break;
+                default:
+                    name = "zero";
+                    break;
+            }
+            jsConsole.writeLine("Name of the last digit: " + name);
+        }
+    </script>
+</body>
+</html>

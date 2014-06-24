@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\JoroTheRabbit\bin\Debug\JoroTheRabbit.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\JoroTheRabbit\bin\Debug\JoroTheRabbit.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\JoroTheRabbit\obj\Debug\JoroTheRabbit.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\JoroTheRabbit\obj\Debug\JoroTheRabbit.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\JoroTheRabbit\obj\Debug\JoroTheRabbit.pdb

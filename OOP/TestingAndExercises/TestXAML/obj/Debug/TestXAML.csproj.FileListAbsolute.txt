@@ -1,0 +1,15 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\bin\Debug\TestXAML.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\bin\Debug\TestXAML.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\bin\Debug\TestXAML.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\MainWindow.baml
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\MainWindow.g.cs
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\App.g.cs
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\TestXAML_MarkupCompile.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\TestXAML.g.resources
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\TestXAML.Properties.Resources.resources
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\TestXAML.csproj.GenerateResource.Cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\TestXAML.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\TestXAML.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\FreightWindow.baml
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\FreightWindow.g.cs
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TestXAML\obj\Debug\TestXAML.csprojResolveAssemblyReference.cache

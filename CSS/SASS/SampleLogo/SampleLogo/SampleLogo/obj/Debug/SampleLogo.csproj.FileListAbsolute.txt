@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\SASS\SampleLogo\SampleLogo\SampleLogo\bin\SampleLogo.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\SASS\SampleLogo\SampleLogo\SampleLogo\bin\SampleLogo.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\SASS\SampleLogo\SampleLogo\SampleLogo\obj\Debug\SampleLogo.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\SASS\SampleLogo\SampleLogo\SampleLogo\obj\Debug\SampleLogo.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\SASS\SampleLogo\SampleLogo\SampleLogo\obj\Debug\SampleLogo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="js-console.css"/>
+    <title>Max sequence of increasing elements</title>
+</head>
+<body onload="MaxIncreasingSequence()">
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        var array = [3, 2, 3, 4, 2, 2, 4];
+        function MaxIncreasingSequence() {
+            var maxSeqCount = 0;
+            var positionIndex;
+            for (var i = 0; i < array.length - 1; i++) {
+                var sequenceCount = 0;
+                for (var j = i + 1; j < array.length; j++) {
+                    if (array[i] < array[j]) {
+                        sequenceCount++;
+                        if (sequenceCount > maxSeqCount) {
+
+                            maxSeqCount = sequenceCount;
+                            positionIndex = j;
+                            break;
+                        }
+                    }
+                   
+                }
+            }
+            jsConsole.writeLine(positionIndex);
+            jsConsole.writeLine("Max increasing sequence is: ");
+            for (var i = positionIndex - maxSeqCount; i <= positionIndex; i++) {
+                jsConsole.write(array[i] + " ");
+            }
+            jsConsole.writeLine();
+        }
+        
+
+    </script>
+</body>
+</html>

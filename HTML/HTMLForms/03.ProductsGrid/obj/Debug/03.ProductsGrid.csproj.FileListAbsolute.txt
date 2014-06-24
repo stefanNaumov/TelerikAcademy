@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03.ProductsGrid\bin\03.ProductsGrid.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03.ProductsGrid\bin\03.ProductsGrid.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03.ProductsGrid\obj\Debug\03.ProductsGrid.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03.ProductsGrid\obj\Debug\03.ProductsGrid.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLForms\03.ProductsGrid\obj\Debug\03.ProductsGrid.pdb

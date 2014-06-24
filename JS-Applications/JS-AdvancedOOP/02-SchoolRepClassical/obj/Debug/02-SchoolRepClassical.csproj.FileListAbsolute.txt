@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\02-SchoolRepClassical\bin\02-SchoolRepClassical.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\02-SchoolRepClassical\bin\02-SchoolRepClassical.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\02-SchoolRepClassical\obj\Debug\02-SchoolRepClassical.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\02-SchoolRepClassical\obj\Debug\02-SchoolRepClassical.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\02-SchoolRepClassical\obj\Debug\02-SchoolRepClassical.pdb

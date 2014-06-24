@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SubsetSums\bin\Release\SubsetSums.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SubsetSums\bin\Release\SubsetSums.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SubsetSums\obj\Release\SubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SubsetSums\obj\Release\SubsetSums.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SubsetSums\obj\Release\SubsetSums.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb

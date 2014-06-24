@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PersonalForm", "01.PersonalForm\01.PersonalForm.csproj", "{6DE28CAD-809A-44DC-B33C-4ADDA5448765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.StudentMarks", "02.StudentMarks\02.StudentMarks.csproj", "{EFAFB9B9-952D-45FB-B6A6-EF2E185E97CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ProductsGrid", "03.ProductsGrid\03.ProductsGrid.csproj", "{18156C3D-EC7F-40F9-9E84-54B78D09DDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DE28CAD-809A-44DC-B33C-4ADDA5448765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE28CAD-809A-44DC-B33C-4ADDA5448765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE28CAD-809A-44DC-B33C-4ADDA5448765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE28CAD-809A-44DC-B33C-4ADDA5448765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAFB9B9-952D-45FB-B6A6-EF2E185E97CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAFB9B9-952D-45FB-B6A6-EF2E185E97CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAFB9B9-952D-45FB-B6A6-EF2E185E97CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAFB9B9-952D-45FB-B6A6-EF2E185E97CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18156C3D-EC7F-40F9-9E84-54B78D09DDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18156C3D-EC7F-40F9-9E84-54B78D09DDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18156C3D-EC7F-40F9-9E84-54B78D09DDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18156C3D-EC7F-40F9-9E84-54B78D09DDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

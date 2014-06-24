@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\11.OneToNInterval\bin\Debug\11.OneToNInterval.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\11.OneToNInterval\bin\Debug\11.OneToNInterval.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\11.OneToNInterval\obj\Debug\11.OneToNInterval.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\11.OneToNInterval\obj\Debug\11.OneToNInterval.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\11.OneToNInterval\obj\Debug\11.OneToNInterval.pdb

@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\03.PrintMyName\bin\Debug\03.PrintMyName.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\03.PrintMyName\obj\Debug\03.PrintMyName.pdb

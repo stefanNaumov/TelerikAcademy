@@ -1,0 +1,64 @@
+﻿body {
+}
+a, hr,ul {
+    margin:0;
+}
+#clientForm {
+    width:800px;
+}
+#line {
+    height:2px;
+    background-color:rgb(163, 159, 159);
+    color:rgb(163, 159, 159);
+    margin:5px;
+}
+h1 {
+    text-align:center;
+    
+}
+    h1 a {
+        color:rgb(73, 195, 204);
+    }
+article {
+    width:510px;
+    border:1px solid black;
+    overflow:hidden;
+    display:inline-block;
+}
+fieldset {
+    width:220px;
+    border: 1px solid black;
+    margin:6px 3px;
+    float:left;
+    
+}
+    fieldset legend {
+        text-align:center;
+        padding:0 10px 0 5px;
+    }
+    fieldset img {
+        width:100px;
+        float:left;
+    }
+    fieldset ul {
+        float:right;
+        list-style-type:none;
+        padding:3px;
+        margin-top:32px;
+    }
+    fieldset .price {
+        float:left;
+        top:20px;
+    }
+aside form {
+    float:right;
+    position:absolute;
+    top:120px;
+    left:550px;
+}
+aside label {
+    font-size:22px;
+}
+dt, dd {
+    margin: 8px 0;
+}

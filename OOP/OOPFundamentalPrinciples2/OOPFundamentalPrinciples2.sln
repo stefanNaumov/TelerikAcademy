@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Shape", "01.Shape\01.Shape.csproj", "{286B4ADA-A2D4-4E6D-83CE-022BDFF55037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Bank", "02.Bank\02.Bank.csproj", "{9BA380B9-383D-4713-9896-CCB13A8E692E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.InvalidRangeException", "03.InvalidRangeException\03.InvalidRangeException.csproj", "{9573F1E1-843C-43B0-B567-5CFDD9630471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286B4ADA-A2D4-4E6D-83CE-022BDFF55037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286B4ADA-A2D4-4E6D-83CE-022BDFF55037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286B4ADA-A2D4-4E6D-83CE-022BDFF55037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286B4ADA-A2D4-4E6D-83CE-022BDFF55037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BA380B9-383D-4713-9896-CCB13A8E692E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA380B9-383D-4713-9896-CCB13A8E692E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA380B9-383D-4713-9896-CCB13A8E692E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA380B9-383D-4713-9896-CCB13A8E692E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9573F1E1-843C-43B0-B567-5CFDD9630471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9573F1E1-843C-43B0-B567-5CFDD9630471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9573F1E1-843C-43B0-B567-5CFDD9630471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9573F1E1-843C-43B0-B567-5CFDD9630471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

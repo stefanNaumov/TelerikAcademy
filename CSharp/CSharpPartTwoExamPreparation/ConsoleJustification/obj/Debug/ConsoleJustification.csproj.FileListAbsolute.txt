@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\ConsoleJustification\bin\Debug\ConsoleJustification.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\ConsoleJustification\bin\Debug\ConsoleJustification.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\ConsoleJustification\obj\Debug\ConsoleJustification.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\ConsoleJustification\obj\Debug\ConsoleJustification.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\ConsoleJustification\obj\Debug\ConsoleJustification.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\obj\Debug\DefiningClassesPartOne.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\bin\Debug\DefiningClassesPartOne.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\bin\Debug\DefiningClassesPartOne.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\bin\Debug\Belot.Common.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\bin\Debug\Belot.StefanAI.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\bin\Debug\Belot.Common.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\bin\Debug\Belot.StefanAI.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\obj\Debug\DefiningClassesPartOne.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DefiningClassesPartOne\obj\Debug\DefiningClassesPartOne.pdb

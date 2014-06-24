@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\02.LinkedIn\bin\02.LinkedIn.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\02.LinkedIn\bin\02.LinkedIn.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\02.LinkedIn\obj\Debug\02.LinkedIn.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\02.LinkedIn\obj\Debug\02.LinkedIn.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\02.LinkedIn\obj\Debug\02.LinkedIn.csprojResolveAssemblyReference.cache

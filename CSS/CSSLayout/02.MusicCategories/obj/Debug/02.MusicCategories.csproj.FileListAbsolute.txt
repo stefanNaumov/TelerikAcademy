@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\02.MusicCategories\bin\02.MusicCategories.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\02.MusicCategories\bin\02.MusicCategories.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\02.MusicCategories\obj\Debug\02.MusicCategories.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\02.MusicCategories\obj\Debug\02.MusicCategories.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\02.MusicCategories\obj\Debug\02.MusicCategories.csprojResolveAssemblyReference.cache

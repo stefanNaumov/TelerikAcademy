@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\08.AddTwoNumsAsArrays\bin\Debug\08.AddTwoNumsAsArrays.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\08.AddTwoNumsAsArrays\bin\Debug\08.AddTwoNumsAsArrays.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\08.AddTwoNumsAsArrays\obj\Debug\08.AddTwoNumsAsArrays.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\08.AddTwoNumsAsArrays\obj\Debug\08.AddTwoNumsAsArrays.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\08.AddTwoNumsAsArrays\obj\Debug\08.AddTwoNumsAsArrays.csprojResolveAssemblyReference.cache

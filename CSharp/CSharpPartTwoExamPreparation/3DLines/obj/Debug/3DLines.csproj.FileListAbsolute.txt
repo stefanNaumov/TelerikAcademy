@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DLines\bin\Debug\3DLines.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DLines\bin\Debug\3DLines.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DLines\obj\Debug\3DLines.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DLines\obj\Debug\3DLines.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DLines\obj\Debug\3DLines.pdb

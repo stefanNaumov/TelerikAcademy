@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\02.CirclePerimeterAndAreaFromRadius\bin\Debug\02.CirclePerimeterAndAreaFromRadius.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\02.CirclePerimeterAndAreaFromRadius\bin\Debug\02.CirclePerimeterAndAreaFromRadius.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\02.CirclePerimeterAndAreaFromRadius\obj\Debug\02.CirclePerimeterAndAreaFromRadius.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\02.CirclePerimeterAndAreaFromRadius\obj\Debug\02.CirclePerimeterAndAreaFromRadius.pdb

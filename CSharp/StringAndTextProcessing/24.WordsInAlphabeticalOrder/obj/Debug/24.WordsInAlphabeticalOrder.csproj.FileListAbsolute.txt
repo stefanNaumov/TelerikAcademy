@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\24.WordsInAlphabeticalOrder\bin\Debug\24.WordsInAlphabeticalOrder.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\24.WordsInAlphabeticalOrder\bin\Debug\24.WordsInAlphabeticalOrder.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\24.WordsInAlphabeticalOrder\obj\Debug\24.WordsInAlphabeticalOrder.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\24.WordsInAlphabeticalOrder\obj\Debug\24.WordsInAlphabeticalOrder.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\24.WordsInAlphabeticalOrder\obj\Debug\24.WordsInAlphabeticalOrder.pdb

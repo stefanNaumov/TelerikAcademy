@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\02.BombingCuboids\bin\Debug\02.BombingCuboids.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\02.BombingCuboids\bin\Debug\02.BombingCuboids.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\02.BombingCuboids\obj\Debug\02.BombingCuboids.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\02.BombingCuboids\obj\Debug\02.BombingCuboids.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\02.BombingCuboids\obj\Debug\02.BombingCuboids.pdb

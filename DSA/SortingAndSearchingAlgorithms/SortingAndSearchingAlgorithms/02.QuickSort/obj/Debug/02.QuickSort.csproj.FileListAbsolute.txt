@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\obj\Debug\02.QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\bin\Debug\02.QuickSort.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\bin\Debug\02.QuickSort.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\obj\Debug\02.QuickSort.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\obj\Debug\02.QuickSort.pdb

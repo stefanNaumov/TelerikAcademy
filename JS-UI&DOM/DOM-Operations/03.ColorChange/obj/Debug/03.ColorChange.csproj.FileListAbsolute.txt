@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\03.ColorChange\bin\03.ColorChange.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\03.ColorChange\bin\03.ColorChange.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\03.ColorChange\obj\Debug\03.ColorChange.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\03.ColorChange\obj\Debug\03.ColorChange.pdb

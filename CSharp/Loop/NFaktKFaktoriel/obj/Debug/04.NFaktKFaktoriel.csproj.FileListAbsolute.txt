@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\obj\Debug\NFaktKFaktoriel.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\obj\Debug\NFaktKFaktoriel.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\bin\Debug\NFaktKFaktoriel.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\bin\Debug\NFaktKFaktoriel.pdb

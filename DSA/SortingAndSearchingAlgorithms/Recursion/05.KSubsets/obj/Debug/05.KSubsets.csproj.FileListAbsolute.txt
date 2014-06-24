@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\05.KSubsets\bin\Debug\05.KSubsets.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\05.KSubsets\bin\Debug\05.KSubsets.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\05.KSubsets\obj\Debug\05.KSubsets.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\05.KSubsets\obj\Debug\05.KSubsets.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\05.KSubsets\obj\Debug\05.KSubsets.pdb

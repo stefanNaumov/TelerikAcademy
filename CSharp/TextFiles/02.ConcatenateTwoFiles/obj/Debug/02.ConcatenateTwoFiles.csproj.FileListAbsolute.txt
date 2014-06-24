@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe
+c:\users\stefan\documents\visual studio 2012\Projects\TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.exe
+c:\users\stefan\documents\visual studio 2012\Projects\TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSOperatorsAndExpressions\OperatorsAndExpressions\bin\OperatorsAndExpressions.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSOperatorsAndExpressions\OperatorsAndExpressions\bin\OperatorsAndExpressions.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSOperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSOperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSOperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\OperatorsAndExpressions.pdb

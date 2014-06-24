@@ -1,0 +1,137 @@
+﻿body {
+  background-color:rgb(245, 242, 241);
+}
+dt {
+    margin-top:8px;
+    color:rgb(155, 14, 14);
+    font-weight:800;
+}
+#TutorialPage {
+    border: 2px solid rgb(169, 163, 163);
+}
+#homeIcon {
+    width:20px;
+    height:30px;
+    padding:5px;
+    vertical-align:bottom;
+}
+#CSSLogo {
+    float:left;
+    width:120px;
+    height:80px;
+    margin-left:10px;
+}
+#asideLogo {
+    margin-left:25px;
+    display:inline-block;
+    width:500px;
+}
+nav a {
+    text-decoration:none;
+}
+dd {
+    margin: 0;
+    font-size:14px;
+}
+    dd a {
+        color:black;
+    }
+section {
+    padding:5px;
+    padding-top:0;
+    position:fixed;
+    top:12px;
+    left:240px;
+    border: 2px solid rgb(183, 180, 178);
+    width:660px;
+}
+   
+    section hr {
+        color:rgb(183, 180, 178);
+        margin:7px 0; 
+    }
+    section hr:last-of-type {
+        margin-bottom:30px;
+    }
+    section button {
+        border: 1px solid rgb(169, 163, 163);
+        width:120px;
+    }
+    section .prev span{
+        float:left;
+    }
+    section .next span {
+        float:right;
+    }
+    section h4 {
+        background-color:rgb(150, 146, 144);
+        color:white;
+        font-family:Arial;
+        font-weight:400;
+        padding-left:3px;
+        
+    }
+    section .logoParagrph {
+        font-weight:700;
+        font-size:18px;
+        display:inline-block;
+        margin:0;
+        margin-bottom:10px;
+    }
+.redLink {
+            color:rgb(155, 14, 14);
+            font-weight:700;
+            font-size:18px;
+        }
+aside {
+    position:fixed;
+    top:12px;
+    right:300px;
+    border:2px solid rgb(169, 163, 163);
+    width:220px;
+}
+    aside h4 {
+        margin:0;
+        background-color:rgb(150, 146, 144);
+        color:white;
+        font-family:Arial;
+        font-weight:400;
+        text-align:center;
+    }
+    aside input {
+        width:140px;
+        margin: 6px 0px 6px 30px;
+        
+    }
+    aside #searchBtn {
+        width:20px;
+        height:18px;
+        margin:0;
+        margin-left:5px;
+        position:relative;
+        border-color:rgb(117, 126, 180);
+        border-width:0.5mm;
+    }
+    aside p {
+        margin:0;
+        margin-left:10px;
+        text-align:center;
+    }
+        
+    aside .asideLine {
+        margin:0;
+        margin-top:3px;
+        margin-bottom:3px;
+        background-color:rgb(167, 162, 160);
+        height:2px;
+    }
+    aside #stylesBtn {
+        margin:3px 50px;
+        width:130px;
+        height:50px;
+        background-color:rgba(93, 216, 212,0.3);
+        color:rgb(47, 212, 197);
+        font-weight:700;
+        border-color:rgba(130, 137, 235, 0.4);
+    }
+  

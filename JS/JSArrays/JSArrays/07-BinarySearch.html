@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Find Index</title>
+</head>
+<body>
+    <label>Enter start value: </label>
+    <input type="text" id="startValue"/>
+    <label>Enter end value: </label>
+    <input type="text" id="endValue"/>
+    <label>Enter value to find it's index: </label>
+    <input type="text" id="indexValue"/>
+
+    <input type="submit" onclick="binarySearch()"/>
+    <script>
+        function binarySearch() {
+
+            var start = parseInt(document.getElementById('startValue').value);
+            var end = parseInt(document.getElementById('endValue').value);
+            var elementToFind = document.getElementById('indexValue').value;
+
+            //fill array
+            var arr = new Array();
+            for (var i = start; i < end; i++) {
+                var currElement = i;
+                arr.push(currElement);
+            }
+            
+            var startIndex = 0;
+            var middleIndex = -1;
+            var endIndex = parseInt(arr.length);
+            var hasFoundElement = false
+            while (startIndex < endIndex) {
+
+                //must parse to int - JS does not round the number to integer
+                middleIndex = parseInt((startIndex + endIndex) / 2);
+                
+                if (arr[middleIndex] < elementToFind) {
+                    startIndex = parseInt(middleIndex + 1);
+                }
+                else if (arr[middleIndex] > elementToFind) {
+                    endIndex = parseInt(middleIndex - 1);
+                }
+                if (arr[middleIndex] == elementToFind) {
+                    hasFoundElement = true;
+                    break;
+                }
+                
+            }
+            
+            if (!hasFoundElement) {
+                document.writeln("No such key!");
+            }
+            
+            else {
+               document.writeln("Index is: " + middleIndex);
+            }
+        }
+    </script>
+</body>
+</html>

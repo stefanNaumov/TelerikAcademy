@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\09.QueueSequence\bin\Debug\09.QueueSequence.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\09.QueueSequence\bin\Debug\09.QueueSequence.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\09.QueueSequence\obj\Debug\09.QueueSequence.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\09.QueueSequence\obj\Debug\09.QueueSequence.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\09.QueueSequence\obj\Debug\09.QueueSequence.pdb

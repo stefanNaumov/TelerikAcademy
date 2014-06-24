@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TelerikLogo", "01.TelerikLogo\01.TelerikLogo.csproj", "{A8F54822-A436-4FC7-98D9-90798354EBF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.YouTubeLogo", "02.YouTubeLogo\02.YouTubeLogo.csproj", "{C6B89B6D-E144-4B00-9714-E1A3A7EDD351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F54822-A436-4FC7-98D9-90798354EBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F54822-A436-4FC7-98D9-90798354EBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F54822-A436-4FC7-98D9-90798354EBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F54822-A436-4FC7-98D9-90798354EBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B89B6D-E144-4B00-9714-E1A3A7EDD351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B89B6D-E144-4B00-9714-E1A3A7EDD351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B89B6D-E144-4B00-9714-E1A3A7EDD351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B89B6D-E144-4B00-9714-E1A3A7EDD351}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

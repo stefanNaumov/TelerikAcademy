@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Compare three integers</title>
+    <link rel="stylesheet" href="js-console.css"/>
+</head>
+<body>
+    <div>
+        <label for="firstValue">Enter first value: </label>
+        <input type="text" id="firstValue"/>
+        <label for="secondValue">Enter second value: </label>
+        <input type="text" id="secondValue"/>
+        <label for="secondValue">Enter third value: </label>
+        <input type="text" id="thirdValue"/>
+        <button onclick="CompareThreeValues()">Compare</button>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function CompareThreeValues() {
+            var greatest;
+            var firstNum = jsConsole.readInteger("#firstValue");
+            var secNum = jsConsole.readInteger("#secondValue");
+            var thirdNum = jsConsole.readInteger("#thirdValue");
+            if (firstNum > secNum) {
+                if (firstNum > thirdNum && thirdNum > secNum) {
+                    greatest = firstNum;
+                }
+                else if (firstNum > thirdNum && thirdNum < secNum) {
+                    greatest = firstNum;
+                }
+                else {
+                    greatest = thirdNum;
+                }
+
+            }
+            else if (firstNum < secNum && firstNum > thirdNum) {
+                greatest = secNum;
+            }
+            else {
+                if (firstNum < secNum && firstNum < thirdNum) {
+                    smallest = firstNum;
+                    if (secNum > thirdNum) {
+                        greatest = secNum;
+                    }
+                    else {
+                        greatest = thirdNum;
+                    }
+
+                }
+            }
+            jsConsole.writeLine("The greatest number is: " + greatest);
+            
+        }
+    </script>
+</body>
+</html>

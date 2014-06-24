@@ -1,0 +1,4 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\14.Dictionary\bin\Debug\14.Dictionary.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\14.Dictionary\bin\Debug\14.Dictionary.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\14.Dictionary\obj\Debug\14.Dictionary.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\14.Dictionary\obj\Debug\14.Dictionary.pdb

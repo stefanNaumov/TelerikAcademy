@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\MissCat2011\bin\Release\MissCat2011.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\MissCat2011\bin\Release\MissCat2011.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\MissCat2011\obj\Release\MissCat2011.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\MissCat2011\obj\Release\MissCat2011.pdb

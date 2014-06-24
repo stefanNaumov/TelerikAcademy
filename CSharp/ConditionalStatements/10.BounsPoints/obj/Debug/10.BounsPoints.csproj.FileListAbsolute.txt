@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BounsPoints\bin\Debug\10.BounsPoints.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BounsPoints\bin\Debug\10.BounsPoints.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BounsPoints\obj\Debug\10.BounsPoints.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\10.BounsPoints\obj\Debug\10.BounsPoints.pdb

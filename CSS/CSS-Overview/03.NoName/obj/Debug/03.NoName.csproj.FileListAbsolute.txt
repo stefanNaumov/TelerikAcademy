@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\03.NoName\bin\03.NoName.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\03.NoName\bin\03.NoName.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\03.NoName\obj\Debug\03.NoName.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\03.NoName\obj\Debug\03.NoName.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\03.NoName\obj\Debug\03.NoName.pdb

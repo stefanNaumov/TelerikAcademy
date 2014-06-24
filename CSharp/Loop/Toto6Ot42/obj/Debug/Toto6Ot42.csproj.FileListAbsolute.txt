@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Toto6Ot42\bin\Debug\Toto6Ot42.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Toto6Ot42\bin\Debug\Toto6Ot42.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Toto6Ot42\obj\Debug\Toto6Ot42.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Toto6Ot42\obj\Debug\Toto6Ot42.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Toto6Ot42\obj\Debug\Toto6Ot42.pdb

@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\02.OddNumberOfStrings\bin\Debug\02.OddNumberOfStrings.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\02.OddNumberOfStrings\bin\Debug\02.OddNumberOfStrings.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\02.OddNumberOfStrings\obj\Debug\02.OddNumberOfStrings.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\02.OddNumberOfStrings\obj\Debug\02.OddNumberOfStrings.pdb

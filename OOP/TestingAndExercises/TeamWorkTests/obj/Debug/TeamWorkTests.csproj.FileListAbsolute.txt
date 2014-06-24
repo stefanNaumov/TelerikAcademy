@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TeamWorkTests\bin\Debug\TeamWorkTests.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TeamWorkTests\bin\Debug\TeamWorkTests.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TeamWorkTests\obj\Debug\TeamWorkTests.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TeamWorkTests\obj\Debug\TeamWorkTests.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\TeamWorkTests\obj\Debug\TeamWorkTests.csprojResolveAssemblyReference.cache

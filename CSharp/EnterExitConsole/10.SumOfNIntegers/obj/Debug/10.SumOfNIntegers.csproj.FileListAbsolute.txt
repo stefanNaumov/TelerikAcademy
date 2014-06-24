@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\10.SumOfNIntegers\bin\Debug\10.SumOfNIntegers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\10.SumOfNIntegers\bin\Debug\10.SumOfNIntegers.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\10.SumOfNIntegers\obj\Debug\10.SumOfNIntegers.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\10.SumOfNIntegers\obj\Debug\10.SumOfNIntegers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\10.SumOfNIntegers\obj\Debug\10.SumOfNIntegers.pdb

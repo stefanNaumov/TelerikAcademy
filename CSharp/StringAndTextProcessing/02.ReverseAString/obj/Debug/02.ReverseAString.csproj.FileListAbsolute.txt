@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\02.ReverseAString\bin\Debug\02.ReverseAString.exe
+c:\users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\02.ReverseAString\bin\Debug\02.ReverseAString.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\02.ReverseAString\obj\Debug\02.ReverseAString.exe
+c:\users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\02.ReverseAString\obj\Debug\02.ReverseAString.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\02.ReverseAString\obj\Debug\02.ReverseAString.csprojResolveAssemblyReference.cache

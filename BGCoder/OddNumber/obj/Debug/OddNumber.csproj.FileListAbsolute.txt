@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\OddNumber\bin\Debug\OddNumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\OddNumber\bin\Debug\OddNumber.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\OddNumber\obj\Debug\OddNumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\OddNumber\obj\Debug\OddNumber.pdb

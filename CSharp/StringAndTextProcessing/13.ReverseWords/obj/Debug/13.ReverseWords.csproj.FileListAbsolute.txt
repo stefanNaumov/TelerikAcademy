@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\13.ReverseWords\bin\Debug\13.ReverseWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\13.ReverseWords\bin\Debug\13.ReverseWords.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\13.ReverseWords\obj\Debug\13.ReverseWords.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\13.ReverseWords\obj\Debug\13.ReverseWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\13.ReverseWords\obj\Debug\13.ReverseWords.pdb

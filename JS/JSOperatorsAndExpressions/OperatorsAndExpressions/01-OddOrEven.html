@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="styles/js-console.css" rel="stylesheet"/>
+</head>
+<body>
+    <div>
+        <label for="number">Enter number:</label>
+        <input type="text" id="number"/>
+        <button onclick="CheckOddOrEven()">Check</button>
+    </div>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+        <script>
+            function CheckOddOrEven() {
+                var num = jsConsole.read("#number");
+                if (num % 2 == 0) {
+                    jsConsole.writeLine(num + " is even!")
+                }
+                else {
+                    jsConsole.writeLine(num + " is odd!");
+                }
+
+                //If you don't have the JS Console uncomment the following code and view results in the browser console
+                //var num = document.getElementsByTagName("input")[0].value;
+                //if (num % 2 == 0) {
+
+                //    console.log(num + " is even!");
+                //}
+                //else {
+                //    console.log(num + " is odd!");
+                //}
+            }
+        </script>
+</body>
+</html>

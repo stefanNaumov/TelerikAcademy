@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\BitBall\bin\Release\BitBall.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\BitBall\bin\Release\BitBall.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\BitBall\obj\Release\BitBall.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\BitBall\obj\Release\BitBall.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\BitBall\obj\Release\BitBall.csprojResolveAssemblyReference.cache

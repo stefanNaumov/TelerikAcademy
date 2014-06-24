@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JQuery.js"></script>
+</head>
+    <style>
+        button{
+           display:block;
+        }
+    </style>
+<body>
+    <button>Click</button>
+    <script>
+        $(document).ready(function () {
+
+            $('button').on('click', function () {
+
+                $(this).before(document.createElement('div').innerHTML = 'inserted before');
+                $(this).after(document.createElement('div').innerText = 'inserted after');
+            });
+        })
+    </script>
+</body>
+</html>

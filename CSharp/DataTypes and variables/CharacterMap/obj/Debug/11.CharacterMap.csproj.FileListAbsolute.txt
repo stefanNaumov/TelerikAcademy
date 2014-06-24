@@ -1,0 +1,6 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\CharacterMap\obj\Debug\11.CharacterMap.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\CharacterMap\bin\Debug\CharacterMap.exe.config
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\CharacterMap\bin\Debug\CharacterMap.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\CharacterMap\bin\Debug\CharacterMap.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\CharacterMap\obj\Debug\CharacterMap.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\CharacterMap\obj\Debug\CharacterMap.pdb

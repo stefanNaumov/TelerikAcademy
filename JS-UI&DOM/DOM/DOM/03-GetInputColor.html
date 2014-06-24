@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="color"/>
+    <button onclick="getInputColor()">Set Background</button>
+
+    <script>
+        function getInputColor() {
+
+            var inputColor = document.getElementsByTagName('input')[0].value;
+            console.log(inputColor);
+            document.body.style.backgroundColor = inputColor;
+        }
+    </script>
+</body>
+</html>

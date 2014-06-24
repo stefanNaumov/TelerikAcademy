@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\07.FromBaseSToBaseD\obj\Debug\07.FromBaseSToBaseD.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\07.FromBaseSToBaseD\bin\Debug\07.FromBaseSToBaseD.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\07.FromBaseSToBaseD\bin\Debug\07.FromBaseSToBaseD.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\07.FromBaseSToBaseD\obj\Debug\07.FromBaseSToBaseD.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\07.FromBaseSToBaseD\obj\Debug\07.FromBaseSToBaseD.pdb

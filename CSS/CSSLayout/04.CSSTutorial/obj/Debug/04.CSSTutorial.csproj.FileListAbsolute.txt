@@ -1,0 +1,10 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\04.CSSTutorial\bin\04.CSSTutorial.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\04.CSSTutorial\bin\04.CSSTutorial.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\04.CSSTutorial\obj\Debug\04.CSSTutorial.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\04.CSSTutorial\obj\Debug\04.CSSTutorial.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\04.CSSTutorial\obj\Debug\04.CSSTutorial.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04.CSSTutorial\bin\04.CSSTutorial.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04.CSSTutorial\bin\04.CSSTutorial.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04.CSSTutorial\obj\Debug\04.CSSTutorial.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04.CSSTutorial\obj\Debug\04.CSSTutorial.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\04.CSSTutorial\obj\Debug\04.CSSTutorial.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\08.ReadNumberStartEnd\bin\Debug\08.ReadNumberStartEnd.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\08.ReadNumberStartEnd\bin\Debug\08.ReadNumberStartEnd.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\08.ReadNumberStartEnd\obj\Debug\08.ReadNumberStartEnd.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\08.ReadNumberStartEnd\obj\Debug\08.ReadNumberStartEnd.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\08.ReadNumberStartEnd\obj\Debug\08.ReadNumberStartEnd.pdb

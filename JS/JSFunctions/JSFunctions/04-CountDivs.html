@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>Some div</div>
+    <div>Some div</div>
+    <div>Some div</div>
+    <p>Not a div</p>
+    <div>Some div</div>
+
+    <button onclick="countDivs()">Count divs!</button>
+    <script>
+        function countDivs() {
+            var divs = document.getElementsByTagName("div");
+            document.writeln("Number of divs is: " + divs.length);
+        }
+    </script>
+</body>
+</html>

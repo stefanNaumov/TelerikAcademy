@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="wrapper" style="border:1px solid black">
+        <h3>Coefficients</h3>
+        <label for="coeffA">A:</label>
+        <input type="text" id="coeffA" name="A"/>
+        <label for="coeffB">B:</label>
+        <input type="text" id="coeffB" name="B"/>
+        <label for="coeffC">C:</label>
+        <input type="text" id="coeffC" name="C"/>
+
+        <button onclick="findRealRoots()">Find Roots</button>
+    </div>
+    <script>
+        function findRealRoots() {
+
+            var a = parseInt(document.getElementsByName('A')[0].value);
+            var b = parseInt(document.getElementsByName('B')[0].value);
+            var c = parseInt(document.getElementsByName('C')[0].value);
+            
+            var discriminant = (b * b) - (4 * (a * c));
+
+            if (discriminant < 0) {
+
+                document.writeln("The equation has no real roots!");
+            }
+            else if (discriminant == 0) {
+                var root = -b / 2 * a;
+                document.writeln("The equation's real root is: " + root);
+            }
+            else {
+                var rootOne = (-b + Math.sqrt(discriminant)) / a;
+                var rootTwo = (-b - Math.sqrt(discriminant)) / a;
+
+                document.writeln("Root one is: " + rootOne);
+                document.writeln("Root two is: " + rootTwo);
+            }
+        }
+    </script>
+</body>
+</html>

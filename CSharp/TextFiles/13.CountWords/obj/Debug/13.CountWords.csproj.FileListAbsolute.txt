@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\13.CountWords\bin\Debug\13.CountWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\13.CountWords\bin\Debug\13.CountWords.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\13.CountWords\obj\Debug\13.CountWords.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\13.CountWords\obj\Debug\13.CountWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\13.CountWords\obj\Debug\13.CountWords.pdb

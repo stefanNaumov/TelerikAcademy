@@ -1,0 +1,10 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSPresentation\01.LoremIpsum\bin\01.LoremIpsum.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSPresentation\01.LoremIpsum\bin\01.LoremIpsum.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSPresentation\01.LoremIpsum\obj\Debug\01.LoremIpsum.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSPresentation\01.LoremIpsum\obj\Debug\01.LoremIpsum.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSPresentation\01.LoremIpsum\obj\Debug\01.LoremIpsum.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\01.LoremIpsum\bin\01.LoremIpsum.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\01.LoremIpsum\bin\01.LoremIpsum.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\01.LoremIpsum\obj\Debug\01.LoremIpsum.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\01.LoremIpsum\obj\Debug\01.LoremIpsum.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\01.LoremIpsum\obj\Debug\01.LoremIpsum.pdb

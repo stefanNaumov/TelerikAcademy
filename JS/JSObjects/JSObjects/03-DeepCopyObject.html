@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Deep Copy Of An Object</title>
+    <link rel="stylesheet" href="js-console.css"/>
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        var person = {
+            age: 25,
+            name: "Pesho"
+        };
+        
+        function cloneObject(obj) {
+            var clone = {};
+
+            for (var i in obj) {
+                if (typeof obj[i] == "object" && obj[i] != null) {
+                    clone[i] = cloneObject(obj[i]);
+                }
+                else {
+                    clone[i] = obj[i];
+                }
+            }
+            return clone;
+        };
+        var secPerson = cloneObject(person);
+        for (var i in secPerson) {
+            jsConsole.write(secPerson[i] + " ");
+        }
+    </script>
+</body>
+</html>

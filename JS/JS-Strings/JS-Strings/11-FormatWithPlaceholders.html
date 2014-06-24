@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var format = "{0}, {1}, {0} text {2}";
+        var stringFormat = stringFormat(format, 1, "Pesho", "Gosho");
+        document.write(stringFormat);
+
+        function stringFormat(format) {
+            var result = format;
+
+            for (var i = 0;len = arguments.length, i < len - 1; i++) {
+
+                var pattern = "\\{" + i + "\\}";
+                var regEx = new RegExp(pattern, "g");
+
+                result = result.replace(regEx, arguments[i + 1] + " ");
+            }
+            return result;
+        }
+    </script>
+</body>
+</html>

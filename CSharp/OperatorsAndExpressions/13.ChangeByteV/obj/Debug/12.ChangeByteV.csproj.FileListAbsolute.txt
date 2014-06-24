@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ChangeByteV\obj\Debug\13.ChangeByteV.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ChangeByteV\obj\Debug\13.ChangeByteV.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ChangeByteV\bin\Debug\13.ChangeByteV.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ChangeByteV\bin\Debug\13.ChangeByteV.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\02.windows8\bin\02.windows8.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\02.windows8\bin\02.windows8.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\02.windows8\obj\Debug\02.windows8.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\02.windows8\obj\Debug\02.windows8.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\02.windows8\obj\Debug\02.windows8.pdb

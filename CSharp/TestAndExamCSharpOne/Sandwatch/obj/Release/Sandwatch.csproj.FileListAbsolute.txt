@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Sandwatch\bin\Release\Sandwatch.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Sandwatch\bin\Release\Sandwatch.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Sandwatch\obj\Release\Sandwatch.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Sandwatch\obj\Release\Sandwatch.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\Sandwatch\obj\Release\Sandwatch.csprojResolveAssemblyReference.cache

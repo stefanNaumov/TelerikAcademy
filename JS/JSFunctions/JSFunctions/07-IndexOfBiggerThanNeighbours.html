@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea placeholder="Enter numbers with space between them" id="numbersInput"></textarea>
+    <input type="submit" onclick="IndexOfBiggerThanNeighbours() "/>
+    <script>
+        function IndexOfBiggerThanNeighbours() {
+
+            var numbersStr = document.getElementById("numbersInput").value;
+            var numbersArr = new Int32Array(numbersStr.split(' '));
+            var isBiggerThanNeighbours = false;
+            var firstIndexBiggerThanNeighbours;
+            for (var i = 0; i < numbersArr.length; i++) {
+
+                if (i > 0 && i < numbersArr.length - 1) {
+
+                    if (numbersArr[i] > numbersArr[i - 1] && numbersArr[i] > numbersArr[i + 1]) {
+
+                        isBiggerThanNeighbours = true;
+                        firstIndexBiggerThanNeighbours = i;
+                        break;
+                    }
+                }
+            }
+            if (isBiggerThanNeighbours) {
+                document.write("Index of the first element bigger than it's neighbours is: " + firstIndexBiggerThanNeighbours);
+            }
+            else {
+                document.write("No such element!");
+            }
+
+        }
+
+    </script>
+</body>
+</html>

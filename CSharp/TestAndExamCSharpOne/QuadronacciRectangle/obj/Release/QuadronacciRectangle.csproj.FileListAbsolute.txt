@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\QuadronacciRectangle\bin\Release\QuadronacciRectangle.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\QuadronacciRectangle\bin\Release\QuadronacciRectangle.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\QuadronacciRectangle\obj\Release\QuadronacciRectangle.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\QuadronacciRectangle\obj\Release\QuadronacciRectangle.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\QuadronacciRectangle\obj\Release\QuadronacciRectangle.pdb

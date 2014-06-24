@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\HeartSymbol\obj\Debug\10.HeartSymbol.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\HeartSymbol\bin\Debug\HeartSymbol.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\HeartSymbol\bin\Debug\HeartSymbol.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\HeartSymbol\obj\Debug\HeartSymbol.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\HeartSymbol\obj\Debug\HeartSymbol.pdb

@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\pkpkp\bin\Debug\pkpkp.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\pkpkp\bin\Debug\pkpkp.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\pkpkp\bin\Debug\pkpkp.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\pkpkp\obj\Debug\pkpkp.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\pkpkp\obj\Debug\pkpkp.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\pkpkp\obj\Debug\pkpkp.pdb

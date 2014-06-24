@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\FourNumberInteger\bin\Debug\FourNumberInteger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\FourNumberInteger\bin\Debug\FourNumberInteger.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\FourNumberInteger\obj\Debug\10.FourNumberInteger.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\FourNumberInteger\obj\Debug\FourNumberInteger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\FourNumberInteger\obj\Debug\FourNumberInteger.pdb

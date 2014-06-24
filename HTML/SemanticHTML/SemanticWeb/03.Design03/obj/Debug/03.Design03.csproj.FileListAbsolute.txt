@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\03.Design03\bin\03.Design03.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\03.Design03\bin\03.Design03.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\03.Design03\obj\Debug\03.Design03.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\03.Design03\obj\Debug\03.Design03.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\SemanticWeb\03.Design03\obj\Debug\03.Design03.pdb

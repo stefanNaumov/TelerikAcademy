@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\12.ASCIITable\bin\Debug\12.ASCIITable.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\12.ASCIITable\bin\Debug\12.ASCIITable.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\12.ASCIITable\obj\Debug\12.ASCIITable.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\12.ASCIITable\obj\Debug\12.ASCIITable.pdb

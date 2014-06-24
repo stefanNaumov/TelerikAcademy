@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\10.StringToUnicode\bin\Debug\10.StringToUnicode.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\10.StringToUnicode\bin\Debug\10.StringToUnicode.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\10.StringToUnicode\obj\Debug\10.StringToUnicode.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\10.StringToUnicode\obj\Debug\10.StringToUnicode.pdb

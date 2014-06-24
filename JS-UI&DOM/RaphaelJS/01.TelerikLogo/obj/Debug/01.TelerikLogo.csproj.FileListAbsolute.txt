@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\01.TelerikLogo\bin\01.TelerikLogo.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\01.TelerikLogo\bin\01.TelerikLogo.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\01.TelerikLogo\obj\Debug\01.TelerikLogo.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\01.TelerikLogo\obj\Debug\01.TelerikLogo.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\01.TelerikLogo\obj\Debug\01.TelerikLogo.pdb

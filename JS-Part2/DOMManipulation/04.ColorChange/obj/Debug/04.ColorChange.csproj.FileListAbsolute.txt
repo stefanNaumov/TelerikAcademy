@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\04.ColorChange\bin\04.ColorChange.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\04.ColorChange\bin\04.ColorChange.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\04.ColorChange\obj\Debug\04.ColorChange.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\04.ColorChange\obj\Debug\04.ColorChange.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\04.ColorChange\obj\Debug\04.ColorChange.pdb

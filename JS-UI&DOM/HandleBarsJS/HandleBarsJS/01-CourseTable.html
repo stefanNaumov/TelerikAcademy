@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+    <style>
+        table{
+            border-collapse:collapse;
+        }
+        th,td{
+            border:1px solid black;
+        }
+        tr:nth-of-type(2n){
+            background-color:gray;
+        }
+    </style>
+<body>
+    <script id="table-template" type="text/x-handlebars-template">
+        <table>
+            <thead>
+                <tr>
+                    <th>№</th>
+                    <th>Title</th>
+                    <th>Date 1</th>
+                    <th>Date 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each courses}}
+                <tr>
+                    <td>{{@index}}</td>
+                    <td>{{name}}</td>
+                    <td>{{firstDate}}</td>
+                    <td>{{secondDate}}</td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </script>
+    <script src="handlebars-v1.3.0.js"></script>
+
+    <script>
+        var templateNode = document.getElementById('table-template');
+        var templateStr = templateNode.innerHTML;
+        var template = Handlebars.compile(templateStr);
+
+        var courses = [
+            {
+                name: 'Course introduction',
+                firstDate: '28.05.2014 18:00',
+                secondDate:'29.05.2014 14:00'
+            },
+            {
+                name: 'DOM',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'HTML5 Canvas',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'KinteicJS Overview',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'SVG & Raphael',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'Animations',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'DOM operations',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'Events',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'JQuery',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'HTML Templates',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'Exam preparaciq',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'Preparaciq',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+            {
+                name: 'Team Work izlagaciq',
+                firstDate: '28.05.2014 18:00',
+                secondDate: '29.05.2014 14:00'
+            },
+        ];
+
+        var coursesHTML = template({
+            courses: courses
+        });
+        document.body.innerHTML += coursesHTML;
+    </script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="js-console.css"/>
+    <title>Max sequence of equal elements</title>
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        var array = [2, 1, 1, 2, 3, 3, 2, 2, 2, 1];
+        var startIndex;
+        var longestSequence = 0;
+        for (var i = 0; i < array.length - 1; i++) {
+            var tempCounter = 0;
+            for (var j = i + 1; j < array.length; j++) {
+
+                if (array[i] == array[j]) {
+                    tempCounter++;
+                    if (tempCounter > longestSequence) {
+                        longestSequence = tempCounter;
+                        startIndex = j;
+                    }
+                }
+                else {
+                    break;
+                }
+            }
+        }
+        //Print Array
+        jsConsole.writeLine("Array: ");
+        for (var i = 0; i < array.length; i++) {
+            
+            jsConsole.write(array[i] + " ");
+        }
+        jsConsole.writeLine(startIndex);
+        jsConsole.writeLine("The longest sequence of equal elements is: ");
+        //Print Array from the calculated index
+        for (var i = startIndex; i >= startIndex - longestSequence ; i--) {
+            jsConsole.write(array[i] + " ");
+        }
+    </script>
+</body>
+</html>

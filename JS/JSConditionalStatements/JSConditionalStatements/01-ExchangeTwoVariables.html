@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Exchange values</title>
+    <link rel="stylesheet" href="js-console.css"/>
+</head>
+<body>
+    <div>
+        <label for="firstValue">Enter first value: </label>
+        <input type="text" id="firstValue"/>
+        <label for="secondValue">Enter second value: </label>
+        <input type="text" id="secondValue"/>
+        <button onclick="ExchangeValues()">Exchange</button>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function ExchangeValues() {
+            var firstNum = jsConsole.readInteger("#firstValue");
+            var secNumber = jsConsole.readInteger("#secondValue");
+            if (firstNum > secNumber) {
+                var temp = firstNum;
+                firstNum = secNumber;
+                secNumber = temp;
+                jsConsole.writeLine("First number is: " + firstNum);
+                jsConsole.writeLine("Second number is: " + secNumber);
+            }
+            else {
+                jsConsole.writeLine("The first value is not greater than the second!");
+            }
+        }
+    </script>
+</body>
+</html>

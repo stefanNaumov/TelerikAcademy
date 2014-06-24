@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\08.ShortToBinary\bin\Debug\08.ShortToBinary.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\08.ShortToBinary\obj\Debug\08.ShortToBinary.pdb

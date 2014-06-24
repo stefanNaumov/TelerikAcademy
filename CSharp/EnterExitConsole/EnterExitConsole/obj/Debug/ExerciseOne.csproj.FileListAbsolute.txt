@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\EnterExitConsole\bin\Debug\EnterExitConsole.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\EnterExitConsole\bin\Debug\EnterExitConsole.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\EnterExitConsole\obj\Debug\ExerciseOne.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\EnterExitConsole\obj\Debug\EnterExitConsole.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\EnterExitConsole\obj\Debug\EnterExitConsole.pdb

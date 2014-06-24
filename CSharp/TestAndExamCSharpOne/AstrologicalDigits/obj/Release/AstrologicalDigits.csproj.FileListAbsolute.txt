@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\AstrologicalDigits\bin\Release\AstrologicalDigits.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\AstrologicalDigits\bin\Release\AstrologicalDigits.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\AstrologicalDigits\obj\Release\AstrologicalDigits.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\AstrologicalDigits\obj\Release\AstrologicalDigits.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\AstrologicalDigits\obj\Release\AstrologicalDigits.pdb

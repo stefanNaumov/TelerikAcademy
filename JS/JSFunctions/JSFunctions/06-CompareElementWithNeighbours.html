@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea placeholder="Enter numbers with space between them" id="numbersInput"></textarea>
+    <input type="text" placeholder="Enter index of the target element" id="elementToCompare"/>
+    <input type="submit" onclick="compareElementbyIndex()"/>
+    <script>
+        function compareElementbyIndex() {
+
+            var numbersStr = document.getElementById("numbersInput").value;
+            var numbersArr = new Int32Array(numbersStr.split(' '));
+            var elementIndex = parseInt(document.getElementById("elementToCompare").value);
+            var isBiggerThanNeighbours = false;
+            //the element has neighbours
+            if (elementIndex >= 1 && elementIndex < numbersArr.length - 2) {
+
+                if (numbersArr[elementIndex] > numbersArr[elementIndex - 1]
+                    && numbersArr[elementIndex] > numbersArr[elementIndex + 1]) {
+                    isBiggerThanNeighbours = true;
+                }
+                if (isBiggerThanNeighbours) {
+                    document.write("The element is bigger than it's neighbours!");
+                }
+                else {
+                    document.write("The element is not bigger than it's neighbours!");
+                }
+            }
+            else {
+                document.write("The element has no neighbours!");
+            }
+            
+        }
+
+    </script>
+</body>
+</html>

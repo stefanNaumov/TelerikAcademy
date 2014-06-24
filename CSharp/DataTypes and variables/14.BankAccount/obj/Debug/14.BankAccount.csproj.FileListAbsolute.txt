@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\14.BankAccount\bin\Debug\14.BankAccount.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\14.BankAccount\bin\Debug\14.BankAccount.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\14.BankAccount\obj\Debug\14.BankAccount.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\14.BankAccount\obj\Debug\14.BankAccount.pdb

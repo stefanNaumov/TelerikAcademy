@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var text = "emails in text pesho.petrov@abv.bg and one more email ivan1@gmail.bg";
+        var emails = extractEmails(text);
+
+        for (var i = 0; i < emails.length; i++) {
+
+            document.write(emails[i]);
+            document.write("<br>");
+        }
+        function extractEmails(textStr) {
+            var regeEx = /\b\w+[\w\-]*(\.\w+[\w\-]*)*@[a-z0-9]+[a-z0-9-]*(\.[a-z0-9]+[a-z0-9-]*)*(\.[a-z]{2,6})\b/g;
+            var emails = [];
+            var match;
+            while (match = regeEx.exec(textStr)) {
+
+                emails.push(match[0]);
+            }
+            return emails;
+        }
+    </script>
+</body>
+</html>

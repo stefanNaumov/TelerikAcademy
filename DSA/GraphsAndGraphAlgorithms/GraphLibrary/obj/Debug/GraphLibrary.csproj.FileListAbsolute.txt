@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\GraphLibrary\obj\Debug\GraphLibrary.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\GraphLibrary\obj\Debug\GraphLibrary.pdb

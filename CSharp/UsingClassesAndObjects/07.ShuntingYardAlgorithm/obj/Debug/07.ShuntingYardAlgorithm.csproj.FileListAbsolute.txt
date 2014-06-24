@@ -1,0 +1,7 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\07.ShuntingYardAlgorithm\bin\Debug\07.ShuntingYardAlgorithm.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\07.ShuntingYardAlgorithm\bin\Debug\07.ShuntingYardAlgorithm.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\07.ShuntingYardAlgorithm\obj\Debug\07.ShuntingYardAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\07.ShuntingYardAlgorithm\obj\Debug\07.ShuntingYardAlgorithm.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\07.ShuntingYardAlgorithm\obj\Debug\07.ShuntingYardAlgorithm.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\C#\UsingClassesAndObjects\07.ShuntingYardAlgorithm\obj\Debug\07.ShuntingYardAlgorithm.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\C#\UsingClassesAndObjects\07.ShuntingYardAlgorithm\obj\Debug\07.ShuntingYardAlgorithm.pdb

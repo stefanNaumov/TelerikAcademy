@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\09.Workingdays\bin\Debug\09.Workingdays.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\09.Workingdays\bin\Debug\09.Workingdays.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\09.Workingdays\obj\Debug\09.Workingdays.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\09.Workingdays\obj\Debug\09.Workingdays.pdb

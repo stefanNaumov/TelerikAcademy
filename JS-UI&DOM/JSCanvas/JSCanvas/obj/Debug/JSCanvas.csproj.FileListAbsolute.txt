@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\JSCanvas\JSCanvas\bin\JSCanvas.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\JSCanvas\JSCanvas\bin\JSCanvas.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\JSCanvas\JSCanvas\obj\Debug\JSCanvas.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\JSCanvas\JSCanvas\obj\Debug\JSCanvas.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\JSCanvas\JSCanvas\obj\Debug\JSCanvas.pdb

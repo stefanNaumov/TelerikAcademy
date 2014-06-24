@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\05.StringLengthArray\bin\Debug\05.StringLengthArray.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\05.StringLengthArray\bin\Debug\05.StringLengthArray.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\05.StringLengthArray\obj\Debug\05.StringLengthArray.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\05.StringLengthArray\obj\Debug\05.StringLengthArray.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\05.StringLengthArray\obj\Debug\05.StringLengthArray.pdb

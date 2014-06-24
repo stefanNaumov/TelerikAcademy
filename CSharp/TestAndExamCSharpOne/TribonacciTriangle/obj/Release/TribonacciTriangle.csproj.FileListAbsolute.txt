@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TribonacciTriangle\bin\Release\TribonacciTriangle.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TribonacciTriangle\bin\Release\TribonacciTriangle.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TribonacciTriangle\obj\Release\TribonacciTriangle.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TribonacciTriangle\obj\Release\TribonacciTriangle.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TribonacciTriangle\obj\Release\TribonacciTriangle.pdb

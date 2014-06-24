@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\GenomeDecoder\bin\Debug\GenomeDecoder.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\GenomeDecoder\bin\Debug\GenomeDecoder.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\GenomeDecoder\obj\Debug\GenomeDecoder.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\GenomeDecoder\obj\Debug\GenomeDecoder.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\GenomeDecoder\obj\Debug\GenomeDecoder.pdb

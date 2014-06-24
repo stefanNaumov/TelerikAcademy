@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExamOne2012Problem1\obj\Debug\ExamOne2012Problem1.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExamOne2012Problem1\bin\Debug\ExamOne2012Problem1.exe
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExamOne2012Problem1\bin\Debug\ExamOne2012Problem1.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExamOne2012Problem1\obj\Debug\ExamOne2012Problem1.exe
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExamOne2012Problem1\obj\Debug\ExamOne2012Problem1.pdb

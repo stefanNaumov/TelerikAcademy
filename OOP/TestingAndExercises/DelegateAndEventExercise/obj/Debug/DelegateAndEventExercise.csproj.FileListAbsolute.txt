@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DelegateAndEventExercise\bin\Debug\DelegateAndEventExercise.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DelegateAndEventExercise\bin\Debug\DelegateAndEventExercise.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DelegateAndEventExercise\obj\Debug\DelegateAndEventExercise.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\DelegateAndEventExercise\obj\Debug\DelegateAndEventExercise.pdb

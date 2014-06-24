@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\10.BinaryReading\bin\Debug\10.BinaryReading.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\10.BinaryReading\bin\Debug\10.BinaryReading.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\10.BinaryReading\obj\Debug\10.BinaryReading.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\10.BinaryReading\obj\Debug\10.BinaryReading.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\10.BinaryReading\obj\Debug\10.BinaryReading.pdb

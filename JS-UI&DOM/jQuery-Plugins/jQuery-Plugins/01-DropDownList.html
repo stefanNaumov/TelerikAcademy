@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+    <style>
+        #dropdown-list-container{
+            background-color:lightgray;
+            border:1px solid black;
+        }
+    </style>
+<body>
+    <select id="dropdown">
+        <option value="1">One</option>
+        <option value="2">Two</option>
+    </select>
+    <script src="JQuery.js"></script>
+
+    <script>
+        
+        (function ($) {
+            $.fn.dropdown = function () {
+                $this = $(this);
+                //$this.hide();
+
+                var $container = $('<div>').addClass('dropdown-list-container');
+                var $options = $this.find('option');
+                var $ulList = $('<ul>').addClass('dropdown-list-options');
+                
+                for (var i = 0; i < $options.length; i++) {
+                    
+                    $currentOption = $options[i];
+
+                    $optionInnerText = $currentOption.innerHTML;
+                    $optionValue = $currentOption.value;
+                    $newListItem = $('<li>').addClass('dropdown-list-option')
+                                .html($optionInnerText)
+                                .data('data-value', $optionValue);
+                    $ulList.append($newListItem);
+
+                }
+                $container.append($ulList);
+
+                $(this).after($container);
+
+                $allLiElements = $('.dropdown-list-container').find('.dropdown-list-option');
+
+                $allLiElements.on('click', function () {
+                    $allLiElements.find('.selectedItem').removeClass('.selectedItem').css('background-color', 'lightgray');
+                    $('#dropdown').find(':selected').removeAttr('selected', '');
+
+                    var thisData = $(this).data('data-value');
+                    var selector = $('option[value=' + thisData + ']').attr('selected', true); 
+
+                    $this.addClass('selectedItem');
+                    $ulList.find('.selectedItem').css('background-color', 'green');
+                });
+
+            }
+        }(jQuery));
+        
+    </script>
+    <script>
+        $('#dropdown').dropdown();
+    </script>
+</body>
+</html>

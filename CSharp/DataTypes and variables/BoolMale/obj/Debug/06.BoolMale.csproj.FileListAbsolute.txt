@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\BoolMale\obj\Debug\BoolMale.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\BoolMale\obj\Debug\BoolMale.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\BoolMale\obj\Debug\06.BoolMale.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\BoolMale\bin\Debug\BoolMale.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\BoolMale\bin\Debug\BoolMale.pdb

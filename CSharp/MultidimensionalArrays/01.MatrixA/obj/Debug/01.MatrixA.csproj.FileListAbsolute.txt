@@ -1,0 +1,8 @@
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixA\bin\Debug\01.MatrixA.exe.config
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixA\bin\Debug\01.MatrixA.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixA\bin\Debug\01.MatrixA.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixA\obj\Debug\01.MatrixA.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixA\obj\Debug\01.MatrixA.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\C#\MultidimensionalArrays\01.MatrixA\bin\Debug\01.MatrixA.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\C#\MultidimensionalArrays\01.MatrixA\obj\Debug\01.MatrixA.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\C#\MultidimensionalArrays\01.MatrixA\obj\Debug\01.MatrixA.pdb

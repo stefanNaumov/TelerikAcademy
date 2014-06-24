@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <ul id="tree">
+        <li>Item 1
+            <ul>
+                <li>Sub-1 Item 1</li>
+                <li>Sub-1 Item 2</li>
+            </ul>
+        </li>
+        <li>Item 2</li>
+        <li>Item 3
+            <ul>
+                <li>Sub-1 Item 1</li>
+                <li>Sub-1 Item 2
+                    <ul>
+                        <li>Sub-2 Item 1</li>
+                        <ul>
+                            <li>Sub-3 Item 1</li>
+                        </ul>
+                        <li>Sub-2 Item 2</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>Item 4</li>
+        <li>Item 5</li>
+    </ul>
+    <script>
+        var tree = document.getElementsByTagName('li');
+
+        for (var i = 0; i < tree.length; i++) {
+
+            var child = tree[i].firstElementChild;
+            
+            while (child != null) {
+                child.style.display = 'none';
+                child = child.nextElementSibling;
+                console.log(child);
+            }
+
+            tree[i].onclick = function (ev) {
+                
+                var currChild = this.firstElementChild;
+
+                while (currChild != null) {
+
+                    if (currChild.style.display == 'none') {
+                        currChild.style.display = 'block';
+                    }
+                    else {
+                        currChild.style.display = 'none';
+                    }
+                    currChild = currChild.nextElementSibling;
+                }
+            };
+        }
+    </script>
+</body>
+</html>

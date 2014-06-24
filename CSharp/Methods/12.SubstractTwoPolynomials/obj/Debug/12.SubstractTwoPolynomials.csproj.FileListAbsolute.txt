@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\method\12.SubstractTwoPolynomials\obj\Debug\12.SubstractTwoPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\method\12.SubstractTwoPolynomials\bin\Debug\12.SubstractTwoPolynomials.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\method\12.SubstractTwoPolynomials\bin\Debug\12.SubstractTwoPolynomials.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\method\12.SubstractTwoPolynomials\obj\Debug\12.SubstractTwoPolynomials.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\method\12.SubstractTwoPolynomials\obj\Debug\12.SubstractTwoPolynomials.pdb

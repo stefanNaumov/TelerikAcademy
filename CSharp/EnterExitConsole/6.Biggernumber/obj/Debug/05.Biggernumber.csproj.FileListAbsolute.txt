@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\6.Biggernumber\obj\Debug\6.Biggernumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\6.Biggernumber\obj\Debug\6.Biggernumber.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\6.Biggernumber\bin\Debug\6.Biggernumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\6.Biggernumber\bin\Debug\6.Biggernumber.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\6.Biggernumber\obj\Debug\05.Biggernumber.csprojResolveAssemblyReference.cache

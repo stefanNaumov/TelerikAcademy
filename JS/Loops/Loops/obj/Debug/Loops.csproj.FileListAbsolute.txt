@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\Loops\Loops\bin\Loops.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\Loops\Loops\bin\Loops.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\Loops\Loops\obj\Debug\Loops.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\Loops\Loops\obj\Debug\Loops.pdb

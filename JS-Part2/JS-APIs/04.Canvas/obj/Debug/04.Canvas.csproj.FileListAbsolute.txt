@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\04.Canvas\bin\04.Canvas.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\04.Canvas\bin\04.Canvas.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\04.Canvas\obj\Debug\04.Canvas.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\04.Canvas\obj\Debug\04.Canvas.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\04.Canvas\obj\Debug\04.Canvas.pdb

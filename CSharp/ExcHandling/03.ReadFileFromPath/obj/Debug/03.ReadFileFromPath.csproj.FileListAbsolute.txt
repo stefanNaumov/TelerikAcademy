@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\03.ReadFileFromPath\bin\Debug\03.ReadFileFromPath.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\03.ReadFileFromPath\bin\Debug\03.ReadFileFromPath.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\03.ReadFileFromPath\obj\Debug\03.ReadFileFromPath.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\03.ReadFileFromPath\obj\Debug\03.ReadFileFromPath.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\03.ReadFileFromPath\obj\Debug\03.ReadFileFromPath.csprojResolveAssemblyReference.cache

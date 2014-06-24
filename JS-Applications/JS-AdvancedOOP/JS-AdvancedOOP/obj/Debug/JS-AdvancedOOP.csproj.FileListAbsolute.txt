@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\JS-AdvancedOOP\bin\JS-AdvancedOOP.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\JS-AdvancedOOP\bin\JS-AdvancedOOP.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\JS-AdvancedOOP\obj\Debug\JS-AdvancedOOP.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\JS-AdvancedOOP\obj\Debug\JS-AdvancedOOP.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Applications\JS-AdvancedOOP\JS-AdvancedOOP\obj\Debug\JS-AdvancedOOP.pdb

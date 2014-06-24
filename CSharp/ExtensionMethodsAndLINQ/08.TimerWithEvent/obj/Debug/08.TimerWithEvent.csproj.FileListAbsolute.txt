@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\08.TimerWithEvent\bin\Debug\08.TimerWithEvent.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\08.TimerWithEvent\bin\Debug\08.TimerWithEvent.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\08.TimerWithEvent\obj\Debug\08.TimerWithEvent.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\08.TimerWithEvent\obj\Debug\08.TimerWithEvent.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\08.TimerWithEvent\obj\Debug\08.TimerWithEvent.pdb

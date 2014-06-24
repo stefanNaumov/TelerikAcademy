@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\03.CompanyData\bin\Debug\03.CompanyData.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\03.CompanyData\bin\Debug\03.CompanyData.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\03.CompanyData\obj\Debug\03.CompanyData.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\03.CompanyData\obj\Debug\03.CompanyData.pdb

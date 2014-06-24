@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExerciseOne\bin\Debug\ExerciseOne.exe
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExerciseOne\bin\Debug\ExerciseOne.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExerciseOne\obj\Debug\ExerciseOne.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExerciseOne\obj\Debug\ExerciseOne.exe
+c:\users\stefan\documents\visual studio 2012\Projects\TestAndExamCSharpOne\ExerciseOne\obj\Debug\ExerciseOne.pdb

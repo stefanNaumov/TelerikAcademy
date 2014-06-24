@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DomModule", "01.DomModule\01.DomModule.csproj", "{A006ED65-E616-494A-BA3E-F896BE7D86C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MovingObjectsModule", "02.MovingObjectsModule\02.MovingObjectsModule.csproj", "{4EAF6E78-D14B-41C1-AA95-37733CC4CE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SpecialConsole", "03.SpecialConsole\03.SpecialConsole.csproj", "{C2202AD4-8383-42DA-85C0-56C96D890D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A006ED65-E616-494A-BA3E-F896BE7D86C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A006ED65-E616-494A-BA3E-F896BE7D86C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A006ED65-E616-494A-BA3E-F896BE7D86C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A006ED65-E616-494A-BA3E-F896BE7D86C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EAF6E78-D14B-41C1-AA95-37733CC4CE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EAF6E78-D14B-41C1-AA95-37733CC4CE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EAF6E78-D14B-41C1-AA95-37733CC4CE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EAF6E78-D14B-41C1-AA95-37733CC4CE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2202AD4-8383-42DA-85C0-56C96D890D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2202AD4-8383-42DA-85C0-56C96D890D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2202AD4-8383-42DA-85C0-56C96D890D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2202AD4-8383-42DA-85C0-56C96D890D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\method\14.CoupleOfMathMethods\bin\Debug\14.CoupleOfMathMethods.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\method\14.CoupleOfMathMethods\bin\Debug\14.CoupleOfMathMethods.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\method\14.CoupleOfMathMethods\obj\Debug\14.CoupleOfMathMethods.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\method\14.CoupleOfMathMethods\obj\Debug\14.CoupleOfMathMethods.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\method\14.CoupleOfMathMethods\obj\Debug\14.CoupleOfMathMethods.pdb

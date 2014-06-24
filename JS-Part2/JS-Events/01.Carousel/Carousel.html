@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #leftArrow{
+            background:url("Previous-icon.jpg") 1px no-repeat;
+            width:250px;
+            height:50px;
+            position:absolute;
+            top:130px;
+        }
+        #rightArrow{
+            position:absolute;
+            background:url("Next-icon.jpg") 1px no-repeat;
+            width:250px;
+            height:50px;
+            left:900px;
+            top:130px;
+        }
+        #container img{
+            position:absolute;
+            top:150px;
+            left:350px;
+            width:500px;
+            height:300px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <h1>Carousel</h1>
+    </div>
+    <div id="slider">
+        <button id="leftArrow">Previous</button>
+        <div id="container">
+            <img id="currentImg" src="landscape.jpeg" alt="landscape.jpg"/>
+        </div>
+        <button id="rightArrow">Next</button>
+    </div>
+    <script>
+        window.onload = function () {
+            var image = document.getElementById("currentImg");
+            var imgArr = ["landscape.jpeg", "landscape_hires.jpg", "montenegro.jpg", "nordic.jpg", "Yunnan_China.jpg"];
+            var index = 0;
+            var length = imgArr.length;
+
+            var left = document.getElementById("leftArrow");
+            var right = document.getElementById("rightArrow");
+
+            attachEventListener(left, "click", previousImg);
+            attachEventListener(right, "click", nextImg);
+
+            function previousImg() {
+                index--;
+                if (index <= 0) {
+                    index = length - 1;
+                }
+                image.src = imgArr[index];
+            }
+
+            function nextImg() {
+                index++;
+                if (index >= length) {
+                    index = 0;
+                }
+                image.src = imgArr[index];
+            }
+            function attachEventListener(element, eventType, eventHandler) {
+                if (document.addEventListener) {
+                    element.addEventListener(eventType, eventHandler, false);
+                }
+                else if (document.attachEvent) {
+                    element.attachEvent("on" + eventType, eventHandler);
+                }
+
+            }
+        }
+    </script>
+</body>
+</html>

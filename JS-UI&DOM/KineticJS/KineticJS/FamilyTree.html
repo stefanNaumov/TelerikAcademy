@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="container"></div>
+
+    <script src="kineticJS.js"></script>
+    <script src="GenerateHumanObjs.js"></script>
+    <script src="GenerateTreeIndeces.js"></script>
+    <script src="InputData.js"></script>
+    <script src="DrawTree.js"></script>
+    <script>
+        var treeData = getInput();
+        var tree = generateHumanObjs(treeData);
+        var indexedTree = generateIndeces(tree.FamilyTreeRoots, tree.FamilyTree);
+
+        var container = document.getElementById('container');
+        var treeRenderer = getFTDrawer(container.id);
+
+        treeRenderer.renderTree(indexedTree);
+        //document.body.removeChild(document.body.firstElementChild);
+    </script>
+</body>
+</html>

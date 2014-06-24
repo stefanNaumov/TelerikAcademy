@@ -1,0 +1,1 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\20.ExtractPalindrome\bin\Debug\20.ExtractPalindrome.exe.config

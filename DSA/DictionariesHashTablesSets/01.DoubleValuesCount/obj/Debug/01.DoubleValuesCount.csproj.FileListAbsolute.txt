@@ -1,0 +1,7 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\01.DoubleValuesCount\bin\Debug\01.DoubleValuesCount.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\01.DoubleValuesCount\bin\Debug\01.DoubleValuesCount.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\01.DoubleValuesCount\obj\Debug\01.DoubleValuesCount.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\01.DoubleValuesCount\obj\Debug\01.DoubleValuesCount.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\01.DoubleValuesCount\obj\Debug\01.DoubleValuesCount.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\DictionariesHashTablesSets\01.DoubleValuesCount\obj\Debug\01.DoubleValuesCount.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\DictionariesHashTablesSets\01.DoubleValuesCount\obj\Debug\01.DoubleValuesCount.pdb

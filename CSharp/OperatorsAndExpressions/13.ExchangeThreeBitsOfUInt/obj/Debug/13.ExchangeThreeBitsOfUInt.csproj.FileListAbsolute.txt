@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ExchangeThreeBitsOfUInt\bin\Debug\13.ExchangeThreeBitsOfUInt.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ExchangeThreeBitsOfUInt\bin\Debug\13.ExchangeThreeBitsOfUInt.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ExchangeThreeBitsOfUInt\obj\Debug\13.ExchangeThreeBitsOfUInt.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ExchangeThreeBitsOfUInt\obj\Debug\13.ExchangeThreeBitsOfUInt.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\13.ExchangeThreeBitsOfUInt\obj\Debug\13.ExchangeThreeBitsOfUInt.pdb

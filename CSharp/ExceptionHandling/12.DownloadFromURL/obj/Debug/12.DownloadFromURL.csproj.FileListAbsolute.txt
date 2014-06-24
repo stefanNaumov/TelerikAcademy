@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\12.DownloadFromURL\bin\Debug\12.DownloadFromURL.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\12.DownloadFromURL\bin\Debug\12.DownloadFromURL.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\12.DownloadFromURL\bin\Debug\12.DownloadFromURL.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\12.DownloadFromURL\obj\Debug\12.DownloadFromURL.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\12.DownloadFromURL\obj\Debug\12.DownloadFromURL.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\12.DownloadFromURL\obj\Debug\12.DownloadFromURL.pdb

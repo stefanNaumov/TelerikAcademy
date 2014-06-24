@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.SubsetSumOfFiveIntegers\bin\Debug\09.SubsetSumOfFiveIntegers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.SubsetSumOfFiveIntegers\bin\Debug\09.SubsetSumOfFiveIntegers.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.SubsetSumOfFiveIntegers\obj\Debug\09.SubsetSumOfFiveIntegers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.SubsetSumOfFiveIntegers\obj\Debug\09.SubsetSumOfFiveIntegers.pdb

@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        table{
+            border-collapse:collapse;
+        }
+        th,td{
+            border:1px solid black;
+        }
+    </style>
+    <script src="JQuery.js"></script>
+</head>
+<body>
+    
+
+    <script>
+        var students = [
+        {
+        firstName: 'Stamat',
+        lastName: 'Petrov',
+        grade: 3,
+        },
+        {
+        firstName: 'Ivo',
+        lastName: 'Kochev',
+        grade: 4,
+        },
+        {
+        firstName: 'Jaklin',
+        lastName: 'Georgiev',
+        grade: 5,
+        }, ];
+
+        (function () {
+            var table = $('<table>');
+            table.appendTo('body');
+            var thead = $('<thead>').appendTo(table);
+            var tr = $('<tr>').appendTo(thead);
+            $('<th>').text('First Name').appendTo(tr);
+            $('<th>').text('Last Name').appendTo(tr);
+            $('<th>').text('Grade').appendTo(tr);
+            var tbody = $('<tbody>').appendTo(table);
+
+            for (var i = 0; i < students.length; i++) {
+                var $tr = $('<tr>').appendTo(tbody);
+                $('<td>').text(students[i].firstName).appendTo($tr);
+                $('<td>').text(students[i].lastName).appendTo($tr);
+                $('<td>').text(students[i].grade).appendTo($tr);
+            }
+        }());
+    </script>
+</body>
+</html>

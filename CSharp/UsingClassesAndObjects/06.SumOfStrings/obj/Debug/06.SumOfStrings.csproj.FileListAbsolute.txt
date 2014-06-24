@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.SumOfStrings\bin\Debug\06.SumOfStrings.exe
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.SumOfStrings\bin\Debug\06.SumOfStrings.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.SumOfStrings\obj\Debug\06.SumOfStrings.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.SumOfStrings\obj\Debug\06.SumOfStrings.exe
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\06.SumOfStrings\obj\Debug\06.SumOfStrings.pdb

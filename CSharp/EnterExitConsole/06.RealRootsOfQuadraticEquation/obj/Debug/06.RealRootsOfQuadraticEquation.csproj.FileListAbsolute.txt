@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\06.RealRootsOfQuadraticEquation\bin\Debug\06.RealRootsOfQuadraticEquation.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\06.RealRootsOfQuadraticEquation\bin\Debug\06.RealRootsOfQuadraticEquation.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\06.RealRootsOfQuadraticEquation\obj\Debug\06.RealRootsOfQuadraticEquation.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\06.RealRootsOfQuadraticEquation\obj\Debug\06.RealRootsOfQuadraticEquation.pdb

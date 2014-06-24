@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\08.ReplaceWholeWords\bin\Debug\08.ReplaceWholeWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\08.ReplaceWholeWords\bin\Debug\08.ReplaceWholeWords.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\08.ReplaceWholeWords\obj\Debug\08.ReplaceWholeWords.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\08.ReplaceWholeWords\obj\Debug\08.ReplaceWholeWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\08.ReplaceWholeWords\obj\Debug\08.ReplaceWholeWords.pdb

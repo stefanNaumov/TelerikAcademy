@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\CycleDivideByFive\obj\Debug\CycleDivideByFive.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\CycleDivideByFive\obj\Debug\CycleDivideByFive.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\CycleDivideByFive\bin\Debug\CycleDivideByFive.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\CycleDivideByFive\bin\Debug\CycleDivideByFive.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\CycleDivideByFive\obj\Debug\5.CycleDivideByFive.csprojResolveAssemblyReference.cache

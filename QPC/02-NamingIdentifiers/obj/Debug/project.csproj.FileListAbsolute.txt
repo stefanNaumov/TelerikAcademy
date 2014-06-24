@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\02-NamingIdentifiers\bin\Debug\Minesweeper.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\02-NamingIdentifiers\bin\Debug\Minesweeper.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\02-NamingIdentifiers\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\02-NamingIdentifiers\obj\Debug\Minesweeper.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\02-NamingIdentifiers\obj\Debug\Minesweeper.pdb

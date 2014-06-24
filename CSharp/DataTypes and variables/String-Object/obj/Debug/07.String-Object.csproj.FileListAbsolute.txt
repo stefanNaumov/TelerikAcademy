@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\String-Object\bin\Debug\String-Object.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\String-Object\bin\Debug\String-Object.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\String-Object\obj\Debug\String-Object.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\String-Object\obj\Debug\String-Object.pdb

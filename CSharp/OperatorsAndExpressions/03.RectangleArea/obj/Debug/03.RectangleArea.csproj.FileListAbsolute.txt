@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03.RectangleArea\bin\Debug\03.RectangleArea.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03.RectangleArea\obj\Debug\03.RectangleArea.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\03.RectangleArea\obj\Debug\03.RectangleArea.pdb

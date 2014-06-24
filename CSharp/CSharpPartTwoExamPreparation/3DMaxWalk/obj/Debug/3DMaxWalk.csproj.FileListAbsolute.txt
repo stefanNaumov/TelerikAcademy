@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DMaxWalk\bin\Debug\3DMaxWalk.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DMaxWalk\bin\Debug\3DMaxWalk.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DMaxWalk\obj\Debug\3DMaxWalk.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DMaxWalk\obj\Debug\3DMaxWalk.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\3DMaxWalk\obj\Debug\3DMaxWalk.pdb

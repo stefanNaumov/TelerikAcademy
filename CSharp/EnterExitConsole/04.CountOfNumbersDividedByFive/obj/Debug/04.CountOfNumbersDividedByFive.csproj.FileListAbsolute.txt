@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\04.CountOfNumbersDividedByFive\bin\Debug\04.CountOfNumbersDividedByFive.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\04.CountOfNumbersDividedByFive\bin\Debug\04.CountOfNumbersDividedByFive.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\04.CountOfNumbersDividedByFive\obj\Debug\04.CountOfNumbersDividedByFive.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\04.CountOfNumbersDividedByFive\obj\Debug\04.CountOfNumbersDividedByFive.pdb

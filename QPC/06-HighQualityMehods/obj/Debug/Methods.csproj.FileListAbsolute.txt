@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\06-HighQualityMehods\bin\Debug\Methods.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\06-HighQualityMehods\bin\Debug\Methods.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\06-HighQualityMehods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\06-HighQualityMehods\obj\Debug\Methods.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\06-HighQualityMehods\obj\Debug\Methods.pdb

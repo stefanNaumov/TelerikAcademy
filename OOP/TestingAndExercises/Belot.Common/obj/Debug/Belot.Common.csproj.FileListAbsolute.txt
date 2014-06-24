@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.Common\bin\Debug\Belot.Common.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.Common\bin\Debug\Belot.Common.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.Common\obj\Debug\Belot.Common.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.Common\obj\Debug\Belot.Common.pdb

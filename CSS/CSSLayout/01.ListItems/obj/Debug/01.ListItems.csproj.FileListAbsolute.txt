@@ -1,0 +1,10 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\01.ListItems\bin\01.ListItems.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\01.ListItems\bin\01.ListItems.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\01.ListItems\obj\Debug\01.ListItems.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\01.ListItems\obj\Debug\01.ListItems.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\SemanticHTML\CSSLayout\01.ListItems\obj\Debug\01.ListItems.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\01.ListItems\bin\01.ListItems.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\01.ListItems\bin\01.ListItems.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\01.ListItems\obj\Debug\01.ListItems.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\01.ListItems\obj\Debug\01.ListItems.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\01.ListItems\obj\Debug\01.ListItems.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\17.AfterSixAndAHalfHours\bin\Debug\17.AfterSixAndAHalfHours.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\17.AfterSixAndAHalfHours\bin\Debug\17.AfterSixAndAHalfHours.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\17.AfterSixAndAHalfHours\obj\Debug\17.AfterSixAndAHalfHours.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\17.AfterSixAndAHalfHours\obj\Debug\17.AfterSixAndAHalfHours.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\17.AfterSixAndAHalfHours\obj\Debug\17.AfterSixAndAHalfHours.pdb

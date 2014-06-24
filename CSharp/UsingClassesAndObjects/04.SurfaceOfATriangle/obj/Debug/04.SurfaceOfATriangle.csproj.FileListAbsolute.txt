@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfATriangle\bin\Debug\04.SurfaceOfATriangle.exe
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfATriangle\bin\Debug\04.SurfaceOfATriangle.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfATriangle\obj\Debug\04.SurfaceOfATriangle.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfATriangle\obj\Debug\04.SurfaceOfATriangle.exe
+c:\users\stefan\documents\visual studio 2012\Projects\UsingClassesAndObjects\04.SurfaceOfATriangle\obj\Debug\04.SurfaceOfATriangle.pdb

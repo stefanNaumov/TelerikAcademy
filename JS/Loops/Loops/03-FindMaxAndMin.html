@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+   <textarea id="inputNumbers" placeholder="Enter numbers with space between them"></textarea>
+    <input type="submit" id="number" name="number" value="Click!" onclick="printNumbers()"/>
+
+    <script>
+         function printNumbers() {
+            
+            var strInput = document.getElementById("inputNumbers").value;
+            var numbersArr = strInput.split(" ");
+            var min = parseInt(numbersArr[0]);
+            var max = parseInt(numbersArr[numbersArr.length - 1]);
+            for (var i = 0; i < numbersArr.length; i++) {
+                var currNum = parseInt(numbersArr[i]);
+                if (currNum > max) {
+                    max = currNum;
+                }
+                else if (currNum < min) {
+
+                    min = currNum;
+                }
+            }
+            document.writeln("The min number is: " + min);
+            document.writeln("the max numbers is: " + max);
+        }
+    </script>
+</body>
+</html>

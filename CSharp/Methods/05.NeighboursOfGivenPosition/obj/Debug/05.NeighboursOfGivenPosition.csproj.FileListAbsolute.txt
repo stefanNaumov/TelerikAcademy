@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\05.NeighboursOfGivenPosition\bin\Debug\05.NeighboursOfGivenPosition.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\05.NeighboursOfGivenPosition\bin\Debug\05.NeighboursOfGivenPosition.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\05.NeighboursOfGivenPosition\obj\Debug\05.NeighboursOfGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\05.NeighboursOfGivenPosition\obj\Debug\05.NeighboursOfGivenPosition.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\05.NeighboursOfGivenPosition\obj\Debug\05.NeighboursOfGivenPosition.pdb

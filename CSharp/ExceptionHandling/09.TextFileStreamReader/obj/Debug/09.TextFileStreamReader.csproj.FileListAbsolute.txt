@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\09.TextFileStreamReader\bin\Debug\09.TextFileStreamReader.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\09.TextFileStreamReader\bin\Debug\09.TextFileStreamReader.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\09.TextFileStreamReader\obj\Debug\09.TextFileStreamReader.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\09.TextFileStreamReader\obj\Debug\09.TextFileStreamReader.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExceptionHandling\09.TextFileStreamReader\obj\Debug\09.TextFileStreamReader.pdb

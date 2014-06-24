@@ -1,0 +1,231 @@
+﻿<!Doctype html>
+<html>
+	<head>
+		<title>Windows Calculator</title>
+		<link type="text/css" rel="stylesheet" href="CalculatorStyle.css" />
+	</head>
+	<body>
+		<div id="calculator">
+            <div>
+                <ul id="mainMenu">
+                    <li class="inlineElements">View</li>
+                    <li class="inlineElements">Edit</li>
+                    <li class="inlineElements">Help</li>
+                </ul>
+            </div>
+            <form>
+                <input type="text" id="display" value="8854455"/>
+            </form>
+            <table id="binaryRepresentation">
+                <tr>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>0000</td>
+                </tr>
+                <tr>
+                    <td colspan="4" class="decimal">63</td>
+                    <td colspan="3" class="decimal">47</td>
+                    <td class="decimal">32</td>
+                </tr>
+                <tr>
+                    <td>0000</td>
+                    <td>0000</td>
+                    <td>1000</td>
+                    <td>0111</td>
+                    <td>0001</td>
+                    <td>1011</td>
+                    <td>1011</td>
+                    <td>0111</td>
+                </tr>
+                <tr>
+                    <td colspan="4" class="decimal">31</td>
+                    <td colspan="3" class="decimal">15</td>
+                    <td class="decimal">0</td>
+                </tr>
+            </table>
+            <div id="numeralSystem">
+                <input type="radio" name="numeralSystem" id="Hex"/>
+                <label for="Hex">Hex</label>
+                <br />
+                <input type="radio" name="numeralSystem" id="Dec" checked="checked"/>
+                <label for="Dec">Dec</label>
+                <br />
+                <input type="radio" name="numeralSystem" id="Oct"/>
+                <label for="Oct">Oct</label>
+                <br />
+                <input type="radio" name="numeralSystem" id="Bin"/>
+                <label for="Bin">Bin</label>
+            </div>
+            <div id="qword">
+                <input type="radio" name="qword" id="qWord" checked="checked"/>
+                <label for="qWord">Qword</label>
+                <br />
+                <input type="radio" name="qword" id="dWord"/>
+                <label for="dWord">Dword</label>
+                <br />
+                <input type="radio" name="qword" id="word"/>
+                <label for="Word">Word</label>
+                <br />
+                <input type="radio" name="qword" id="byte"/>
+                <label for="byte">Byte</label>
+            </div>
+            <table id="numPad">
+                <tr>
+                    <td >
+                        <input type="button" class="btn"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="Mod"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="A"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="MC"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="MR"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="MS"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="M+"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="M-"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="("/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value=")"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="B"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="←"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="CE"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="C"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="±"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="√"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="RoL"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="RoR"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="C"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="7"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="8"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="9"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="/"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="%"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="Or"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="XoR"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="D"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="4"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="5"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="6"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="*"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="1/x"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="Lsh"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="Rsh"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="E"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="1"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="2"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Numbtn" value="3"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="-"/>
+                    </td>
+                    <td rowspan="2">
+                        <input type="button" id="equalSign" value="="/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="Not"/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="And"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="F"/>
+                    </td>
+                    <td colspan="2">
+                        <input type="button" id="zero" value="0"/>
+                    </td>
+                    <td>
+                        <input type="button" class="btn" value="."/>
+                    </td>
+                    <td>
+                        <input type="button" class="Lightenedbtn" value="+"/>
+                    </td>
+                </tr>
+            </table>
+		</div>
+	</body>
+</html>

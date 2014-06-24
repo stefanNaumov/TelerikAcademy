@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Refactoring-Homework\bin\Debug\GameFifteen.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Refactoring-Homework\bin\Debug\GameFifteen.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Refactoring-Homework\obj\x86\Debug\GameFifteen.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Refactoring-Homework\obj\x86\Debug\GameFifteen.pdb

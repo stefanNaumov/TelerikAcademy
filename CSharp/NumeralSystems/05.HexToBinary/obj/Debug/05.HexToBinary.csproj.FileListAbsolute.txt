@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\05.HexToBinary\obj\Debug\05.HexToBinary.csprojResolveAssemblyReference.cache

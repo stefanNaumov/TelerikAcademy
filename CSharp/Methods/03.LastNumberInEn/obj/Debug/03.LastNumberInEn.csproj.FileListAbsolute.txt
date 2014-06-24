@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\03.LastNumberInEn\bin\Debug\03.LastNumberInEn.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\03.LastNumberInEn\bin\Debug\03.LastNumberInEn.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\03.LastNumberInEn\obj\Debug\03.LastNumberInEn.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\03.LastNumberInEn\obj\Debug\03.LastNumberInEn.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\03.LastNumberInEn\obj\Debug\03.LastNumberInEn.pdb

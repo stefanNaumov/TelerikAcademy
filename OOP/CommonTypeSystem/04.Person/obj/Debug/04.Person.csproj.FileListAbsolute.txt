@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\04.Person\bin\Debug\04.Person.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\04.Person\bin\Debug\04.Person.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\04.Person\obj\Debug\04.Person.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\04.Person\obj\Debug\04.Person.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\04.Person\obj\Debug\04.Person.pdb

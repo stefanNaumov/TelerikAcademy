@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="js-console.css"/>
+    <title>Compare Char Arrays</title>
+</head>
+<body onload="CompareTwoCharArrays()">
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function CompareTwoCharArrays() {
+            var areEqual = true;
+            var arr1 = new Array("a", "p", "g");
+            var arr2 = new Array("a", "p", "G");
+
+            if (arr1.length != arr2.length) {
+                areEqual = false;
+            }
+            else {
+                for (var i = 0; i < arr1.length; i++) {
+                 
+                    if (arr1[i] !== arr2[i]){
+                        areEqual = false;
+                        break;
+                    }
+                }
+            }
+            jsConsole.writeLine("First array: ");
+            PrintArray(arr1);
+            jsConsole.writeLine("Second array: ");
+            PrintArray(arr2);
+            jsConsole.writeLine("Are the two arrays equal: " + areEqual);
+        }
+        function PrintArray(array)
+        {
+            for (var i = 0; i < array.length; i++) {
+
+                jsConsole.write(array[i] + " ");
+            }
+            jsConsole.writeLine();
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="Raphael.js"></script>
+</head>
+<body>
+    <script>
+        var paper = Raphael(10, 10, 700, 700);
+
+        var youText = paper.text(160, 80, 'You');
+        youText.scale(0.7, 1);
+        youText.attr({
+            'font-size': 100,
+            'fill': 'gray',
+            'font-weight':'bold'
+        });
+        var rect = paper.rect(230, 20, 200, 120, 30);
+        rect.attr({
+            stroke: 'none',
+            fill: 'red'
+        });
+        var tubeText = paper.text(325, 80, 'Tube');
+        tubeText.scale(0.7, 1);
+        tubeText.attr({
+            'font-size': 100,
+            fill: 'white',
+            'font-weight':'bold'
+        });
+    </script>
+</body>
+</html>

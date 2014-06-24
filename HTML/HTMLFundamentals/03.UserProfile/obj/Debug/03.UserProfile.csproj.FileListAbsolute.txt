@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLFundamentals\03.UserProfile\bin\03.UserProfile.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLFundamentals\03.UserProfile\bin\03.UserProfile.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLFundamentals\03.UserProfile\obj\Debug\03.UserProfile.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLFundamentals\03.UserProfile\obj\Debug\03.UserProfile.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLFundamentals\03.UserProfile\obj\Debug\03.UserProfile.pdb

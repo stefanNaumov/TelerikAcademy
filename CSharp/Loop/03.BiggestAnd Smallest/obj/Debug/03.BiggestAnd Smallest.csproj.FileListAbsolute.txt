@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\03.BiggestAnd Smallest\obj\Debug\03.BiggestAnd Smallest.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\03.BiggestAnd Smallest\bin\Debug\03.BiggestAnd Smallest.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\03.BiggestAnd Smallest\bin\Debug\03.BiggestAnd Smallest.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\03.BiggestAnd Smallest\obj\Debug\03.BiggestAnd Smallest.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\03.BiggestAnd Smallest\obj\Debug\03.BiggestAnd Smallest.pdb

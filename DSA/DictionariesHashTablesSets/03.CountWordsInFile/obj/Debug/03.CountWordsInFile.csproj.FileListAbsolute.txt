@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\DictionariesHashTablesSets\03.CountWordsInFile\bin\Debug\03.CountWordsInFile.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\DictionariesHashTablesSets\03.CountWordsInFile\bin\Debug\03.CountWordsInFile.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\DictionariesHashTablesSets\03.CountWordsInFile\bin\Debug\03.CountWordsInFile.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\DictionariesHashTablesSets\03.CountWordsInFile\obj\Debug\03.CountWordsInFile.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\DictionariesHashTablesSets\03.CountWordsInFile\obj\Debug\03.CountWordsInFile.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\DictionariesHashTablesSets\03.CountWordsInFile\obj\Debug\03.CountWordsInFile.pdb

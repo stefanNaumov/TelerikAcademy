@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ByteValueOfPosition\bin\Debug\ByteValueOfPosition.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ByteValueOfPosition\bin\Debug\ByteValueOfPosition.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ByteValueOfPosition\obj\Debug\11.ByteValueOfPosition.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ByteValueOfPosition\obj\Debug\ByteValueOfPosition.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ByteValueOfPosition\obj\Debug\ByteValueOfPosition.pdb

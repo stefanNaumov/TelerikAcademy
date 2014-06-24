@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ThirdNumberSeven\obj\Debug\ThirdNumberSeven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ThirdNumberSeven\obj\Debug\ThirdNumberSeven.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ThirdNumberSeven\bin\Debug\ThirdNumberSeven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ThirdNumberSeven\bin\Debug\ThirdNumberSeven.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\ThirdNumberSeven\obj\Debug\04.ThirdNumberSeven.csprojResolveAssemblyReference.cache

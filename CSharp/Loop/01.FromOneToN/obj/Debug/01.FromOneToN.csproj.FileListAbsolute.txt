@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.FromOneToN\bin\Debug\01.FromOneToN.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.FromOneToN\bin\Debug\01.FromOneToN.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.FromOneToN\obj\Debug\01.FromOneToN.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.FromOneToN\obj\Debug\01.FromOneToN.pdb

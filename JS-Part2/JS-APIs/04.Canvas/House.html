@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <canvas id="canvas" width="700" height="600"></canvas>
+    <script>
+        var ctx = document.getElementById('canvas').getContext('2d');
+        
+        //The roof
+
+        ctx.beginPath();
+        ctx.moveTo(60, 160);
+        ctx.strokeStyle = 'black';
+        ctx.lineWidth = '2';
+        ctx.lineTo(260, 20);
+        ctx.stroke();
+        ctx.lineTo(460, 160);
+        ctx.stroke();
+        ctx.lineTo(60, 160);
+        ctx.fillStyle = 'rgb(255,212,212)';
+        ctx.fill();
+        ctx.stroke();
+
+        //The base
+        ctx.lineTo(60, 460);
+        ctx.lineTo(460, 460);
+        ctx.lineTo(460, 160);
+        ctx.fill();
+        ctx.stroke();
+
+        //windows
+        ctx.beginPath();
+        ctx.fillStyle = 'black';
+        ctx.moveTo(80, 200);
+        ctx.lineTo(200, 200);
+        ctx.lineTo(200, 260);
+        ctx.lineTo(80, 260);
+        ctx.lineTo(80, 200);
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.moveTo(140, 200);
+        ctx.strokeStyle = "rgb(255, 212, 212)";
+        ctx.lineWidth = '3';
+        ctx.lineTo(140, 260);
+        ctx.moveTo(80, 230);
+        ctx.lineTo(200, 230);
+        ctx.stroke();
+        //second window
+        ctx.beginPath();
+        ctx.moveTo(300, 200);
+        ctx.lineTo(420, 200);
+        ctx.strokeStyle = 'black';
+        ctx.lineTo(420, 260);
+        ctx.lineTo(300, 260);
+        ctx.lineTo(300, 200);
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.moveTo(360, 200);
+        ctx.strokeStyle = "rgb(255, 212, 212)";
+        ctx.lineWidth = '3';
+        ctx.lineTo(360, 260);
+        ctx.moveTo(300, 230);
+        ctx.lineTo(420, 230);
+        ctx.stroke();
+
+        //third window
+        ctx.beginPath();
+        ctx.moveTo(300, 360);
+        ctx.strokeStyle = 'black';
+        ctx.lineTo(300, 420);
+        ctx.lineTo(420, 420);
+        ctx.lineTo(420, 360);
+        ctx.lineTo(300, 360);
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.strokeStyle = "rgb(255, 212, 212)";
+        ctx.moveTo(300, 390);
+        ctx.lineTo(420, 390);
+        ctx.moveTo(360, 360);
+        ctx.lineTo(360,420);
+        ctx.stroke();
+
+        //the door
+        ctx.beginPath();
+        ctx.moveTo(100, 460);
+        ctx.strokeStyle = 'black';
+        ctx.strokeRect(110, 359, 70, 100);
+        ctx.scale(1, 0.5);
+        ctx.beginPath();
+        ctx.arc(145, 724, 35, 0, Math.PI, true);
+        ctx.fillStyle = 'rgb(255,212,212)';
+        ctx.fill();
+        ctx.stroke();
+        ctx.restore();
+
+        //door elements
+
+        //line
+        ctx.beginPath();
+        ctx.moveTo(145, 920);
+        ctx.lineTo(145, 690);
+        ctx.stroke();
+
+        //the tow small circles
+        ctx.beginPath();
+        ctx.arc(130, 860, 6, 0, 2 * Math.PI, true);
+        ctx.stroke();
+        ctx.closePath();
+        ctx.beginPath();
+        ctx.arc(160, 860, 6, 0, 2 * Math.PI, true);
+        ctx.stroke();
+    </script>
+</body>
+</html>

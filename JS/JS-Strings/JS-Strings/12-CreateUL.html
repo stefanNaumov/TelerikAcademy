@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div data-type="template" id="list-item">
+ <strong>-{name}-</strong> <span>-{age}-</span>
+</div>
+    <div id="listArea"></div>
+    <button onclick="handleOnclick()">GenerateList!</button>
+    <script>
+        function people(name, age) {
+            return {
+                name: name,
+                age: age
+            }
+        }
+        var ivan = people("Vankata", 23);
+        var chichoMisho = people("Mihail", 53);
+        var gosho = people("Djordj", 41);
+        var stamat = people("Stamat", 38);
+        var people = [ivan, chichoMisho, gosho,stamat];
+
+        function handleOnclick() {
+
+            var htmlText = document.getElementById("list-item").innerHTML.valueOf();
+            document.getElementById("listArea").innerHTML = (createUnorderedList(htmlText, people));
+        }
+
+        function createUnorderedList(innerHtml,people){
+
+            var result = "<ul>";
+            for (var i = 0; len = people.length, i < len; i++) {
+
+                result += "<li>";
+                result += innerHtml.replace("-{name}-", people[i].name);
+                result = result.replace("-{age}-", people[i].age);
+
+                result += "</li>";
+            }
+            result += "</ul>";
+            return result;
+        }
+    </script>
+</body>
+</html>

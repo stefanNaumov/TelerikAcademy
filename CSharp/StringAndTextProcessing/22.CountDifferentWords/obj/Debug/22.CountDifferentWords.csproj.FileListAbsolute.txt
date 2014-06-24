@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.pdb

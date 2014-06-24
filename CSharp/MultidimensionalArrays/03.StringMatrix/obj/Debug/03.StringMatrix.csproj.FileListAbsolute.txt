@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\03.StringMatrix\bin\Debug\03.StringMatrix.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\03.StringMatrix\bin\Debug\03.StringMatrix.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\03.StringMatrix\obj\Debug\03.StringMatrix.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\03.StringMatrix\obj\Debug\03.StringMatrix.pdb

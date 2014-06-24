@@ -1,0 +1,7 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\06.IndexOfNumber\bin\Debug\06.IndexOfNumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\06.IndexOfNumber\bin\Debug\06.IndexOfNumber.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\06.IndexOfNumber\obj\Debug\06.IndexOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\06.IndexOfNumber\obj\Debug\06.IndexOfNumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\06.IndexOfNumber\obj\Debug\06.IndexOfNumber.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\C#\methods\06.IndexOfNumber\obj\Debug\06.IndexOfNumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\C#\methods\06.IndexOfNumber\obj\Debug\06.IndexOfNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\14.Spiral\bin\Debug\14.Spiral.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\14.Spiral\bin\Debug\14.Spiral.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\14.Spiral\obj\Debug\14.Spiral.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\14.Spiral\obj\Debug\14.Spiral.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\14.Spiral\obj\Debug\14.Spiral.csprojResolveAssemblyReference.cache

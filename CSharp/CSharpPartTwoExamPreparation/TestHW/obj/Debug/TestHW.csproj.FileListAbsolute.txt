@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TestHW\bin\Debug\TestHW.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TestHW\bin\Debug\TestHW.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TestHW\bin\Debug\TestHW.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TestHW\obj\Debug\TestHW.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TestHW\obj\Debug\TestHW.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TestHW\obj\Debug\TestHW.csprojResolveAssemblyReference.cache

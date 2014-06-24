@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="styles/js-console.css"/>
+</head>
+<body>
+    <label for="number">Enter number: </label>
+    <input type="text" id="number"/>
+    <button onclick="DivisbleByFiveandSeven()">Check!</button>
+    <div id="js-console"></div>
+
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function DivisbleByFiveandSeven() {
+            
+            var number = jsConsole.read("#number");
+            jsConsole.writeLine(number % 5 == 0 && number % 7 == 0);
+
+            //If you don't have the JS Console uncomment the following code and view results in the browser console
+            //var num = document.getElementsByTagName("input")[0].value;
+            //console.log(num % 5 == 0 && num % 7 == 0);
+        }
+    </script>
+</body>
+</html>

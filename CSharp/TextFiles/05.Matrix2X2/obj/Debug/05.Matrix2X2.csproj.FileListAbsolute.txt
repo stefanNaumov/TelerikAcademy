@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\05.Matrix2X2\obj\Debug\05.Matrix2X2.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\05.Matrix2X2\bin\Debug\05.Matrix2X2.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\05.Matrix2X2\bin\Debug\05.Matrix2X2.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\05.Matrix2X2\obj\Debug\05.Matrix2X2.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\05.Matrix2X2\obj\Debug\05.Matrix2X2.pdb

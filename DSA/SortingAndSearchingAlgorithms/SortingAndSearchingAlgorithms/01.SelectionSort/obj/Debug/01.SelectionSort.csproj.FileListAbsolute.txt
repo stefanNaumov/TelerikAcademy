@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\bin\Debug\01.SelectionSort.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\bin\Debug\01.SelectionSort.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\bin\Debug\01.SelectionSort.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\obj\Debug\01.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\obj\Debug\01.SelectionSort.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\obj\Debug\01.SelectionSort.pdb

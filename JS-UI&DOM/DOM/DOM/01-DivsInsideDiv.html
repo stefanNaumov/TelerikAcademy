@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+   <!-- Write a script that selects all the div nodes that are directly inside other div elements
+Create a function using querySelectorAll()
+Create a function using getElementsByTagName()-->
+
+</head>
+<body>
+    <div>
+        <p>Pesho</p>
+        <div>This is a div</div>
+        <p>Pak Pesho</p>
+        <div>This is another div</div>
+
+        <script>
+            var innerDivsArr = [];
+            var divs = document.getElementsByTagName('div');
+            for (var i = 0; i < divs.length; i++) {
+
+                var innerDivs = divs[i].querySelectorAll('div');
+                for (var j = 0; j < innerDivs.length; j++) {
+                    innerDivsArr.push(innerDivs[j])
+                }
+            }
+            for (var i = 0; i < innerDivsArr.length; i++) {
+                console.log(innerDivsArr[i].innerHTML);
+            }
+        </script>
+    </div>
+</body>
+</html>

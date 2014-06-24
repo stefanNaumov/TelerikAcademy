@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\13.NullValues\bin\Debug\13.NullValues.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\13.NullValues\bin\Debug\13.NullValues.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\13.NullValues\obj\Debug\13.NullValues.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\13.NullValues\obj\Debug\13.NullValues.pdb

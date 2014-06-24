@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\AirplaneDrinks\bin\Debug\AirplaneDrinks.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\AirplaneDrinks\bin\Debug\AirplaneDrinks.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\AirplaneDrinks\obj\Debug\AirplaneDrinks.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\AirplaneDrinks\obj\Debug\AirplaneDrinks.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\AirplaneDrinks\obj\Debug\AirplaneDrinks.csprojResolveAssemblyReference.cache

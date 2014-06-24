@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\9.CoefficientABC\bin\Debug\9.CoefficientABC.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\9.CoefficientABC\bin\Debug\9.CoefficientABC.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\9.CoefficientABC\obj\Debug\9.CoefficientABC.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\9.CoefficientABC\obj\Debug\9.CoefficientABC.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\9.CoefficientABC\obj\Debug\9.CoefficientABC.pdb

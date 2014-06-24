@@ -1,0 +1,16 @@
+﻿body {
+ background-color:lightblue  
+}
+
+#profile, #friends, #info {text-decoration:underline
+}
+#friends { margin-left:450px
+}
+#info {margin-left:700px
+}
+#minchoProfileDiv { font-style:italic; font-size:x-large
+}
+#upperLine, #lowerLine { color:lightgray
+}
+#nameSpan, #birthdaySpan, #occupationSpan,#areaOfOccupationSpan { font-size:larger
+}

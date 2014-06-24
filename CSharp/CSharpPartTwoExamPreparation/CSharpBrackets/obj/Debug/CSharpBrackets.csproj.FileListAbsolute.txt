@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpBrackets\bin\Debug\CSharpBrackets.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpBrackets\bin\Debug\CSharpBrackets.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpBrackets\obj\Debug\CSharpBrackets.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpBrackets\obj\Debug\CSharpBrackets.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpBrackets\obj\Debug\CSharpBrackets.pdb

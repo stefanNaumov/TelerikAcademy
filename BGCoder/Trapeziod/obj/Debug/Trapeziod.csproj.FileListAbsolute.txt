@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\Trapeziod\bin\Debug\Trapeziod.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\Trapeziod\bin\Debug\Trapeziod.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\Trapeziod\obj\Debug\Trapeziod.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\Trapeziod\obj\Debug\Trapeziod.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\Trapeziod\obj\Debug\Trapeziod.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSConditionalStatements\JSConditionalStatements\bin\JSConditionalStatements.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSConditionalStatements\JSConditionalStatements\bin\JSConditionalStatements.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSConditionalStatements\JSConditionalStatements\obj\Debug\JSConditionalStatements.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSConditionalStatements\JSConditionalStatements\obj\Debug\JSConditionalStatements.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JSConditionalStatements\JSConditionalStatements\obj\Debug\JSConditionalStatements.pdb

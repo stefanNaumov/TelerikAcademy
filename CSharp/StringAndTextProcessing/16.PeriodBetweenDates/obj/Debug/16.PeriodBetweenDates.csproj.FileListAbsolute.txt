@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\16.PeriodBetweenDates\bin\Debug\16.PeriodBetweenDates.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\16.PeriodBetweenDates\bin\Debug\16.PeriodBetweenDates.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\16.PeriodBetweenDates\obj\Debug\16.PeriodBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\16.PeriodBetweenDates\obj\Debug\16.PeriodBetweenDates.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\16.PeriodBetweenDates\obj\Debug\16.PeriodBetweenDates.pdb

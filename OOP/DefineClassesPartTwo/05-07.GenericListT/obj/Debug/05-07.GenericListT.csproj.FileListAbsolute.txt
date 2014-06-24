@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\DefineClassesPartTwo\05-07.GenericListT\bin\Debug\05-07.GenericListT.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\DefineClassesPartTwo\05-07.GenericListT\bin\Debug\05-07.GenericListT.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\DefineClassesPartTwo\05-07.GenericListT\obj\Debug\05-07.GenericListT.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\DefineClassesPartTwo\05-07.GenericListT\obj\Debug\05-07.GenericListT.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\DefineClassesPartTwo\05-07.GenericListT\obj\Debug\05-07.GenericListT.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SevenlandNumbers\bin\Release\SevenlandNumbers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SevenlandNumbers\bin\Release\SevenlandNumbers.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SevenlandNumbers\obj\Release\SevenlandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SevenlandNumbers\obj\Release\SevenlandNumbers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\SevenlandNumbers\obj\Release\SevenlandNumbers.pdb

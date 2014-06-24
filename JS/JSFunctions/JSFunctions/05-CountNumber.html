@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea id="numbersInput" placeholder="Enter numbers with space between them"></textarea>
+    <input type="text" placeholder="numberToCount" id="numberToCount"/>
+    <input type="submit" onclick="handleInput()"/>
+    <script>
+        function handleInput() {
+
+            var numbersString = document.getElementById("numbersInput").value;
+            var numberToCount = parseInt(document.getElementById("numberToCount").value);
+            var array = numbersString.split(' ');
+            
+            document.writeln("Number of encounters: " + countNumberEncounters(array, numberToCount));
+            document.writeln(testFunction());
+            
+        }
+        function testFunction() {
+
+            var testArr = [5, 13, 8, 5, 9, 5];
+            var testNumber = 5;
+            if (countNumberEncounters(testArr,testNumber) == 3) {
+                return "The function works correctly";
+            }
+            else {
+                return "The function doest not work correctly!";
+            }
+        }
+        function countNumberEncounters(arr,number) {
+            var counter = 0;
+            for (var i = 0; i < arr.length; i++) {
+                
+                if (arr[i] == number) {
+
+                    counter++;
+                }
+            }
+            return counter;
+        }
+    </script>
+</body>
+</html>

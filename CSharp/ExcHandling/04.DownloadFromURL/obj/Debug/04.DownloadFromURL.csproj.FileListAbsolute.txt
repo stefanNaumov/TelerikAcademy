@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\04.DownloadFromURL\bin\Debug\04.DownloadFromURL.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\04.DownloadFromURL\obj\Debug\04.DownloadFromURL.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\04.DownloadFromURL\bin\Debug\04.DownloadFromURL.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\04.DownloadFromURL\bin\Debug\04.DownloadFromURL.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\04.DownloadFromURL\obj\Debug\04.DownloadFromURL.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\04.DownloadFromURL\obj\Debug\04.DownloadFromURL.pdb

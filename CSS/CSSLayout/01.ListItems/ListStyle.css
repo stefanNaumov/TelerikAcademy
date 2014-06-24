@@ -1,0 +1,29 @@
+﻿body {
+}
+ul {
+    list-style-type:none;
+    text-decoration:none;
+}
+ul li{
+    text-decoration:none;
+    padding:0;
+    margin:5px;
+}
+ul li a:hover {
+    text-decoration:underline;
+}
+ul li a {
+    text-decoration:none;
+    padding:5px;
+}
+    ul li ul li a {
+        color:rgb(187, 175, 175);
+    }
+ul li ul {
+    display:none;
+    list-style-type:none;
+}
+ul li:hover > ul {
+    display:block;
+}
+ 

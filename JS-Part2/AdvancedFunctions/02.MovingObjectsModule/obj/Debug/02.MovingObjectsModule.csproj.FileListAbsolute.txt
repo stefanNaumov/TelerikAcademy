@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\AdvancedFunctions\02.MovingObjectsModule\bin\02.MovingObjectsModule.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\AdvancedFunctions\02.MovingObjectsModule\bin\02.MovingObjectsModule.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\AdvancedFunctions\02.MovingObjectsModule\obj\Debug\02.MovingObjectsModule.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\AdvancedFunctions\02.MovingObjectsModule\obj\Debug\02.MovingObjectsModule.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\AdvancedFunctions\02.MovingObjectsModule\obj\Debug\02.MovingObjectsModule.pdb

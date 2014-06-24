@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea placeholder="Enter text" id="stringInput"></textarea>
+    <input type="text" id="word" placeholder="Enter substring to count"/>
+    <button onclick="countSubstring()">Check!</button>
+
+    <script>
+        function countSubstring() {
+            var str = document.getElementById("stringInput").value;
+            var word = (document.getElementById("word").value).toLowerCase();
+            document.write("Number of occurances: ")
+            document.write(str.split(word).length);
+        }
+    </script>
+</body>
+</html>

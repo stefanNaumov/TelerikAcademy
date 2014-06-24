@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TripleRotationOfDigits\bin\Release\TripleRotationOfDigits.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TripleRotationOfDigits\bin\Release\TripleRotationOfDigits.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TripleRotationOfDigits\obj\Release\TripleRotationOfDigits.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TripleRotationOfDigits\obj\Release\TripleRotationOfDigits.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\TripleRotationOfDigits\obj\Release\TripleRotationOfDigits.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\Hypotenuse\obj\Debug\Hypotenuse.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\Hypotenuse\obj\Debug\Hypotenuse.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\Hypotenuse\bin\Debug\Hypotenuse.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\Hypotenuse\bin\Debug\Hypotenuse.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ClassesAndObjects\Hypotenuse\obj\Debug\04.SurfaceOfATriangle.csprojResolveAssemblyReference.cache

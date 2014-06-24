@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\ExceptionHandling\01.SystemIoException\obj\Debug\07.PositiveIntSqrt.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\ExceptionHandling\01.SystemIoException\bin\Debug\01.SystemIoException.exe
+c:\users\stefan\documents\visual studio 2012\Projects\ExceptionHandling\01.SystemIoException\bin\Debug\01.SystemIoException.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\ExceptionHandling\01.SystemIoException\obj\Debug\01.SystemIoException.exe
+c:\users\stefan\documents\visual studio 2012\Projects\ExceptionHandling\01.SystemIoException\obj\Debug\01.SystemIoException.pdb

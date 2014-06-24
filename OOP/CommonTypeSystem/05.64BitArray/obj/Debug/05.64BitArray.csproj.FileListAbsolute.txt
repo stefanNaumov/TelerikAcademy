@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\05.64BitArray\obj\Debug\05.64BitArray.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\05.64BitArray\bin\Debug\05.64BitArray.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\05.64BitArray\bin\Debug\05.64BitArray.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\05.64BitArray\obj\Debug\05.64BitArray.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\CommonTypeSystem\05.64BitArray\obj\Debug\05.64BitArray.pdb

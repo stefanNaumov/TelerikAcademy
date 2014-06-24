@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="VehiclesScript.js"></script>
+</head>
+<body onload="onLoader()">
+    <script>
+        function onLoad() {
+            var wheels = [
+                new vehicles.Wheel(70),
+                new vehicles.Wheel(70),
+                new vehicles.Wheel(70),
+                new vehicles.Wheel(70)
+            ];
+            var landUnit = new vehicles.LandVehicle(130, wheels);
+            console.log(landUnit.speed);
+        }
+    </script>
+    <script>
+        'use strict';
+        function onLoader() {
+
+            function Parent(value) {
+                this._val = value;
+            }
+
+            Parent.prototype.get = function fn() {
+                return this._val;
+            }
+
+            function Child(value) {
+                Parent.call(this, value);
+            }
+
+            Child.prototype = Object.create(Parent.prototype);
+            Child.prototype.constructor = Child;
+
+            var newChild = new Child(11);
+            console.log(newChild.get());
+        }
+    </script>
+</body>
+</html>

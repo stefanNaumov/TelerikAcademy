@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\03-05.Students\obj\Debug\03-05.Students.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\03-05.Students\bin\Debug\03-05.Students.exe
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\03-05.Students\bin\Debug\03-05.Students.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\03-05.Students\obj\Debug\03-05.Students.exe
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\03-05.Students\obj\Debug\03-05.Students.pdb

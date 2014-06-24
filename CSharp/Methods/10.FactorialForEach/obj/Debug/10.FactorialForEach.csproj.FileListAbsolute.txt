@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\10.FactorialForEach\bin\Debug\10.FactorialForEach.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\10.FactorialForEach\bin\Debug\10.FactorialForEach.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\10.FactorialForEach\obj\Debug\10.FactorialForEach.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\10.FactorialForEach\obj\Debug\10.FactorialForEach.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\10.FactorialForEach\obj\Debug\10.FactorialForEach.pdb

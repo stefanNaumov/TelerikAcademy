@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\2.DivideByFiveAndSeven\bin\Debug\2.DivideByFiveAndSeven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\2.DivideByFiveAndSeven\bin\Debug\2.DivideByFiveAndSeven.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\2.DivideByFiveAndSeven\obj\Debug\2.DivideByFiveAndSeven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\2.DivideByFiveAndSeven\obj\Debug\2.DivideByFiveAndSeven.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\2.DivideByFiveAndSeven\obj\Debug\2.DivideByFiveAndSeven.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.BiggestOfFiveIntegers\bin\Debug\07.BiggestOfFiveIntegers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.BiggestOfFiveIntegers\bin\Debug\07.BiggestOfFiveIntegers.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.BiggestOfFiveIntegers\obj\Debug\07.BiggestOfFiveIntegers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.BiggestOfFiveIntegers\obj\Debug\07.BiggestOfFiveIntegers.pdb

@@ -1,0 +1,7 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.StefanAI\bin\Debug\Belot.StefanAI.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.StefanAI\bin\Debug\Belot.StefanAI.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.StefanAI\bin\Debug\Belot.Common.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.StefanAI\bin\Debug\Belot.Common.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.StefanAI\obj\Debug\Belot.StefanAI.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.StefanAI\obj\Debug\Belot.StefanAI.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\TestingAndExercises\Belot.StefanAI\obj\Debug\Belot.StefanAI.pdb

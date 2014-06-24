@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Trash Bucket</title>
+    <style>
+        #highScore{
+            position:absolute;
+            top:500px;
+        }
+        label
+        {
+            position:absolute;
+            top:180px;
+            left:480px;
+            font-size:22px;
+            color:red;
+        } 
+        input
+        {
+            position:absolute;
+            top:200px;
+            left:500px;
+        }
+        button
+        {
+            position:absolute;
+        }
+        img
+        {
+            position:absolute;
+        }
+        #trashBucket{
+            height:200px;
+            width:160px;
+        }
+        .randomTrash{
+            height:80px;
+            width:80px;
+            
+        }
+        #img1
+        {
+            margin-left:300px;
+            margin-top:160px;
+        }
+        #img2
+        {
+            margin-left:600px;
+            margin-top:560px;
+        }
+        #img3
+        {
+            margin-left:500px;
+            margin-top:60px;
+        }
+        #img4
+        {
+            margin-left:100px;
+            margin-top:460px;
+        }
+        
+    </style>
+    
+</head>
+<body>
+    <div ondragover="allowDrop(event)" ondrop="drop(event)">
+        <img id="trashBucket" src="Trashclosed.JPG" ondragover="bucketState('opened')" 
+            onmouseout="bucketState('closed')" ondragleave="bucketState('closed')"/>
+    </div>
+    <div id="trashArea" >
+        <img class="randomTrash" id="img1" src="trash.jpg" draggable="true" ondragstart="drag(event)"/>
+        <img class="randomTrash" id="img2" src="trash.jpg" draggable="true" ondragstart="drag(event)"/>
+        <img class="randomTrash" id="img3" src="trash.jpg" draggable="true" ondragstart="drag(event)"/>
+        <img class="randomTrash" id="img4" src="trash.jpg" draggable="true" ondragstart="drag(event)"/>
+    </div>
+    <button onclick="startGame()">Start Game!</button>
+    <div id="highScore"></div>
+    <button onclick="printHighScore()">Show results</button>
+    <script src="TrashScript.js"></script>
+</body>
+</html>

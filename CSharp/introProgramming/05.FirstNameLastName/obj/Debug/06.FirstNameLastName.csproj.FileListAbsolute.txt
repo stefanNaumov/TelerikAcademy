@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\05.FirstNameLastName\bin\Debug\05.FirstNameLastName.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\05.FirstNameLastName\bin\Debug\05.FirstNameLastName.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\05.FirstNameLastName\obj\Debug\05.FirstNameLastName.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\05.FirstNameLastName\obj\Debug\05.FirstNameLastName.pdb

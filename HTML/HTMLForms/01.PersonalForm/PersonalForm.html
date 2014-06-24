@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+        table {border-collapse:collapse; width:400px;
+        }
+        td {border:1px; border:solid; border-color:lightgray; width:200px; padding:2px; text-align:right
+        }
+        input{ width:180px
+        }
+        #city { width:100px
+        }
+        #state { width:30px
+        }
+        #countryMenu {text-align:left
+        }
+        #country { width:180px
+        }
+        #month, #day {width:15px
+        }
+        #year {width:28px
+        }
+        #sex {text-align:left
+        }
+        #footer {background-color:lightblue
+        }
+        #submitButton{width:100px
+        }
+        #resetButton { width:130px
+        }
+        input.startdate {width:auto
+        }
+        input.phone {width:45px
+        }
+    </style>
+</head>
+<body>
+    <form id="form">
+        <table>
+            <tfoot id="footer">
+                <tr>
+                    <td>
+                        <input id="submit1" type="submit" value="Submit"/>
+                    </td>
+                    <td>
+                        <input id="reset1" type="reset" value="Clear this form"/>
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <tr>
+                    <td>
+                        <label for="lastn" ><b>Last Name</b></label>
+                    </td>
+                    <td>
+                        <input id="lastn" type="text" placeholder="Ivanov" required/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="firstn"><b>First Name</b></label>
+                    </td>
+                    <td>
+                        <input id="firstn" type="text" placeholder="Stamat" required/>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="1">
+                        <label for="adress"><b>Adress</b></label>
+                    </td>
+                    <td>
+                        <textarea rows="4" id="adress" placeholder="Sledvashtata vlqvo Str., № 1 sled vtoriq pun"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="city"><b>City</b></label>
+                    </td>
+                    <td>
+                        <input id="city" type="text" placeholder="Traqnovo"/>
+                        <label for="state">State</label>
+                        <input id="state"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="ZIP"><b>ZIP/Postal Code</b></label>
+                    </td>
+                    <td>
+                        <input id="ZIP" type="text" pattern="[0-9]{1,4}"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="country"><b>Country</b></label>
+                    </td>
+                    <td id="countryMenu">
+                        <select id="country">
+                            <option value="BG" selected="selected">Bulgaristan</option>
+                            <option value="BU">Burundi</option>
+                            <option value="TA">Tanzania</option>
+                            <option value="GA">Gabon</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label><b>Phone(Country code,area code,number)</b></label>
+                    </td>
+                    <td>
+                        (+<input class="phone" type="text" pattern="[0-9]{1,5}" placeholder="359"/>)
+                        <input class="phone" type="text" pattern="[0-9]{1,4}" placeholder="889"/> -
+                        <input class="phone" type="text" pattern="[0-9]{4,6}" placeholder="234567"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="mail"><b>E-mail</b></label>
+                    </td>
+                    <td>
+                    <input id="mail" type="email" placeholder="gincho@mincho.org"/>
+                </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="month"><b>Birth date</b></label>
+                    </td>
+                    <td>Month
+                        <input id="month" type="text" pattern="[0-9]{2}" placeholder="03"/>
+                        Day
+                        <input id="day" type="text" pattern="[1-31]{1,2}" placeholder="13"/>
+                        Year
+                        <input id="year" type="text" pattern="[0-9]{4}" placeholder="1994"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="gender"><b>Gender</b></label>
+                    </td>
+                    <td id="sex">
+                        <select>
+                            <option value="Male" selected>Male</option>
+                            <option value="Female">Female</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label><b>Starting date</b></label>
+                    </td>
+                    <td>
+                        <input class="startdate" name="startdt" id="spring" type="radio" value="Spring"/>
+                        <label for="spring">Spring</label>
+                        <input class="startdate" name="startdt" id="autumn" type="radio" value="Autumn"/>
+                        <label for="autumn">Autumn</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="1">
+                        <label>Comments/Questions</label>
+                    </td>
+                    <td>
+                        <textarea rows="2" id="comments" placeholder="Please send us your opinion"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

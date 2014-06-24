@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script src="JQuery.js"></script>
+    <script>
+        (function () {
+           
+            var $grid = $('<div>');
+            var $inputList = $('<ul>');
+            
+            for (var i = 0; i < 3; i++) {
+                var $currCell = $('<input>').attr({ type: 'text', id: (i + 1).toString() });
+                var $liElement = $('<li>Cell ' + (i + 1) + '</li>' ).append($currCell);
+                $inputList.append($liElement.clone(true));
+            }
+            $inputList.css('list-style-type', 'none');
+            $grid.append($inputList);
+
+            var $addRowBtn = $('<button>Add Row</button>');
+            var $addHeadBtn = $('<button>Add Header</button>');
+            var $removeRowBtn = $('<button>Remove Row</button>');
+
+            $grid.append($addRowBtn);
+            $grid.append($addHeadBtn);
+            $grid.append($removeRowBtn);
+            $('body').append($grid);
+
+            $addRowBtn.on('click', function () {
+                var $cellOne = $('<div>');
+                if ($('#1').val() != '') {
+                    $cellOne.html($('#1').val());
+                }
+                $cellOne.css('font-size', '20px');
+                $grid.append($cellOne);
+            });
+        }());
+    </script>
+</body>
+</html>

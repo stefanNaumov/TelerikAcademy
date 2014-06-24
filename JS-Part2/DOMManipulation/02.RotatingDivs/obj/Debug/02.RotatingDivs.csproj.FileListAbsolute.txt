@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\02.RotatingDivs\bin\02.RotatingDivs.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\02.RotatingDivs\bin\02.RotatingDivs.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\02.RotatingDivs\obj\Debug\02.RotatingDivs.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\02.RotatingDivs\obj\Debug\02.RotatingDivs.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\DOMManipulation\02.RotatingDivs\obj\Debug\02.RotatingDivs.pdb

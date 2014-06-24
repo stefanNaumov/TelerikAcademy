@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\06.TwentyCharsString\bin\Debug\06.TwentyCharsString.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\06.TwentyCharsString\bin\Debug\06.TwentyCharsString.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\06.TwentyCharsString\obj\Debug\06.TwentyCharsString.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\06.TwentyCharsString\obj\Debug\06.TwentyCharsString.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\06.TwentyCharsString\obj\Debug\06.TwentyCharsString.pdb

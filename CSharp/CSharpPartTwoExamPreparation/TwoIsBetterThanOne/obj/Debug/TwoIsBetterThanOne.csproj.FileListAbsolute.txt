@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TwoIsBetterThanOne\bin\Debug\TwoIsBetterThanOne.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\TwoIsBetterThanOne\obj\Debug\TwoIsBetterThanOne.pdb

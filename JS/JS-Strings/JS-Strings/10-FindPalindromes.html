@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var text = "Write a program that extracts from a given text all palindromes, e.g. ABBA lamal exe";
+        
+        var palindromes = extractPalindromes(text);
+        for (var i = 0; i < palindromes.length; i++) {
+
+            document.write(palindromes[i]);
+            document.write("<br>");
+        }
+        function extractPalindromes(textInput) {
+           
+            textInput = textInput.replace(",", " ");
+            textInput = textInput.replace(".", " ");
+            textInput = textInput.replace("!", " ");
+            textInput = textInput.replace("?", " ");
+            var palindromes = [];
+            var str = stringBuilder();
+            var strArr = textInput.split(" ");
+            
+            for (var i = 0; i < strArr.length; i++) {
+
+                str = stringBuilder();
+                for (var j = strArr[i].length - 1; j >= 0; j--) {
+                    str.append(strArr[i][j]);
+                }
+               
+                if (str.toString() == strArr[i] && str.toString().length > 1) {
+                    
+                    palindromes.push(strArr[i]);
+                }
+            }
+            return palindromes;
+        }
+        function stringBuilder() {
+            return {
+                strs: [],
+                len: 0,
+                append: function (str) {
+                    this.strs[this.len++] = str;
+                    return this;
+                },
+                toString: function () {
+                    return this.strs.join("");
+                }
+            };
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+    <style>
+        img{
+            width:500px;
+            height:250px;
+            border-radius:10px;
+        }
+        /*#sliderCont{
+            width:500px;
+            height:500px;
+        }*/
+    </style>
+<body>
+    <script src="JQuery.js"></script>
+    
+        <div id="slider">
+            <button id="prevBtn">Previous</button>
+            <button id="nextBtn">Next</button>
+            <div id="sliderCont"></div>
+            
+        </div>
+    <script>
+        var imgs = [
+            '<img src="../black-sport.jpg" alt="" />',
+            '<img src="lamborgini.jpg" alt="" />',
+            '<img src="Maserati.jpg" alt="" />',
+            '<img src="pagani-zonda.jpg" alt="" />'
+        ];
+        
+        $.fn.slide = function () {
+
+            $('#prevBtn').on('click', prevImg);
+            $('#nextBtn').on('click', nextImg);
+            var index = 0;
+            setSlide();
+            
+            function nextImg() {
+                
+                if (index + 1 < imgs.length) {
+                    index += 1;
+                    setSlide();
+                }
+                else {
+                    index = 0;
+                }
+            }
+
+            function prevImg () {
+                
+                if (index - 1 >= 0) {
+                    index -= 1;
+                    
+                }
+                setSlide();
+                reset();
+            }
+
+            function setSlide() {
+                $('#sliderCont').html(imgs[index]);
+            }
+
+            function reset() {
+                clearInterval(autoSlideChanger);
+                autoSlideChanger = setInterval(nextImg, 3000);
+            }
+
+            var autoSlideChanger = setInterval(nextImg, 3000);
+        }
+        
+        $('#slider').slide();
+    </script>
+</body>
+</html>

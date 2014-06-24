@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\02.UserForm\bin\02.UserForm.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\02.UserForm\bin\02.UserForm.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\02.UserForm\obj\Debug\02.UserForm.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\02.UserForm\obj\Debug\02.UserForm.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\02.UserForm\obj\Debug\02.UserForm.pdb

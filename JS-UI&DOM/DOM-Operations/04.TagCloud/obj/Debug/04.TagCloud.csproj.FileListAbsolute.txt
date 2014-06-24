@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\04.TagCloud\bin\04.TagCloud.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\04.TagCloud\bin\04.TagCloud.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\04.TagCloud\obj\Debug\04.TagCloud.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\04.TagCloud\obj\Debug\04.TagCloud.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\04.TagCloud\obj\Debug\04.TagCloud.pdb

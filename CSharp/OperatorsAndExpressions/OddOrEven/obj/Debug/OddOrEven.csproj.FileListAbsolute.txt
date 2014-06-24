@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\OddOrEven\bin\Debug\OddOrEven.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\OddOrEven\obj\Debug\OddOrEven.pdb

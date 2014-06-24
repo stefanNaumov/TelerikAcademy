@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\07.LargestAreaOfEqualNeighbourElements\bin\Debug\07.LargestAreaOfEqualNeighbourElements.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\07.LargestAreaOfEqualNeighbourElements\bin\Debug\07.LargestAreaOfEqualNeighbourElements.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\07.LargestAreaOfEqualNeighbourElements\obj\Debug\07.LargestAreaOfEqualNeighbourElements.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\07.LargestAreaOfEqualNeighbourElements\obj\Debug\07.LargestAreaOfEqualNeighbourElements.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\MultidimensionalArray\07.LargestAreaOfEqualNeighbourElements\obj\Debug\07.LargestAreaOfEqualNeighbourElements.csprojResolveAssemblyReference.cache

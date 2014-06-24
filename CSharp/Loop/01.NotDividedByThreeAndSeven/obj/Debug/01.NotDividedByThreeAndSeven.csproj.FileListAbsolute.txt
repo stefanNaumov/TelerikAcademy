@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.NotDividedByThreeAndSeven\bin\Debug\01.NotDividedByThreeAndSeven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.NotDividedByThreeAndSeven\bin\Debug\01.NotDividedByThreeAndSeven.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.NotDividedByThreeAndSeven\obj\Debug\01.NotDividedByThreeAndSeven.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.NotDividedByThreeAndSeven\obj\Debug\01.NotDividedByThreeAndSeven.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\01.NotDividedByThreeAndSeven\obj\Debug\01.NotDividedByThreeAndSeven.pdb

@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <label for="stringInput">Enter word: </label>
+    <input type="text" id="stringInput"/>
+    <button onclick="reverseString()">Reverse!</button>
+    <script>
+        function reverseString() {
+            var str = document.getElementById("stringInput").value;
+
+            document.write("Reversed string: " + str.split('').reverse().join(''));
+        }
+    </script>
+</body>
+</html>

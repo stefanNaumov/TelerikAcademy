@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var url = "http://www.devbg.org/forum/index.php ";
+        var parsedObj = parseURL(url);
+        document.write("Protocol: " + parsedObj.protocol);
+        document.write("<br>");
+        document.write("Server: " + parsedObj.server);
+        document.write("<br>");
+        document.write("Resource: " + parsedObj.resource);
+        function parseURL(url) {
+            var urlArr = url.split("/");
+
+            var protocol = urlArr[0].replace(":", "");
+            protocol = protocol.replace("/", "");
+
+            var server = urlArr[2];
+
+            var resource = "/" + urlArr[3] + "/" +  urlArr[4];
+
+            return {
+                protocol: protocol,
+                server: server,
+                resource: resource
+            };
+            
+        }
+    </script>
+</body>
+</html>

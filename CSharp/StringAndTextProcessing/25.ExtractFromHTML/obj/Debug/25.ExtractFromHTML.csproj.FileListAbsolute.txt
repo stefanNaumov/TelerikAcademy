@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\25.ExtractFromHTML\bin\Debug\25.ExtractFromHTML.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\25.ExtractFromHTML\bin\Debug\25.ExtractFromHTML.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\25.ExtractFromHTML\obj\Debug\25.ExtractFromHTML.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\25.ExtractFromHTML\obj\Debug\25.ExtractFromHTML.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\25.ExtractFromHTML\obj\Debug\25.ExtractFromHTML.pdb

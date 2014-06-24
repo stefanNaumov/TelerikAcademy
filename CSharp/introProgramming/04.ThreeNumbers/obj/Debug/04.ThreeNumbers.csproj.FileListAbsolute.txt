@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\04.ThreeNumbers\bin\Debug\04.ThreeNumbers.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\04.ThreeNumbers\bin\Debug\04.ThreeNumbers.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\04.ThreeNumbers\obj\Debug\04.ThreeNumbers.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\04.ThreeNumbers\obj\Debug\04.ThreeNumbers.pdb

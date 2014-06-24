@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\02.ReverseWithStack\bin\Debug\02.ReverseWithStack.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\02.ReverseWithStack\bin\Debug\02.ReverseWithStack.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\02.ReverseWithStack\bin\Debug\02.ReverseWithStack.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\02.ReverseWithStack\obj\Debug\02.ReverseWithStack.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\02.ReverseWithStack\obj\Debug\02.ReverseWithStack.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\02.ReverseWithStack\obj\Debug\02.ReverseWithStack.pdb

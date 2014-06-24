@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\05.TreeView\bin\05.TreeView.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\05.TreeView\bin\05.TreeView.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\05.TreeView\obj\Debug\05.TreeView.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\05.TreeView\obj\Debug\05.TreeView.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\05.TreeView\obj\Debug\05.TreeView.pdb

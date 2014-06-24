@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <label for="expressionInput">Enter word: </label>
+    <input type="text" id="expressionInput"/>
+    <button onclick="checkBrackets()">Check!</button>
+
+    <script>
+        function checkBrackets() {
+
+            var strExpression = document.getElementById('expressionInput').value;
+            var openBracketCounter = 0;
+            var closeBracketCounter = 0;
+            for (var i = 0; i < strExpression.length; i++) {
+
+                if (strExpression[i] == '(') {
+                    openBracketCounter++;
+                }
+                if (strExpression[i] == ')') {
+                    closeBracketCounter++;
+                }
+            }
+            if (openBracketCounter != closeBracketCounter) {
+
+                document.write("The expression is incorrect!");
+            }
+            else {
+                document.write("The expression is correct!");
+            }
+        }
+    </script>
+</body>
+</html>

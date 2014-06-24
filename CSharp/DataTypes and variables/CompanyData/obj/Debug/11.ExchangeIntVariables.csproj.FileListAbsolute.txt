@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CompanyData\bin\Debug\CompanyData.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CompanyData\bin\Debug\CompanyData.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CompanyData\obj\Debug\CompanyData.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CompanyData\obj\Debug\CompanyData.pdb

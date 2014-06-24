@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Biatlon\bin\Debug\Biatlon.exe
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Biatlon\bin\Debug\Biatlon.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Biatlon\obj\Debug\01.Biatlon.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Biatlon\obj\Debug\Biatlon.exe
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Biatlon\obj\Debug\Biatlon.pdb

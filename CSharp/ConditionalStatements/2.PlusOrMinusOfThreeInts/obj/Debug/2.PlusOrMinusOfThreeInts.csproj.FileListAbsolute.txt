@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\2.PlusOrMinusOfThreeInts\bin\Debug\2.PlusOrMinusOfThreeInts.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\2.PlusOrMinusOfThreeInts\bin\Debug\2.PlusOrMinusOfThreeInts.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\2.PlusOrMinusOfThreeInts\obj\Debug\2.PlusOrMinusOfThreeInts.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\2.PlusOrMinusOfThreeInts\obj\Debug\2.PlusOrMinusOfThreeInts.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\2.PlusOrMinusOfThreeInts\obj\Debug\2.PlusOrMinusOfThreeInts.csprojResolveAssemblyReference.cache

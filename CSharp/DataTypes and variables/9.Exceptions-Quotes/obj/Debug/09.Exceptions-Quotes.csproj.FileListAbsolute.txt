@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\bin\Debug\9.Exceptions-Quotes.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\bin\Debug\9.Exceptions-Quotes.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\obj\Debug\09.Exceptions-Quotes.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\obj\Debug\9.Exceptions-Quotes.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\obj\Debug\9.Exceptions-Quotes.pdb

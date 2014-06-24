@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\OperatorsAndExpressions\LogicalOperators\bin\Debug\LogicalOperators.exe
+c:\users\stefan\documents\visual studio 2012\Projects\OperatorsAndExpressions\LogicalOperators\bin\Debug\LogicalOperators.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\OperatorsAndExpressions\LogicalOperators\obj\Debug\LogicalOperators.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\OperatorsAndExpressions\LogicalOperators\obj\Debug\LogicalOperators.exe
+c:\users\stefan\documents\visual studio 2012\Projects\OperatorsAndExpressions\LogicalOperators\obj\Debug\LogicalOperators.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\02.PeopleList\bin\02.PeopleList.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\02.PeopleList\bin\02.PeopleList.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\02.PeopleList\obj\Debug\02.PeopleList.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\02.PeopleList\obj\Debug\02.PeopleList.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSS-Overview\02.PeopleList\obj\Debug\02.PeopleList.pdb

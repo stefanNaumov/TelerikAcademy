@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <script>
+        function group(persons,groupName) {
+            
+            var dictionary = [];
+
+            dictionary.containsKey = function (key) {
+                for (var i = 0; i < dictionary.length; i++) {
+                   
+                    if (this[i].key == key) {
+
+                        return i;
+                    }
+                }
+                return -1;
+            }
+
+            switch (groupName) {
+                case "age": {
+                    for (var i = 0; i < persons.length; i++) {
+
+                        var index = dictionary.containsKey(persons[i].age);
+
+                        if (index == -1) {
+
+                            dictionary.push({ key: persons[i].age, group: new Array(persons[i]) });
+                        }
+                        else {
+                            dictionary[index].group.push(persons[i].age);
+                        }
+                    }
+                    break;
+                }
+                case "firstName": {
+                    break;
+                }
+                case "lastName": {
+                    break;
+                }
+                default: {
+                    document.write("No such property!");
+                    break;
+                }
+                    
+            }
+            return dictionary;
+        }
+        var persons = [
+                { firstName: "Pesho", lastName: "Petrakiev", age: 25 },
+                 { firstName: "Ivan", lastName: "Gugov", age: 13 },
+                  { firstName: "Vlado", lastName: "Ivanov", age: 45 },
+                   { firstName: "Bai-ti", lastName: "Ivan", age: 72 }
+        ];
+        document.writeln("Grouped by age: ");
+        printDictionary(group(persons, "age"));
+        function printDictionary(dictionary) {
+            for (var i = 0; i < dictionary.length; i++) {
+                document.write(dictionary[i].key + ": ");
+
+                for (var j in dictionary[i].group) {
+                    document.write("(" + dictionary[i].group[j].firstName + " " + dictionary[i].group[j].lastName + ") ");
+                }
+                document.writeln();
+            }
+        }
+    </script>
+</body>
+</html>

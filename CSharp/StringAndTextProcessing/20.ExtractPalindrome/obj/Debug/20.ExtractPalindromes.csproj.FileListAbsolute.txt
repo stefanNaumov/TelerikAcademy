@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\20.ExtractPalindrome\bin\Debug\20.ExtractPalindrome.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\20.ExtractPalindrome\bin\Debug\20.ExtractPalindrome.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\20.ExtractPalindrome\obj\Debug\20.ExtractPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\20.ExtractPalindrome\obj\Debug\20.ExtractPalindrome.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\20.ExtractPalindrome\obj\Debug\20.ExtractPalindrome.pdb

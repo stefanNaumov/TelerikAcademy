@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\jQueryOverview\jQueryOverview\bin\jQueryOverview.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\jQueryOverview\jQueryOverview\bin\jQueryOverview.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\jQueryOverview\jQueryOverview\obj\Debug\jQueryOverview.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\jQueryOverview\jQueryOverview\obj\Debug\jQueryOverview.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\jQueryOverview\jQueryOverview\obj\Debug\jQueryOverview.pdb

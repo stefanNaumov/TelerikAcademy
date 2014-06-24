@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\3.BiggestOfThree\bin\Debug\3.BiggestOfThree.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\3.BiggestOfThree\bin\Debug\3.BiggestOfThree.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\3.BiggestOfThree\bin\Debug\3.BiggestOfThree.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\3.BiggestOfThree\obj\Debug\3.BiggestOfThree.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\3.BiggestOfThree\obj\Debug\3.BiggestOfThree.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\3.BiggestOfThree\obj\Debug\3.BiggestOfThree.pdb

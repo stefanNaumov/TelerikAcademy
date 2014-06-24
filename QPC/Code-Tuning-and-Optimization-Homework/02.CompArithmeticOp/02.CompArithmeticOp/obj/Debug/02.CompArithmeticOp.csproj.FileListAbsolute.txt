@@ -1,0 +1,2 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Code-Tuning-and-Optimization-Homework\02.CompArithmeticOp\02.CompArithmeticOp\bin\Debug\02.CompArithmeticOp.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Code-Tuning-and-Optimization-Homework\02.CompArithmeticOp\02.CompArithmeticOp\obj\Debug\02.CompArithmeticOp.csprojResolveAssemblyReference.cache

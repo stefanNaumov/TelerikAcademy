@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Show Signs</title>
+    <link rel="stylesheet" href="js-console.css"/>
+</head>
+<body>
+    <div>
+        <label for="firstValue">Enter first value: </label>
+        <input type="text" id="firstValue"/>
+        <label for="secondValue">Enter second value: </label>
+        <input type="text" id="secondValue"/>
+        <label for="secondValue">Enter third value: </label>
+        <input type="text" id="thirdValue"/>
+        <button onclick="CheckSign()">Check Sign</button>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function CheckSign() {
+            var sign;
+            var firstNum = jsConsole.readFloat("#firstValue");
+            var secNum = jsConsole.readFloat("#secondValue");
+            var thirdNum = jsConsole.readFloat("#thirdValue");
+            if (firstNum >= 0) {
+                if (secNum < 0 && thirdNum < 0) {
+                    sign = "+";
+                }
+                else if ((secNum >= 0 && thirdNum < 0) || (secNum < 0 && thirdNum >= 0)) {
+                    sign = "-";
+                }
+                else {
+                    sign = "+";
+                }
+            }
+            else if (secNum >= 0) {
+                if (firstNum < 0 && thirdNum < 0) {
+                    sign = "+";
+                }
+                else if ((firstNum >= 0 && thirdNum < 0) || (firstNum < 0 && thirdNum >= 0)) {
+                    sign = "-";
+                }
+                else {
+                    sign = "+"
+                }
+            }
+            else if (thirdNum >= 0) {
+                if (firstNum < 0 && secNum < 0) {
+                    sign = "+"
+                }
+                else if ((firstNum >= 0 && secNum < 0) || (firstNum < 0 && secNum >= 0)) {
+                    sign = "-"
+                }
+                else {
+                    sign = "+"
+                }
+            }
+            else {
+                sign = "-";
+            }
+            jsConsole.writeLine("Sign of the product of the three integers is: " + sign);
+        }
+    </script>
+</body>
+</html>

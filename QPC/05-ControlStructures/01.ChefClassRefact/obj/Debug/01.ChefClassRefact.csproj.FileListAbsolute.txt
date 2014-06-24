@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\05-ControlStructures\01.ChefClassRefact\bin\Debug\01.ChefClassRefact.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\05-ControlStructures\01.ChefClassRefact\obj\Debug\01.ChefClassRefact.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\05-ControlStructures\01.ChefClassRefact\bin\Debug\01.ChefClassRefact.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\05-ControlStructures\01.ChefClassRefact\bin\Debug\01.ChefClassRefact.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\05-ControlStructures\01.ChefClassRefact\obj\Debug\01.ChefClassRefact.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\03-DocumentationAndComments\05-ControlStructures\01.ChefClassRefact\obj\Debug\01.ChefClassRefact.pdb

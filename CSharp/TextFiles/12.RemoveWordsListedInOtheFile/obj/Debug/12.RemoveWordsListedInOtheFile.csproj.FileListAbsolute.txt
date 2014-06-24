@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\12.RemoveWordsListedInOtheFile\bin\Debug\12.RemoveWordsListedInOtheFile.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\12.RemoveWordsListedInOtheFile\bin\Debug\12.RemoveWordsListedInOtheFile.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\12.RemoveWordsListedInOtheFile\obj\Debug\12.RemoveWordsListedInOtheFile.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\12.RemoveWordsListedInOtheFile\obj\Debug\12.RemoveWordsListedInOtheFile.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\12.RemoveWordsListedInOtheFile\obj\Debug\12.RemoveWordsListedInOtheFile.pdb

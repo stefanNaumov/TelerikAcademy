@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02.RefactoringTask02\bin\02.RefactoringTask02.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02.RefactoringTask02\bin\02.RefactoringTask02.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02.RefactoringTask02\obj\Debug\02.RefactoringTask02.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02.RefactoringTask02\obj\Debug\02.RefactoringTask02.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSPresentation\02.RefactoringTask02\obj\Debug\02.RefactoringTask02.csprojResolveAssemblyReference.cache

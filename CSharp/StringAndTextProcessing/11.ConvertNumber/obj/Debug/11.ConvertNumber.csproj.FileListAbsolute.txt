@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\11.ConvertNumber\bin\Debug\11.ConvertNumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\11.ConvertNumber\bin\Debug\11.ConvertNumber.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\11.ConvertNumber\obj\Debug\11.ConvertNumber.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\11.ConvertNumber\obj\Debug\11.ConvertNumber.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\StringAndTextProcessing\11.ConvertNumber\obj\Debug\11.ConvertNumber.pdb

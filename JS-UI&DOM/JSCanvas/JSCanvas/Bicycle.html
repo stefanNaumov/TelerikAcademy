@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <canvas id="canvas" width="500" height="500"></canvas>
+
+    <script>
+        var ctx = document.getElementById('canvas').getContext('2d');
+        //left wheel
+        var centerX = 100;
+        var centerY = 300;
+        var radius = 50;
+        ctx.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);
+        ctx.strokeStyle = 'rgb(100,160,195)';
+        ctx.lineWidth = '2';
+        ctx.stroke();
+
+        //left side of frame and seat
+        ctx.moveTo(100, 300);
+        ctx.lineTo(180, 230);
+        ctx.lineTo(160, 200);
+        ctx.moveTo(140, 200);
+        ctx.lineTo(180, 200);
+        //middle part of frame
+        ctx.moveTo(180, 230);
+        ctx.lineTo(220, 300);
+
+        ctx.moveTo(100, 300);
+        ctx.lineTo(220, 300);
+
+        ctx.moveTo(180, 230);
+        ctx.lineTo(300, 230);
+        ctx.lineTo(220, 300);
+        ctx.stroke();
+        //pedals
+        ctx.beginPath();
+        ctx.arc(220, 300, 15, 0, 2 * Math.PI, false);
+        ctx.moveTo(210, 291);
+        ctx.lineTo(200, 280);
+        ctx.moveTo(232, 311);
+        ctx.lineTo(242, 320);
+        ctx.stroke();
+        //right wheel
+        ctx.beginPath();
+        centerX = 310;
+        centerY = 300;
+        ctx.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);
+        //handle-bar
+        ctx.moveTo(310, 300);
+        ctx.lineTo(296, 190);
+
+        ctx.moveTo(250, 200);
+        ctx.lineTo(296, 190);
+        ctx.lineTo(320, 160);
+        ctx.stroke();
+    </script>
+</body>
+</html>

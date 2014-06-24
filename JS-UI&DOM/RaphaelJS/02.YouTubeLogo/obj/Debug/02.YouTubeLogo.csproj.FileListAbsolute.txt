@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\02.YouTubeLogo\bin\02.YouTubeLogo.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\02.YouTubeLogo\bin\02.YouTubeLogo.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\02.YouTubeLogo\obj\Debug\02.YouTubeLogo.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\02.YouTubeLogo\obj\Debug\02.YouTubeLogo.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\RaphaelJS\02.YouTubeLogo\obj\Debug\02.YouTubeLogo.pdb

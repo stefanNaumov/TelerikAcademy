@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\3.DecimalProgram\bin\Debug\3.DecimalProgram.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\3.DecimalProgram\bin\Debug\3.DecimalProgram.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\3.DecimalProgram\obj\Debug\3.DecimalProgram.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\3.DecimalProgram\obj\Debug\3.DecimalProgram.pdb

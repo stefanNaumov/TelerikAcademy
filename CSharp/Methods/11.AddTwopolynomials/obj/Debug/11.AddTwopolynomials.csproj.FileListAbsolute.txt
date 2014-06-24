@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\11.AddTwopolynomials\bin\Debug\11.AddTwopolynomials.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\11.AddTwopolynomials\bin\Debug\11.AddTwopolynomials.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\11.AddTwopolynomials\obj\Debug\11.AddTwopolynomials.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\11.AddTwopolynomials\obj\Debug\11.AddTwopolynomials.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\11.AddTwopolynomials\obj\Debug\11.AddTwopolynomials.pdb

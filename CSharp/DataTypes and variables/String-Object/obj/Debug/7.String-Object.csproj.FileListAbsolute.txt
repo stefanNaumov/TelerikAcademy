@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\String-Object\bin\Debug\String-Object.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\String-Object\bin\Debug\String-Object.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\String-Object\obj\Debug\7.String-Object.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\String-Object\obj\Debug\String-Object.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\String-Object\obj\Debug\String-Object.pdb

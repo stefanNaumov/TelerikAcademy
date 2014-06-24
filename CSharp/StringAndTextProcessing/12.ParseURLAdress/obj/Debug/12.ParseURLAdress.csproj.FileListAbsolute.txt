@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\12.ParseURLAdress\bin\Debug\12.ParseURLAdress.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\12.ParseURLAdress\bin\Debug\12.ParseURLAdress.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\12.ParseURLAdress\obj\Debug\12.ParseURLAdress.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\12.ParseURLAdress\obj\Debug\12.ParseURLAdress.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\12.ParseURLAdress\obj\Debug\12.ParseURLAdress.pdb

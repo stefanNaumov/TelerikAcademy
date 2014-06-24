@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\ExerciseTwo\obj\Debug\ExerciseTwo.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\ExerciseTwo\obj\Debug\ExerciseTwo.pdb

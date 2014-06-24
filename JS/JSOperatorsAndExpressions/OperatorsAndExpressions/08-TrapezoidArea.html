@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Trapezoid area</title>
+    <link rel="stylesheet" href="styles/js-console.css"/>
+</head>
+<body>
+    <h3>Check Trapezoid Area</h3>
+    <label for="aPoint">Enter a: </label>
+    <input type="text" id="aPoint" name="aPoint"/>
+    <label for="bPoint">Enter b: </label>
+    <input type="text" id="bPoint" name="bPoint"/>
+    <label for="hPoint">Enter h: </label>
+    <input type="text" id="hPoint" name="hPoint"/>
+    <button onclick="CalculateTrapezoidArea()">Check</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function CalculateTrapezoidArea() {
+            var a = jsConsole.readInteger("#aPoint");
+            var b = jsConsole.readInteger("#bPoint");
+            var h = jsConsole.readInteger("#hPoint");
+            var area = ((a + b) / 2) * h;
+            jsConsole.writeLine("Rectangular area is: " + area);
+
+            //If you don't have the JS Console uncomment the following code and view results in the browser console
+            //var a = parseInt(document.getElementsByName("aPoint")[0].value);
+            //var b = parseInt(document.getElementsByName("bPoint")[0].value);
+            //var h = parseInt(document.getElementsByName("hPoint")[0].value);
+            //console.log(h);
+            //var area = ((a + b) / 2) * h;
+            //console.log("Rectangular area is: " + area);
+        }
+    </script>
+</body>
+</html>

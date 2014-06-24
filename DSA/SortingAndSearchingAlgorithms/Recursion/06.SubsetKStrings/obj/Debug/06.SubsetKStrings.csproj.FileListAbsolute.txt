@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\06.SubsetKStrings\bin\Debug\06.SubsetKStrings.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\06.SubsetKStrings\bin\Debug\06.SubsetKStrings.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\06.SubsetKStrings\bin\Debug\06.SubsetKStrings.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\06.SubsetKStrings\obj\Debug\06.SubsetKStrings.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\06.SubsetKStrings\obj\Debug\06.SubsetKStrings.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\06.SubsetKStrings\obj\Debug\06.SubsetKStrings.pdb

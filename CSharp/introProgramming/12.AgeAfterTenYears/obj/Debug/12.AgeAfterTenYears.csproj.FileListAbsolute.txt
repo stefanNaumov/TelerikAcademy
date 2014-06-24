@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\12.AgeAfterTenYears\bin\Debug\12.AgeAfterTenYears.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\12.AgeAfterTenYears\bin\Debug\12.AgeAfterTenYears.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\12.AgeAfterTenYears\obj\Debug\12.AgeAfterTenYears.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\12.AgeAfterTenYears\obj\Debug\12.AgeAfterTenYears.pdb

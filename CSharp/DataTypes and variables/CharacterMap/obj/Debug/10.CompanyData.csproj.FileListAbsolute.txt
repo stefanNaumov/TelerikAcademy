@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CharacterMap\obj\Debug\CharacterMap.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CharacterMap\obj\Debug\CharacterMap.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CharacterMap\bin\Debug\CharacterMap.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\CharacterMap\bin\Debug\CharacterMap.pdb

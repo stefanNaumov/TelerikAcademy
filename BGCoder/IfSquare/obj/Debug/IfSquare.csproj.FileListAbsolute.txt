@@ -1,0 +1,6 @@
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\IfSquare\bin\Debug\IfSquare.exe.config
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\IfSquare\bin\Debug\IfSquare.exe
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\IfSquare\bin\Debug\IfSquare.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\IfSquare\obj\Debug\IfSquare.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\IfSquare\obj\Debug\IfSquare.exe
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\IfSquare\obj\Debug\IfSquare.pdb

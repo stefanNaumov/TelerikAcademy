@@ -1,0 +1,6 @@
+﻿body {
+}
+p { font-family:Consolas; color:#0094ff
+}
+p::first-line { font-family:'Edwardian Script ITC'; font-size:30px; font-weight:600
+}

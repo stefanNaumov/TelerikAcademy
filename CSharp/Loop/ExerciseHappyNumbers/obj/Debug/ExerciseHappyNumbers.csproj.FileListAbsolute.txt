@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\ExerciseHappyNumbers\bin\Debug\ExerciseHappyNumbers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\ExerciseHappyNumbers\bin\Debug\ExerciseHappyNumbers.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\ExerciseHappyNumbers\obj\Debug\ExerciseHappyNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\ExerciseHappyNumbers\obj\Debug\ExerciseHappyNumbers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\ExerciseHappyNumbers\obj\Debug\ExerciseHappyNumbers.pdb

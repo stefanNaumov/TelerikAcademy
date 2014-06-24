@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03.Calculator\bin\03.Calculator.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03.Calculator\bin\03.Calculator.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03.Calculator\obj\Debug\03.Calculator.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03.Calculator\obj\Debug\03.Calculator.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\HTML\HTMLTables\03.Calculator\obj\Debug\03.Calculator.pdb

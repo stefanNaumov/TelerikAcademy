@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumferenceAndRecatangle\bin\Debug\IfOIsInTheCircumferenceAndRecatangle.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumferenceAndRecatangle\bin\Debug\IfOIsInTheCircumferenceAndRecatangle.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumferenceAndRecatangle\obj\Debug\9.IfOIsInTheCircumferenceAndRecatangle.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumferenceAndRecatangle\obj\Debug\IfOIsInTheCircumferenceAndRecatangle.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumferenceAndRecatangle\obj\Debug\IfOIsInTheCircumferenceAndRecatangle.pdb

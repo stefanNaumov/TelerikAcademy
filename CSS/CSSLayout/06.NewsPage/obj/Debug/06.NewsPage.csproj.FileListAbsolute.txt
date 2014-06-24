@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\06.NewsPage\bin\06.NewsPage.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\06.NewsPage\bin\06.NewsPage.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\06.NewsPage\obj\Debug\06.NewsPage.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\06.NewsPage\obj\Debug\06.NewsPage.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\CSSLayout\06.NewsPage\obj\Debug\06.NewsPage.pdb

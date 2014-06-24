@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixB\bin\Debug\01.MatrixB.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixB\bin\Debug\01.MatrixB.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixB\obj\Debug\01.MatrixB.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\01.MatrixB\obj\Debug\01.MatrixB.pdb

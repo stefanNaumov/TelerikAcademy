@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\MissCat2011\bin\Debug\MissCat2011.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\MissCat2011\bin\Debug\MissCat2011.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\MissCat2011\obj\Debug\MissCat2011.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\MissCat2011\obj\Debug\MissCat2011.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\MissCat2011\obj\Debug\MissCat2011.pdb

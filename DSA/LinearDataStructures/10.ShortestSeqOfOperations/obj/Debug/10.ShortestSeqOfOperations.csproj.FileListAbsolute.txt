@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\10.ShortestSeqOfOperations\bin\Debug\10.ShortestSeqOfOperations.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\10.ShortestSeqOfOperations\bin\Debug\10.ShortestSeqOfOperations.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\10.ShortestSeqOfOperations\obj\Debug\10.ShortestSeqOfOperations.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\10.ShortestSeqOfOperations\obj\Debug\10.ShortestSeqOfOperations.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\10.ShortestSeqOfOperations\obj\Debug\10.ShortestSeqOfOperations.pdb

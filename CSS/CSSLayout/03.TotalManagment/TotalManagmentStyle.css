@@ -1,0 +1,50 @@
+﻿body {
+}
+section {
+    width:640px;
+    border: 1px solid rgb(245, 182, 106);
+    background:rgb(111, 109, 109);
+}
+    section header {
+        background:rgb(87, 84, 84);
+        -webkit-box-shadow: 0 3px 6px rgb(65, 63, 63);
+    }
+    section article h2{
+        color:rgb(221, 208, 65);
+        font-family:Arial;
+        font-weight:400;
+        padding-left:10px;
+    }
+    section article p {
+        color:rgb(195, 195, 195);
+        margin: 5px 12px;
+    }
+label {
+    margin-left:20px;
+    vertical-align:15px;
+    font-size:18px;
+    color: rgb(238, 231, 231);
+}
+input {
+    font-size:12px;
+    vertical-align:15px;
+    margin-left:7px;
+    margin-right:15px;
+    padding:1px 6px 4px 6px;
+}
+img {
+    padding:7px;
+    width:50px;
+}
+button {
+    color:white;
+    background:linear-gradient(rgb(241, 188, 177) 10%,rgb(249,56,65) 50%);
+    vertical-align:12px;
+    width:62px;
+    height:30px;
+    margin-left:18px;
+    border-radius:12px;
+    border-color: rgb(238, 231, 231);
+    -webkit-box-shadow: inset 0 -10px 6px rgb(255, 0, 0); 
+
+}

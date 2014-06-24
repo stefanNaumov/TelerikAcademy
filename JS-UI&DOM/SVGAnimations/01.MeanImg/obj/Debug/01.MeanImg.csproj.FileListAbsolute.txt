@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\01.MeanImg\bin\01.MeanImg.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\01.MeanImg\bin\01.MeanImg.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\01.MeanImg\obj\Debug\01.MeanImg.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\01.MeanImg\obj\Debug\01.MeanImg.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\SVGAnimations\01.MeanImg\obj\Debug\01.MeanImg.pdb

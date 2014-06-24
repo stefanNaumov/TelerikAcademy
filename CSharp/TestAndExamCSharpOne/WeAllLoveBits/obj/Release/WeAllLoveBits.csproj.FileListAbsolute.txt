@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\WeAllLoveBits\bin\Release\WeAllLoveBits.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\WeAllLoveBits\bin\Release\WeAllLoveBits.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\WeAllLoveBits\obj\Release\WeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\WeAllLoveBits\obj\Release\WeAllLoveBits.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\WeAllLoveBits\obj\Release\WeAllLoveBits.pdb

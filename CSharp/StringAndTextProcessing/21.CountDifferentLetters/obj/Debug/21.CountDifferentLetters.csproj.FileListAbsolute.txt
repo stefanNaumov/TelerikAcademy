@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\21.CountDifferentLetters\bin\Debug\21.CountDifferentLetters.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\21.CountDifferentLetters\bin\Debug\21.CountDifferentLetters.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\21.CountDifferentLetters\obj\Debug\21.CountDifferentLetters.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\21.CountDifferentLetters\obj\Debug\21.CountDifferentLetters.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\21.CountDifferentLetters\obj\Debug\21.CountDifferentLetters.pdb

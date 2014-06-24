@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\CartesianCoordinates\bin\Debug\CartesianCoordinates.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\CartesianCoordinates\bin\Debug\CartesianCoordinates.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\CartesianCoordinates\obj\Debug\CartesianCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\CartesianCoordinates\obj\Debug\CartesianCoordinates.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\BGCoder\CartesianCoordinates\obj\Debug\CartesianCoordinates.pdb

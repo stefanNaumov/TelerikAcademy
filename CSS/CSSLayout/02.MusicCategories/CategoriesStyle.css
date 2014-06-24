@@ -1,0 +1,40 @@
+﻿body {
+    font-size:18px;
+    background:rgb(240, 240, 246);
+    padding-left:10px;
+}
+h2 {
+    font-family:Arial;
+    font-weight:400;
+}
+section div {
+    border: 1px solid rgb(208, 193, 193);
+    width:460px;
+    overflow:hidden;
+    background:rgb(249, 249, 255);
+    text-align:right;
+    margin-top:25px;
+}
+img {
+    width:120px;
+    margin:18px;
+    float:left;
+}
+p {
+    padding:12px;
+    padding-right:55px;
+    text-align:left;
+    margin:0;
+}
+button {
+    color:white;
+    margin:5px 20px 5px 10px;
+    padding-left:20px;
+    padding-right:10px;
+    background:rgb(255, 0, 0);
+    box-shadow: inset 13px 0 0 rgb(131, 19, 19);
+    border-top: 1px solid rgb(246, 160, 159);
+    border-bottom: 2px solid rgb(100, 12, 12);
+    border-right: 2px solid rgb(109, 11, 11);
+    border-left: 1px solid rgb(109,11,11);
+}

@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <script>
+        
+        var text = "We are <mixcase>living</mixcase> in a <upcase>yellow submarine</upcase>. We <mixcase>don't</mixcase> have" +
+        "<lowcase>AnytHing</lowcase> else.";
+        var textStr = new String(text);
+        textStr = mixCase(textStr);
+        textStr = upCase(textStr);
+        textStr = lowerCase(textStr);
+        
+        document.write(textStr);
+
+        function upCase(text) {
+            var index = text.indexOf("<upcase>");
+            while (index != -1) {
+
+                var insideText = text.substring(index + 8, text.indexOf("</upcase>"),index);
+                var toUpper = insideText.toUpperCase(insideText);
+                text = text.replace(insideText, toUpper);
+                index = text.indexOf("<upcase>", index + 1);
+            }
+            return text;
+        }
+
+        function lowerCase(text) {
+            var index = text.indexOf("<lowcase>");
+
+            while (index != - 1) {
+
+                var insideText = text.substring(index + 8, text.indexOf("</lowcase>"));
+                var toLower = insideText.toLowerCase();
+                text = text.replace(insideText, toLower);
+                index = text.indexOf("<lowcase>", index + 1);
+            }
+            return text;
+        }
+
+        function mixCase(text) {
+            var index = text.indexOf("<mixcase>");
+
+            while (index > -1) {
+
+                var insideText = text.substring(index + 9, text.indexOf("</mixcase>",index));
+                var mixedText = new String(insideText);
+                for (var i = 0; i < insideText.length; i++) {
+                    
+                    if (i % 2 == 0) {
+
+                        mixedText = mixedText.replace(mixedText[i], mixedText[i].toLowerCase());
+                    }
+                    else {
+
+                        mixedText = mixedText.replace(mixedText[i], mixedText[i].toUpperCase());
+                    }
+                }
+                
+                text = text.replace(insideText, mixedText);
+                index = text.indexOf("<mixcase>", index + 1);
+            }
+
+            return text;
+        }
+    </script>
+</body>
+</html>

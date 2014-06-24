@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Canvas-Head</title>
+</head>
+<body>
+    <canvas id="canvas" width="400" height="600"></canvas>
+    <script>
+        //canvas area
+        var ctx = document.getElementById("canvas").getContext("2d");
+        ctx.fillStyle = "rgb(255,212,212)";
+        ctx.fillRect(0, 0, ctx.canvas.width, ctx.canvas.height);
+
+        //the head
+        ctx.beginPath();
+        ctx.strokeStyle = "rgb(100,160,195)";
+        ctx.fillStyle = "rgb(150,220,235)";
+        ctx.lineWidth = "2";
+        ctx.arc(100, 150, 50, 0, Math.PI * 2, false);
+        ctx.fill();
+        ctx.stroke();
+
+        //the nose
+        ctx.moveTo(100, 130);
+        ctx.lineTo(85, 160);
+        ctx.stroke();
+        ctx.lineTo(100, 160);
+        ctx.stroke();
+
+        //eyes
+        ctx.beginPath();
+        ctx.arc(75, 130, 7, 0, 2 * Math.PI, false);
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.arc(120, 130, 7, 0, 2 * Math.PI, false);
+        ctx.stroke();
+        ctx.closePath();
+        //inner eyes
+        ctx.beginPath();
+        ctx.scale(1, 2);
+        ctx.fillStyle = "rgb(80,140,165)";
+        ctx.arc(72, 66, 3, 0, 2 * Math.PI, false);
+        ctx.fill();
+        ctx.closePath();
+
+        ctx.beginPath();
+        ctx.arc(116, 66, 3, 0, 2 * Math.PI, false);
+        ctx.fill();
+        ctx.closePath();
+
+        //the mouth
+        ctx.beginPath();
+        ctx.strokeStyle = "rgb(80,140,165)";
+        ctx.scale(2, 0.5);
+        ctx.setTransform(1.9, 0.0, 1, 1, 1, 1);
+        ctx.arc(-46, 180, 10, 0, 2 * Math.PI, false);
+        ctx.stroke();
+        ctx.closePath();
+
+        //the hat
+        ctx.beginPath();
+        ctx.strokeStyle = "black";
+        ctx.lineWidth = "1";
+        ctx.fillStyle = "rgb(25,75,155)"
+        ctx.setTransform(3.2, 0.0, 0, 0.5, 1, 1);
+        ctx.arc(32, 195, 20, 0, 2 * Math.PI, false);
+        ctx.strokeStyle = "rgb(0,0,0)";
+        ctx.fill();
+        ctx.stroke();
+        ctx.closePath();
+
+        ctx.moveTo(22, 180);
+        ctx.lineTo(22, 80);
+        ctx.arc(33, 80, 10, 0, 2 * Math.PI, false);
+        ctx.fillRect(23, 80, 21, 100);
+        ctx.stroke();
+        ctx.moveTo(43, 80);
+        ctx.lineTo(43, 180);
+        ctx.arc(33, 180, 10, 0, 2 * Math.PI, false);
+        ctx.fill();
+        ctx.stroke();
+    </script>
+</body>
+</html>

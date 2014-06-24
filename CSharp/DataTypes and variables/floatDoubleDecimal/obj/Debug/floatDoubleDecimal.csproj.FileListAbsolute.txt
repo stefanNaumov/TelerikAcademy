@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\floatDoubleDecimal\obj\Debug\floatDoubleDecimal.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\floatDoubleDecimal\bin\Debug\floatDoubleDecimal.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\floatDoubleDecimal\bin\Debug\floatDoubleDecimal.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\floatDoubleDecimal\obj\Debug\floatDoubleDecimal.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\floatDoubleDecimal\obj\Debug\floatDoubleDecimal.pdb

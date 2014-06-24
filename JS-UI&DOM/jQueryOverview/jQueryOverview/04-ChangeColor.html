@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="JQuery.js"></script>
+</head>
+<body>
+    <input type="color" id="colorChanger"/>
+
+    <script>
+
+        $(document).ready(function () {
+
+            $('#colorChanger').change(function () {
+                $('body').css('background-color', $('#colorChanger').val());
+            });
+            
+        });
+
+       
+    </script>
+</body>
+</html>

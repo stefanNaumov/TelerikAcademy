@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\01.TrashBucket\bin\01.TrashBucket.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\01.TrashBucket\bin\01.TrashBucket.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\01.TrashBucket\obj\Debug\01.TrashBucket.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\01.TrashBucket\obj\Debug\01.TrashBucket.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-Part2\JS-APIs\01.TrashBucket\obj\Debug\01.TrashBucket.pdb

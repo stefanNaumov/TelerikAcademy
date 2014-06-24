@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TreeOfNNodes", "01.TreeOfNNodes\01.TreeOfNNodes.csproj", "{08BFF8FD-8F3F-4C4F-B05C-5D82E2CADFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TraverseDirectory", "02.TraverseDirectory\02.TraverseDirectory.csproj", "{97823A74-A145-45E9-B2C0-2F5CBC9738B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08BFF8FD-8F3F-4C4F-B05C-5D82E2CADFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08BFF8FD-8F3F-4C4F-B05C-5D82E2CADFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08BFF8FD-8F3F-4C4F-B05C-5D82E2CADFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08BFF8FD-8F3F-4C4F-B05C-5D82E2CADFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97823A74-A145-45E9-B2C0-2F5CBC9738B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97823A74-A145-45E9-B2C0-2F5CBC9738B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97823A74-A145-45E9-B2C0-2F5CBC9738B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97823A74-A145-45E9-B2C0-2F5CBC9738B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

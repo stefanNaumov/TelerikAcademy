@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\04.LongestEqualSubset\bin\Debug\04.LongestEqualSubset.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\04.LongestEqualSubset\bin\Debug\04.LongestEqualSubset.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\04.LongestEqualSubset\bin\Debug\04.LongestEqualSubset.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\04.LongestEqualSubset\obj\Debug\04.LongestEqualSubseq.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\04.LongestEqualSubset\obj\Debug\04.LongestEqualSubset.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\04.LongestEqualSubset\obj\Debug\04.LongestEqualSubset.pdb

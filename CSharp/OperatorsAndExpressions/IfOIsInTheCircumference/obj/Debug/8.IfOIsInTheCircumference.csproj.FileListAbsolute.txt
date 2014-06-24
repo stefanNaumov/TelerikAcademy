@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumference\obj\Debug\IfOIsInTheCircumference.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumference\obj\Debug\IfOIsInTheCircumference.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumference\bin\Debug\IfOIsInTheCircumference.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\IfOIsInTheCircumference\bin\Debug\IfOIsInTheCircumference.pdb

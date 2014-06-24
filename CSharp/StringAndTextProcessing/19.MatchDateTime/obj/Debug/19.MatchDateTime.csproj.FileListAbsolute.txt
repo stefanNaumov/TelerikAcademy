@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\19.MatchDateTime\bin\Debug\19.MatchDateTime.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\19.MatchDateTime\bin\Debug\19.MatchDateTime.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\19.MatchDateTime\obj\Debug\19.MatchDateTime.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\19.MatchDateTime\obj\Debug\19.MatchDateTime.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\19.MatchDateTime\obj\Debug\19.MatchDateTime.csprojResolveAssemblyReference.cache

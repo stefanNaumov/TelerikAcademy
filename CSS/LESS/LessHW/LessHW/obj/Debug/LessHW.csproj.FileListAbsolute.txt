@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\LESS\LessHW\LessHW\bin\LessHW.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\LESS\LessHW\LessHW\bin\LessHW.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\LESS\LessHW\LessHW\obj\Debug\LessHW.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\LESS\LessHW\LessHW\obj\Debug\LessHW.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSS\LESS\LessHW\LessHW\obj\Debug\LessHW.pdb

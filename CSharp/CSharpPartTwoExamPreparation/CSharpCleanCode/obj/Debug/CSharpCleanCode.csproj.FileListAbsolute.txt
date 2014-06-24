@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpCleanCode\bin\Debug\CSharpCleanCode.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpCleanCode\bin\Debug\CSharpCleanCode.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpCleanCode\obj\Debug\CSharpCleanCode.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpCleanCode\obj\Debug\CSharpCleanCode.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\CSharpPartTwoExamPreparation\CSharpCleanCode\obj\Debug\CSharpCleanCode.pdb

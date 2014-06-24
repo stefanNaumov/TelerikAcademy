@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.pdb

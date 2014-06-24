@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        findMinAndMaxProperty(window);
+        findMinAndMaxProperty(navigator);
+        findMinAndMaxProperty(document);
+       
+        function findMinAndMaxProperty (object) {
+            var propText = "";
+            for (var prop in object) {
+                propText += prop + ' ';
+            }
+
+            var arr = propText.split(' ');
+            arr.sort();
+            var min = arr[0];
+            var max = arr[arr.length - 1];
+            return {
+                minProperty: min,
+                maxProperty: max
+            }
+        }
+    </script>
+</body>
+</html>

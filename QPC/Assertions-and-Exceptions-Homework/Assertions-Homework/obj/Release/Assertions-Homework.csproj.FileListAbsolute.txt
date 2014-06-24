@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Assertions-and-Exceptions-Homework\Assertions-Homework\bin\Release\Assertions-Homework.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Assertions-and-Exceptions-Homework\Assertions-Homework\bin\Release\Assertions-Homework.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Assertions-and-Exceptions-Homework\Assertions-Homework\obj\Release\Assertions-Homework.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\Assertions-and-Exceptions-Homework\Assertions-Homework\obj\Release\Assertions-Homework.pdb

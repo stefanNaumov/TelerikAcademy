@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\Fibonacci\obj\Debug\12.Fibonacci.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\Fibonacci\obj\Debug\Fibonacci.pdb

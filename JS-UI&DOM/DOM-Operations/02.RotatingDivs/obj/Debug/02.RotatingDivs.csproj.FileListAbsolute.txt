@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\02.RotatingDivs\bin\02.RotatingDivs.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\02.RotatingDivs\bin\02.RotatingDivs.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\02.RotatingDivs\obj\Debug\02.RotatingDivs.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM-Operations\02.RotatingDivs\obj\Debug\02.RotatingDivs.pdb

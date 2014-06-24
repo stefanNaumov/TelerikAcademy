@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\10.TextWithoutTheTags\bin\Debug\10.TextWithoutTheTags.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\10.TextWithoutTheTags\bin\Debug\10.TextWithoutTheTags.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\10.TextWithoutTheTags\obj\Debug\10.TextWithoutTheTags.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\10.TextWithoutTheTags\obj\Debug\10.TextWithoutTheTags.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\10.TextWithoutTheTags\obj\Debug\10.TextWithoutTheTags.csprojResolveAssemblyReference.cache

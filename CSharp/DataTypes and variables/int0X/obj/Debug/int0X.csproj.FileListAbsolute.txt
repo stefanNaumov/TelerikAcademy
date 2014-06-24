@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\int0X\bin\Debug\int0X.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\int0X\bin\Debug\int0X.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\int0X\obj\Debug\int0X.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\int0X\obj\Debug\int0X.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\int0X\obj\Debug\int0X.pdb

@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\12.Matrix\bin\Debug\12.Matrix.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\12.Matrix\bin\Debug\12.Matrix.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\12.Matrix\obj\Debug\12.Matrix.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\12.Matrix\obj\Debug\12.Matrix.pdb

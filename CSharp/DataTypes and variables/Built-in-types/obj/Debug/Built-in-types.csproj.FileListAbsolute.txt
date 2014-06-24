@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\Built-in-types\obj\Debug\Built-in-types.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\Built-in-types\bin\Debug\Built-in-types.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\Built-in-types\bin\Debug\Built-in-types.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\Built-in-types\obj\Debug\Built-in-types.exe
+c:\users\stefan\documents\visual studio 2012\Projects\DataTypes and variables\Built-in-types\obj\Debug\Built-in-types.pdb

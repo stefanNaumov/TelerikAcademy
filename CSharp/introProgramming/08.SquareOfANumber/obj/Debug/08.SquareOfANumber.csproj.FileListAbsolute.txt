@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\08.SquareOfANumber\bin\Debug\08.SquareOfANumber.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\08.SquareOfANumber\bin\Debug\08.SquareOfANumber.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\08.SquareOfANumber\obj\Debug\08.SquareOfANumber.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\08.SquareOfANumber\obj\Debug\08.SquareOfANumber.exe
+c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\08.SquareOfANumber\obj\Debug\08.SquareOfANumber.pdb

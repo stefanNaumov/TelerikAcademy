@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\02.IEnumerableExtMethods\bin\Debug\02.IEnumerableExtMethods.exe
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\02.IEnumerableExtMethods\bin\Debug\02.IEnumerableExtMethods.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\02.IEnumerableExtMethods\obj\Debug\02.IEnumerableExtMethods.exe
+c:\users\stefan\documents\visual studio 2012\Projects\ExtensionMethodsAndLINQ\02.IEnumerableExtMethods\obj\Debug\02.IEnumerableExtMethods.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\23.RemoveIdenticalConsecutiveElements\bin\Debug\23.RemoveIdenticalConsecutiveElements.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\23.RemoveIdenticalConsecutiveElements\bin\Debug\23.RemoveIdenticalConsecutiveElements.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\23.RemoveIdenticalConsecutiveElements\obj\Debug\23.RemoveIdenticalConsecutiveElements.csprojResolveAssemblyReference.cache
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\23.RemoveIdenticalConsecutiveElements\obj\Debug\23.RemoveIdenticalConsecutiveElements.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\StringAndTextProcessing\23.RemoveIdenticalConsecutiveElements\obj\Debug\23.RemoveIdenticalConsecutiveElements.pdb

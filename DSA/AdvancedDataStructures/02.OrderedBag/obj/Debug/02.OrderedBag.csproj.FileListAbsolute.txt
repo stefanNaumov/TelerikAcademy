@@ -1,0 +1,7 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\02.OrderedBag.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\02.OrderedBag.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\PowerCollections.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\PowerCollections.xml
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.pdb

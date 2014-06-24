@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\02.ReadNumbers\bin\Debug\02.ReadNumbers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\02.ReadNumbers\bin\Debug\02.ReadNumbers.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\02.ReadNumbers\obj\Debug\02.ReadNumbers.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\02.ReadNumbers\obj\Debug\02.ReadNumbers.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExcHandling\02.ReadNumbers\obj\Debug\02.ReadNumbers.pdb

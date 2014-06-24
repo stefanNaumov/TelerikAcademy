@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM\DOM\bin\DOM.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM\DOM\bin\DOM.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM\DOM\obj\Debug\DOM.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM\DOM\obj\Debug\DOM.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\DOM\DOM\obj\Debug\DOM.pdb

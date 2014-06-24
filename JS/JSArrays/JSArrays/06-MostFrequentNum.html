@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea id="numbersInput" placeholder="Enter numbers with space between them"></textarea>
+    <input type="submit" onclick="findMostFrequentNumber()"/>
+    <script>
+        function findMostFrequentNumber() {
+
+            var inputString = document.getElementById('numbersInput').value;
+            var numbersArray = inputString.split(' ');
+            var mostFreqElement = 0;
+            var maxCounter = 1;
+            for (var i = 0; i < numbersArray.length - 1; i++) {
+
+                var currentNumber = numbersArray[i];
+                var counter = 1;
+                for (var j = i + 1; j < numbersArray.length; j++) {
+
+                    if (numbersArray[j] == currentNumber) {
+                        counter++;
+                    }
+                }
+
+                if (counter > maxCounter) {
+                    mostFreqElement = currentNumber;
+                    maxCounter = counter;
+                }
+            }
+            document.writeln("Most frequent number: " + mostFreqElement);
+            document.writeln("Number of encounters: " + maxCounter);
+        }
+    </script>
+</body>
+</html>

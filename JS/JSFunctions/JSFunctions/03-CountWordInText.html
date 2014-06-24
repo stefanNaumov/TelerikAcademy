@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea placeholder="Write text here" id="textInput"></textarea>
+    <input type="text" placeholder="word to count" id="wordToCount"/>
+    <input type="submit" onclick="countWord()"/>
+    <script>
+        function countWord() {
+
+            var text = document.getElementById('textInput').value;
+            var textArr = text.split(' ');
+            var wordToCount = document.getElementById('wordToCount').value;
+            var wordCounter = 0;
+            for (var i = 0; i < textArr.length; i++) {
+                
+                if (textArr[i] == wordToCount) {
+                    wordCounter++;
+                }
+            }
+            document.writeln("The word " + wordToCount + " appears " + wordCounter + " times");
+        }
+    </script>
+</body>
+</html>

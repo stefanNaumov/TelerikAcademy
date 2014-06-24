@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\09.MaxElementFromIndex\bin\Debug\09.MaxElementFromIndex.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\09.MaxElementFromIndex\bin\Debug\09.MaxElementFromIndex.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\09.MaxElementFromIndex\obj\Debug\09.MaxElementFromIndex.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\09.MaxElementFromIndex\obj\Debug\09.MaxElementFromIndex.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\method\09.MaxElementFromIndex\obj\Debug\09.MaxElementFromIndex.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\bin\Debug\NFaktKFaktoriel.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\bin\Debug\NFaktKFaktoriel.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\obj\Debug\06.NFaktKFaktoriel.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\obj\Debug\NFaktKFaktoriel.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\NFaktKFaktoriel\obj\Debug\NFaktKFaktoriel.pdb

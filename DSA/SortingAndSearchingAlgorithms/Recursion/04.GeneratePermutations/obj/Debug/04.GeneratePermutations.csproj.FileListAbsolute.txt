@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\04.GeneratePermutations\bin\Debug\04.GeneratePermutations.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\Recursion\04.GeneratePermutations\obj\Debug\04.GeneratePermutations.pdb

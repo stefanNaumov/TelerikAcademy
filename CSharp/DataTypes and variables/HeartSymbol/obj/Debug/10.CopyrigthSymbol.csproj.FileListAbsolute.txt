@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\HeartSymbol\obj\Debug\10.CopyrigthSymbol.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\HeartSymbol\obj\Debug\HeartSymbol.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\HeartSymbol\obj\Debug\HeartSymbol.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\HeartSymbol\bin\Debug\HeartSymbol.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\HeartSymbol\bin\Debug\HeartSymbol.pdb

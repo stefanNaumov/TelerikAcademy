@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\07.NFactKFactorielBigger\obj\Debug\07.NFactKFactorielBigger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\07.NFactKFactorielBigger\obj\Debug\07.NFactKFactorielBigger.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\07.NFactKFactorielBigger\bin\Debug\07.NFactKFactorielBigger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\07.NFactKFactorielBigger\bin\Debug\07.NFactKFactorielBigger.pdb

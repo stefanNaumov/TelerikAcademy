@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<script src="Raphael.js"></script>
+<body>
+    <script>
+        var paper = Raphael(10, 10, 900, 700);
+
+        var text = paper.text(300, 150, 'Telerik');
+        text.attr({
+            'font-size': 80,
+            'font-weight': 'bold',
+            "font-family": "Calibri"
+        });
+
+        var motto = paper.text(405, 210, 'Develop experiences');
+        motto.attr({
+            'font-size': 50,
+            "font-family": "Calibri"
+        });
+
+        var logo = paper.path('M 50 100 L 70 80 L 150 160 L 100 210 L 60 170 L 150 80 L 170 100');
+
+        logo.attr({
+            'stroke-width': 10,
+            stroke: 'rgb(0,250,0)'
+        });
+    </script>
+</body>
+</html>

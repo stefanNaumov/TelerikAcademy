@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IfByteIsOne\obj\Debug\12.IfByteIsOne.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IfByteIsOne\obj\Debug\12.IfByteIsOne.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IfByteIsOne\bin\Debug\12.IfByteIsOne.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IfByteIsOne\bin\Debug\12.IfByteIsOne.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\12.IfByteIsOne\obj\Debug\10.IfBitIsOne.csprojResolveAssemblyReference.cache

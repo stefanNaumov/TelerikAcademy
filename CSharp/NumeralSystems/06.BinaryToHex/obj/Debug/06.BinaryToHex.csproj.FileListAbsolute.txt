@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.pdb

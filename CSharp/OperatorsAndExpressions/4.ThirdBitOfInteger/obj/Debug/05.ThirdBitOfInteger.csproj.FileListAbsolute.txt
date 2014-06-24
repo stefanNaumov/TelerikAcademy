@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\4.ThirdBitOfInteger\obj\Debug\4.ThirdBitOfInteger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\4.ThirdBitOfInteger\obj\Debug\4.ThirdBitOfInteger.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\4.ThirdBitOfInteger\bin\Debug\4.ThirdBitOfInteger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OperatorsAndExpressions\4.ThirdBitOfInteger\bin\Debug\4.ThirdBitOfInteger.pdb

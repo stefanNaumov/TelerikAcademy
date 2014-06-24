@@ -1,0 +1,5 @@
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\11.DeleteTextWithPrefix\bin\Debug\11.DeleteTextWithPrefix.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\11.DeleteTextWithPrefix\bin\Debug\11.DeleteTextWithPrefix.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\11.DeleteTextWithPrefix\obj\Debug\11.DeleteTextWithPrefix.exe
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\11.DeleteTextWithPrefix\obj\Debug\11.DeleteTextWithPrefix.pdb
+C:\Users\stefan\documents\visual studio 2012\Projects\TextFiles\11.DeleteTextWithPrefix\obj\Debug\11.DeleteTextWithPrefix.csprojResolveAssemblyReference.cache

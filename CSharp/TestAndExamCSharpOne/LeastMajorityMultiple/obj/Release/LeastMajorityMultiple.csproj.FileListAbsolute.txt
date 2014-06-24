@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\LeastMajorityMultiple\bin\Release\LeastMajorityMultiple.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\LeastMajorityMultiple\bin\Release\LeastMajorityMultiple.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\LeastMajorityMultiple\obj\Release\LeastMajorityMultiple.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\LeastMajorityMultiple\obj\Release\LeastMajorityMultiple.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TestAndExamCSharpOne\LeastMajorityMultiple\obj\Release\LeastMajorityMultiple.csprojResolveAssemblyReference.cache

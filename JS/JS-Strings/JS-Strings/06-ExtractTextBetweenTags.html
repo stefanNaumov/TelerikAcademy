@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var text = "<html><head><title>Sample site</title></head><body>" +
+            "<div>text<div>more text</div>and more...</div>in body</body></html>";
+        document.write(extractText(text));
+        function extractText(text) {
+            var strResult = "";
+            var index = text.indexOf(">");
+
+            while (index > -1 && index < text.length - 1) {
+
+                if (text[index + 1] != "<") {
+                    var str = text.substring(index + 1, text.indexOf("<", index + 1));
+                    strResult += str + " ";
+                }
+                index = text.indexOf(">", index + 1);
+            }
+
+            return strResult;
+        }
+    </script>
+</body>
+</html>

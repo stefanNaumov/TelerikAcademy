@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var text = "Write a function that replaces non breaking white-spaces in a text with &nbsp;";
+        document.write(replaceWhiteSpace(text));
+        function replaceWhiteSpace(text) {
+            var newStr = new String(text);
+            for (var i = 0; i < text.length; i++) {
+
+                if (text[i] == ' ') {
+                    newStr = newStr.replace(text[i], "&nbsp");
+                }
+            }
+
+            return newStr;
+        }
+    </script>
+</body>
+</html>

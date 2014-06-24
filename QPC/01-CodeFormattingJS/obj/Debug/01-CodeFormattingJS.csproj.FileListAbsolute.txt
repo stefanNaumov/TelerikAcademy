@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\01-CodeFormattingJS\bin\01-CodeFormattingJS.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\01-CodeFormattingJS\bin\01-CodeFormattingJS.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\01-CodeFormattingJS\obj\Debug\01-CodeFormattingJS.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\01-CodeFormattingJS\obj\Debug\01-CodeFormattingJS.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\QPC\01-CodeFormattingJS\obj\Debug\01-CodeFormattingJS.pdb

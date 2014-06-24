@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\obj\Debug\9.Exceptions-Quotes.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\obj\Debug\9.Exceptions-Quotes.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\bin\Debug\9.Exceptions-Quotes.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\9.Exceptions-Quotes\bin\Debug\9.Exceptions-Quotes.pdb

@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JS-Strings\JS-Strings\bin\JS-Strings.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JS-Strings\JS-Strings\bin\JS-Strings.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JS-Strings\JS-Strings\obj\Debug\JS-Strings.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JS-Strings\JS-Strings\obj\Debug\JS-Strings.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS\JS-Strings\JS-Strings\obj\Debug\JS-Strings.pdb

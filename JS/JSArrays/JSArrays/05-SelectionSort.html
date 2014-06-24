@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <textarea id="numbersInput" placeholder="Enter numbers with space between them"></textarea>
+    <input type="submit" onclick="selectionSort()"/>
+    <script>
+        function selectionSort() {
+
+            var numbers = document.getElementById('numbersInput').value;
+
+            var arr = numbers.split(' ');
+            var min;
+            for (var j = 0; j < arr.length - 1; j++) {
+
+                min = j;
+
+                for (var i = j + 1; i < arr.length; i++) {
+
+                    if (parseInt(arr[i]) < parseInt(arr[min])) {
+
+                        min = i;
+                    }
+                }
+                if (min != j) {
+
+                    var temp = parseInt(arr[j]);
+                    arr[j] = arr[min];
+                    arr[min] = temp;
+                }
+            }
+            document.write("Sorted using Selection Sort: ");
+            for (var i = 0; i < arr.length; i++) {
+                document.writeln(arr[i]);
+            }
+        }
+    </script>
+</body>
+</html>

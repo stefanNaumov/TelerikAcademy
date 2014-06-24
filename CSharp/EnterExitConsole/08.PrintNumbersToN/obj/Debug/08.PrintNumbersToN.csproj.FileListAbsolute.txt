@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\08.PrintNumbersToN\bin\Debug\08.PrintNumbersToN.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\08.PrintNumbersToN\bin\Debug\08.PrintNumbersToN.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\08.PrintNumbersToN\obj\Debug\08.PrintNumbersToN.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\08.PrintNumbersToN\obj\Debug\08.PrintNumbersToN.pdb

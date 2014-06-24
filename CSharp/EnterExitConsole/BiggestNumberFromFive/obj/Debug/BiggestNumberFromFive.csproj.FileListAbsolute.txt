@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\BiggestNumberFromFive\obj\Debug\BiggestNumberFromFive.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\BiggestNumberFromFive\bin\Debug\BiggestNumberFromFive.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\BiggestNumberFromFive\bin\Debug\BiggestNumberFromFive.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\BiggestNumberFromFive\obj\Debug\BiggestNumberFromFive.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\EnterExitConsole\BiggestNumberFromFive\obj\Debug\BiggestNumberFromFive.pdb

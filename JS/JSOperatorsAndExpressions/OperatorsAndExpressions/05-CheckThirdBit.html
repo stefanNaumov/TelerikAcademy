@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Check third bit</title>
+    <link rel="stylesheet" href="styles/js-console.css"/>
+</head>
+<body>
+    <label for="number">Enter number: </label>
+    <input type="text" id="number"/>
+    <label for="bit">What is the third bit?: </label>
+    <input type="text" id="bit"/>
+    <button onclick="CheckThirdBit()">Check</button>
+    <div id="js-console"></div>
+    <script src="scripts/js-console.js"></script>
+    <script>
+        function CheckThirdBit() {
+            var number = jsConsole.read("#number");
+            var bit = jsConsole.read("#bit");
+            var thirdBit = (number >> 3) & 1;
+            jsConsole.writeLine(thirdBit == bit ? true : false);
+
+            //If you don't have the JS Console uncomment the following code and view results in the browser console
+            //var number = document.getElementById("#number");
+            //var bit = document.getElementById("#bit");
+            //var thirdBit = (number >> 3) & 1;
+            //console.log(thirdBit == bit ? true : false);
+        }
+    </script>
+</body>
+</html>

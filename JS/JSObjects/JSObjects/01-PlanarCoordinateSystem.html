@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Planar Coordinate System</title>
+    <link rel="stylesheet" href="js-console.css"/>
+</head>
+<body onload="onload()">
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function onload() {
+            function getPoint(x, y) {
+                return { x: x, y: y };
+            }
+            function getLine(p1, p2) {
+                return { startPoint: p1, endPoint: p2 };
+            }
+            function calculateDistance(p1, p2) {
+                return parseInt((p1.x - p2.x) * (p1.x - p2.x)) + ((p1.y - p2.y) * (p1.y - p2.y));
+            }
+            function CheckIfLinesFormTriangle(l1, l2, l3) {
+                var a = calculateDistance(l1.startPoint, l1.endPoint);
+                var b = calculateDistance(l2.startPoint, l2.endPoint);
+                var c = calculateDistance(l3.startPoint, l3.endPoint);
+
+                if (a + b > c && b + c > a && a + c > b) {
+                    return true;
+                }
+                else {
+                    return false;
+                }
+            }
+            var p1 = getPoint(3, 1);
+            var p2 = getPoint(1, 1);
+            var p3 = getPoint(3, 2);
+
+            var line1 = getLine(p1, p3);
+            var line2 = getLine(p2, p1);
+            var line3 = getLine(p3, p2);
+
+            var distance = calculateDistance(p1, p2);
+            
+            jsConsole.writeLine("Distance between points: " + distance);
+            jsConsole.writeLine("Lines form a triangle: " + CheckIfLinesFormTriangle(line1, line2, line3));
+        }
+    </script>
+</body>
+</html>

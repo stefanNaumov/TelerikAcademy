@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\OOPFundamentalPrinciples1\School\bin\Debug\School.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\OOPFundamentalPrinciples1\School\bin\Debug\School.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\OOPFundamentalPrinciples1\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\OOPFundamentalPrinciples1\School\obj\Debug\School.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\OOP\OOPFundamentalPrinciples1\School\obj\Debug\School.pdb

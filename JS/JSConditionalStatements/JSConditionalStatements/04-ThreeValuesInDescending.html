@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sort three integers in descending order</title>
+    <link rel="stylesheet" href="js-console.css"/>
+</head>
+<body>
+    <div>
+        <label for="firstValue">Enter first value: </label>
+        <input type="text" id="firstValue"/>
+        <label for="secondValue">Enter second value: </label>
+        <input type="text" id="secondValue"/>
+        <label for="secondValue">Enter third value: </label>
+        <input type="text" id="thirdValue"/>
+        <button onclick="SortThreeValues()">Compare</button>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function SortThreeValues() {
+            var greatest;
+            var middle;
+            var smallest;
+            var firstNum = jsConsole.readFloat("#firstValue");
+            var secNum = jsConsole.readFloat("#secondValue");
+            var thirdNum = jsConsole.readFloat("#thirdValue");
+            if (firstNum > secNum) {
+                if (firstNum > thirdNum && thirdNum > secNum) {
+                    greatest = firstNum;
+                    middle = thirdNum;
+                    smallest = secNum;
+                }
+                else if (firstNum > thirdNum && thirdNum < secNum) {
+                    greatest = firstNum;
+                    middle = secNum;
+                    smallest = thirdNum;
+                }
+                else {
+                    greatest = thirdNum;
+                    middle = firstNum;
+                    smallest = secNum;
+                }
+
+            }
+            else if (firstNum < secNum && firstNum > thirdNum) {
+                greatest = secNum;
+                middle = firstNum;
+                smallest = thirdNum;
+            }
+            else {
+                if (firstNum < secNum && firstNum < thirdNum) {
+                    smallest = firstNum;
+                    if (secNum > thirdNum) {
+                        greatest = secNum;
+                        middle = thirdNum;
+
+                    }
+                    else {
+                        greatest = thirdNum;
+                        middle = secNum;
+                    }
+
+                }
+            }
+            jsConsole.writeLine("The greatest number is: " + greatest);
+            jsConsole.writeLine("The middle number is: " + middle);
+            jsConsole.writeLine("the smallest number is: " + smallest);
+        }
+    </script>
+</body>
+</html>

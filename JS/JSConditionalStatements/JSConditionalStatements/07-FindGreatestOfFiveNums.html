@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    
+</head>
+<body>
+    <label for="firstNum">First number:</label>
+    <input type="text" id="firstNum" name="firstNum"/>
+    <label for="secNum">Second number:</label>
+    <input type="text" id="secNum" name="secNum"/>
+    <label for="thirdNum">Third number:</label>
+    <input type="text" id="thirdNum" name="thirdNum"/>
+    <label for="fourthNum">Fourth number:</label>
+    <input type="text" id="fourthNum" name="fourthNum"/>
+    <label for="fifthNum">Fifth number:</label>
+    <input type="text" id="fifthNum" name="fifthNum"/>
+
+    <button onclick="findGreatestNumber()">Find number</button>
+    <script>
+        function findGreatestNumber() {
+            var firstNum = parseInt(document.getElementsByName('firstNum')[0].value);
+            var secNum = parseInt(document.getElementsByName('secNum')[0].value);
+            var thirdNum = parseInt(document.getElementsByName('thirdNum')[0].value);
+            var fourthNum = parseInt(document.getElementsByName('fourthNum')[0].value);
+            var fifthNum = parseInt(document.getElementsByName('fifthNum')[0].value);
+
+            var numsArr = [firstNum, secNum, thirdNum, fourthNum, fifthNum];
+            var greatestValue = numsArr[0];
+            for (var i = 1; i < numsArr.length; i++) {
+                if (numsArr[i] > greatestValue) {
+                    
+                    greatestValue = numsArr[i];
+                    console.log(greatestValue);
+                }
+            }
+            document.write("The greatest number is: " + greatestValue);
+        }
+    </script>
+</body>
+</html>

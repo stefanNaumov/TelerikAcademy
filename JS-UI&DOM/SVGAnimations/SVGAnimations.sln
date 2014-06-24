@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MeanImg", "01.MeanImg\01.MeanImg.csproj", "{9A336416-1F39-4111-9DB4-42D136AADB0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Windows8", "02.windows8\02.Windows8.csproj", "{481BD212-885F-4AFB-88EB-5C7BEF2D0A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A336416-1F39-4111-9DB4-42D136AADB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A336416-1F39-4111-9DB4-42D136AADB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A336416-1F39-4111-9DB4-42D136AADB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A336416-1F39-4111-9DB4-42D136AADB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481BD212-885F-4AFB-88EB-5C7BEF2D0A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481BD212-885F-4AFB-88EB-5C7BEF2D0A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481BD212-885F-4AFB-88EB-5C7BEF2D0A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481BD212-885F-4AFB-88EB-5C7BEF2D0A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

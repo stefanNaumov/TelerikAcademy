@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

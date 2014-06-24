@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Cards\bin\Debug\Cards.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Cards\bin\Debug\Cards.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Cards\obj\Debug\Cards.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\Loops\Cards\obj\Debug\Cards.pdb

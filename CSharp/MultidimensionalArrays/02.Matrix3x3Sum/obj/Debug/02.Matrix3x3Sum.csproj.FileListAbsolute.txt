@@ -1,0 +1,4 @@
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\02.Matrix3x3Sum\bin\Debug\02.Matrix3x3Sum.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\02.Matrix3x3Sum\bin\Debug\02.Matrix3x3Sum.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\02.Matrix3x3Sum\obj\Debug\02.Matrix3x3Sum.exe
+c:\users\stefan\documents\visual studio 2012\Projects\MultidimensionalArray\02.Matrix3x3Sum\obj\Debug\02.Matrix3x3Sum.pdb

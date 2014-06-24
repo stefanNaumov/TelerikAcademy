@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\03.IncreasingOrder\bin\Debug\03.IncreasingOrder.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\03.IncreasingOrder\bin\Debug\03.IncreasingOrder.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\03.IncreasingOrder\bin\Debug\03.IncreasingOrder.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\03.IncreasingOrder\obj\Debug\03.IncreasingOrder.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\03.IncreasingOrder\obj\Debug\03.IncreasingOrder.pdb

@@ -1,0 +1,6 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NameOfInteger\bin\Debug\11.NameOfInteger.exe.config
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NameOfInteger\obj\Debug\11.NameOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NameOfInteger\bin\Debug\11.NameOfInteger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NameOfInteger\bin\Debug\11.NameOfInteger.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NameOfInteger\obj\Debug\11.NameOfInteger.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NameOfInteger\obj\Debug\11.NameOfInteger.pdb

@@ -1,0 +1,4 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\charUnicode\bin\Debug\charUnicode.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\charUnicode\bin\Debug\charUnicode.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\charUnicode\obj\Debug\charUnicode.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\DataTypes and variables\charUnicode\obj\Debug\charUnicode.pdb

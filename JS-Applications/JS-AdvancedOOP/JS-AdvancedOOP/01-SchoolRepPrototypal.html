@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script src="01-SchoolRepPrototypal.js"></script>
+    <script src="PrototypeCreateExtend.js"></script>
+    <script>
+        var person = Object.create(Person);
+        person.init("Drago", "Penteleev", 23);
+        var student = Object.create(Student);
+        student.init("Kiro", "Mojeshtiq", 13, 6);
+        var secStudent = Object.create(Student);
+        secStudent.init('Stamat','Gavrilov',15,3);
+        var teacher = Object.create(Teacher);
+        teacher.init("Proferor", "Borilov", 93, "penkiler");
+        var schoolClass = Object.create(Class);
+        schoolClass.init('12A', 13, new Array(student, secStudent), teacher.introduce());
+        var secondSchoolClass = Object.create(Class);
+        secondSchoolClass.init('12B', 8, new Array(secStudent, student), teacher);
+        var classesArr = [schoolClass, secondSchoolClass];
+        var school = Object.create(School);
+        school.init('Daskaloto', 'Ganiovo', classesArr);
+
+        console.log(person.introduce());
+        console.log(student.introduce());
+        console.log(teacher.introduce());
+        console.log(school.introduce());
+        console.log(schoolClass.introduce());
+    </script>
+</body>
+</html>

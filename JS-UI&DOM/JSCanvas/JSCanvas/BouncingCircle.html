@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        #ball{
+            width:30px;
+            height:30px;
+            border-radius:20px;
+            background-color:red;
+            border:1px solid black;
+            position:absolute;
+            display:inline-block;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canvas" width="600" height="500"></canvas>
+    <div id="ball"></div>
+    <script>
+        var ctx = document.getElementById('canvas').getContext('2d');
+        ctx.strokeStyle = 'black';
+        ctx.strokeRect(5, 5, 580, 480);
+        ctx.stroke();
+
+        var ball = document.getElementById('ball');
+        var maxLeft = 15;
+        var maxTop = 15;
+        var maxRight = 560;
+        var maxBottom = 460;
+
+        var leftMovement = 1;
+        var topMovement = 1;
+        var leftPos = 100;
+        var topPos = 100;
+
+        setInterval(function () {
+            leftPos += leftMovement;
+            topPos += topMovement;
+
+            if (leftPos == maxLeft) {
+                leftMovement *= -1;
+            }
+            if (leftPos == maxRight) {
+                leftMovement *= -1;
+            }
+            if (topPos == maxBottom) {
+                topMovement *= -1;
+            }
+            if (topPos == maxTop) {
+                topMovement *= -1;
+            }
+            ball.style.left = leftPos + 'px';
+            ball.style.top = topPos + 'px';
+        }, 2);
+    </script>
+</body>
+</html>

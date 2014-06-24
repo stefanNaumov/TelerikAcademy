@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\07.Timer\bin\Debug\07.Timer.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\07.Timer\bin\Debug\07.Timer.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\07.Timer\obj\Debug\07.Timer.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\07.Timer\obj\Debug\07.Timer.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\ExtensionMethodsAndLINQ\07.Timer\obj\Debug\07.Timer.pdb

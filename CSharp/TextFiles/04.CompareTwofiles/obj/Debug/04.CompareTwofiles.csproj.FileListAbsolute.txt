@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\04.CompareTwofiles\bin\Debug\04.CompareTwofiles.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\04.CompareTwofiles\bin\Debug\04.CompareTwofiles.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\04.CompareTwofiles\obj\Debug\04.CompareTwofiles.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\04.CompareTwofiles\obj\Debug\04.CompareTwofiles.exe
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\TextFiles\04.CompareTwofiles\obj\Debug\04.CompareTwofiles.pdb

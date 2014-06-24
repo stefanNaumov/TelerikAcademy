@@ -1,0 +1,5 @@
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Bus\bin\Debug\Bus.exe.config
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Bus\bin\Debug\Bus.exe
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Bus\bin\Debug\Bus.pdb
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Bus\obj\Debug\Bus.exe
+c:\users\stefan\documents\visual studio 2012\Projects\BGCoder\Bus\obj\Debug\Bus.pdb

@@ -1,0 +1,33 @@
+=========================================================================
+                Auslogics BoostSpeed v5.5.1.0 Portable
+=========================================================================
+
+ Release Name.........: Auslogics BoostSpeed                           
+ Release Version......: build 5.5.1.0 (x32/x64)                                      
+ Release Date.........: 19/01/2013           
+
+ Type.................: Utilities  
+ Developer............: Auslogics 
+ Platform.............: Windows  
+ Language.............: Multilingual
+
+=========================================================================
+
+ Your one-stop PC maintenance and optimization tool.
+ The program will clean up, speed up and repair your system
+ to make it run as fast and stable as new.
+
+ • Cleans up the Windows registry
+ • Defragments hard drives
+ • Frees up disk space
+ • Recovers accidentally deleted files
+ • Speeds up Internet connection
+
+ What's new?
+
+ • 5.5.1.0 (19/01/2013)
+ • fixed several bugs
+ • corrected errors in language files
+=========================================================================
+ Website: http://www.auslogics.com/en/software/boost-speed/
+=========================================================================

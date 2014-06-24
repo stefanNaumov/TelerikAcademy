@@ -1,0 +1,5 @@
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\HandleBarsJS\HandleBarsJS\bin\HandleBarsJS.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\HandleBarsJS\HandleBarsJS\bin\HandleBarsJS.pdb
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\HandleBarsJS\HandleBarsJS\obj\Debug\HandleBarsJS.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\HandleBarsJS\HandleBarsJS\obj\Debug\HandleBarsJS.dll
+C:\Users\stefan\Documents\Visual Studio 2012\Projects\JS-UI&DOM\HandleBarsJS\HandleBarsJS\obj\Debug\HandleBarsJS.pdb
