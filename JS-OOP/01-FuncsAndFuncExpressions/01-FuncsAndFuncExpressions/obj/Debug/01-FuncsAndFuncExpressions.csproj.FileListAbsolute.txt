@@ -1,0 +1,5 @@
+D:\telerik\Projects\JS-OOP\01-FuncsAndFuncExpressions\01-FuncsAndFuncExpressions\bin\01-FuncsAndFuncExpressions.dll
+D:\telerik\Projects\JS-OOP\01-FuncsAndFuncExpressions\01-FuncsAndFuncExpressions\bin\01-FuncsAndFuncExpressions.pdb
+D:\telerik\Projects\JS-OOP\01-FuncsAndFuncExpressions\01-FuncsAndFuncExpressions\obj\Debug\01-FuncsAndFuncExpressions.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\JS-OOP\01-FuncsAndFuncExpressions\01-FuncsAndFuncExpressions\obj\Debug\01-FuncsAndFuncExpressions.dll
+D:\telerik\Projects\JS-OOP\01-FuncsAndFuncExpressions\01-FuncsAndFuncExpressions\obj\Debug\01-FuncsAndFuncExpressions.pdb

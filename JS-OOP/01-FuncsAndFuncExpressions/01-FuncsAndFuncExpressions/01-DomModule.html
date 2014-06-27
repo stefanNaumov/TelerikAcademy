@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    
+</head>
+<body>
+    <h4>
+        Create a module for working with DOM. The module should have the following functionality
+        Add DOM element to parent element given by selector
+        Remove element from the DOM  by given selector
+        Attach event to given selector by given event type and event hander
+        Add elements to buffer, which appends them to the DOM when their count for some selector becomes 100
+        The buffer contains elements for each selector it gets
+        Get elements by CSS selector
+        The module should reveal only the methods
+    </h4>
+    <div id="divContainer">
+
+    </div>
+    <ul>
+        <li>
+            Li element inside ul to remove
+        </li>
+        <li>
+            Li not to be removed
+        </li>
+    </ul>
+    <button class="button">Click</button>
+    <script src="01-Module.js"></script>
+
+   <script>
+       //some the functions are commented because elements will be removed and added when loading the page
+       //please uncomment each to see it working
+       var div = document.createElement('div');
+       div.innerText = 'text';
+       domModule.appendChild(div, '#divContainer');
+
+       //domModule.removeElement("ul", "li:first-child");
+
+       domModule.addHandler(".button", 'click',
+                     function () { alert("Clicked") });
+
+       
+       //for (var i = 0; i < 102; i++) {
+       //    domModule.appendToBuffer('#divContainer', div.cloneNode(true));
+       //}
+       
+       var elementBySelector = domModule.findByCssSelector('#divContainer');
+   </script>
+
+</body>
+
+</html>
