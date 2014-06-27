@@ -61,6 +61,8 @@
     <Content Include="01-Module.js" />
     <Content Include="02-MovingObjsModule.html" />
     <Content Include="02-MovingObjsModule.js" />
+    <Content Include="03-SpecialConsole.html" />
+    <Content Include="03-SpecialConsole.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
