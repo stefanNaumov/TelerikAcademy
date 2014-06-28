@@ -1,0 +1,5 @@
+D:\telerik\Projects\JS-OOP\02-ClassicalOOP\02-ClassicalOOP\bin\02-ClassicalOOP.dll
+D:\telerik\Projects\JS-OOP\02-ClassicalOOP\02-ClassicalOOP\bin\02-ClassicalOOP.pdb
+D:\telerik\Projects\JS-OOP\02-ClassicalOOP\02-ClassicalOOP\obj\Debug\02-ClassicalOOP.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\JS-OOP\02-ClassicalOOP\02-ClassicalOOP\obj\Debug\02-ClassicalOOP.dll
+D:\telerik\Projects\JS-OOP\02-ClassicalOOP\02-ClassicalOOP\obj\Debug\02-ClassicalOOP.pdb

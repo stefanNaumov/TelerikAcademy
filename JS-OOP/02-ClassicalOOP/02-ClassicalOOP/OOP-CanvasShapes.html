@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h4>
+    Create a module for drawing shapes using Canvas. Implement the following shapes:
+    Rect, by given position (X, Y) and size (Width, Height)
+    Circle, by given center position (X, Y) and radius (R)
+    Line, by given from (X1, Y1) and to (X2, Y2) positions
+    </h4>
+    <canvas id="canvas" width="800" height="750"></canvas>
+    <script src="CanvasShapes.js"></script>
+    <script>
+        var canvasModule = new CanvasShapes('canvas');
+        var fillColor = 'rgb(160,120,120)';
+        canvasModule.drawRectangle(100, 100, 50, 50, fillColor);
+        canvasModule.drawCircle(350, 350, 55, 'rgb(130,10,70)');
+        canvasModule.drawLine(200, 200, 260, 270, 'rgb(30,110,70)');
+    </script>
+</body>
+</html>
