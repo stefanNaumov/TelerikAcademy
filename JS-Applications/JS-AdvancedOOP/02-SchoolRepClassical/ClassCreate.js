@@ -26,4 +26,3 @@
         create: createClass,
     };
 }());
-var Asshole = {};
