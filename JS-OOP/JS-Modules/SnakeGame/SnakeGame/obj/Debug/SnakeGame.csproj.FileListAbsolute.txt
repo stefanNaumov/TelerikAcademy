@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\SnakeGame\SnakeGame\bin\SnakeGame.dll
+C:\Users\Stefan\Desktop\SnakeGame\SnakeGame\bin\SnakeGame.pdb
+C:\Users\Stefan\Desktop\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Desktop\SnakeGame\SnakeGame\obj\Debug\SnakeGame.dll
+C:\Users\Stefan\Desktop\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+D:\telerik\Projects\JS-OOP\JS-Modules\SnakeGame\SnakeGame\bin\SnakeGame.dll
+D:\telerik\Projects\JS-OOP\JS-Modules\SnakeGame\SnakeGame\bin\SnakeGame.pdb
+D:\telerik\Projects\JS-OOP\JS-Modules\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\JS-OOP\JS-Modules\SnakeGame\SnakeGame\obj\Debug\SnakeGame.dll
+D:\telerik\Projects\JS-OOP\JS-Modules\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb

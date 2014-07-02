@@ -1,0 +1,189 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        canvas{
+            display:block;
+            position:absolute;
+            border:1px solid black;
+        }
+    </style>
+</head>
+<body>
+    
+    <script src="GameEngine.js"></script>
+    <script>
+        var grid,
+            snake,
+            score;
+        var LEFT = 0,
+            UP = 1,
+            RIGHT = 2,
+            DOWN = 3;
+
+        var EMPTYCELL = 0,
+            SNAKE = 1,
+            MEAL = 2;
+
+        var keyState,
+            ctx,
+            frames,
+            canvas;
+        var COLS = 30;
+        var ROWS = 30;
+
+        var KEY_LEFT = 37,
+            KEY_UP = 38,
+            KEY_RIGHT = 39,
+            KEY_DOWN = 40;
+
+        function setFood() {
+            var arr = [];
+
+            for (var x = 0; x < grid.width; x++) {
+                
+                for (var y = 0; y < grid.height; y++) {
+                    
+                    if (grid.getValue(x,y) === EMPTYCELL) {
+                        arr.push({ x: x, y: y });
+                    }
+                }
+            }
+            var randomIndex = arr[Math.round(Math.random() * (arr.length - 1))];
+            
+            grid.setValue(randomIndex.x, randomIndex.y, MEAL);
+        }
+
+        function main() {
+            canvas = document.createElement('canvas');
+            canvas.width = COLS * 24;
+            canvas.height = ROWS * 24;
+            ctx = canvas.getContext('2d');
+
+            document.body.appendChild(canvas);
+            frames = 0;
+
+            keyState = {};
+            document.addEventListener('keydown', function (evt) {
+                keyState[evt.keyCode] = true;
+            });
+            document.addEventListener('keyup', function (evt) {
+                keyState[evt.keyCode] = false;
+            });
+
+            init();
+            
+            loop();
+        }
+
+        function init() {
+            score = 0;
+            grid = new GameEngine.Grid(ROWS, COLS, EMPTYCELL);
+            var snakePos = { x: Math.floor(COLS / 2), y: Math.floor(ROWS - 1) };
+            snake = new GameEngine.Snake(snakePos.x, snakePos.y, UP);
+            grid.setValue(snakePos.x, snakePos.y, SNAKE);
+
+            setFood();
+        }
+
+        function loop() {
+            update();
+            draw();
+
+            window.requestAnimationFrame(loop);
+        }
+
+        function update() {
+            frames += 1;
+            if (keyState[KEY_LEFT] && snake.direction !== RIGHT) {
+                snake.direction = LEFT;
+            }
+            if (keyState[KEY_UP] && snake.direction !== DOWN) {
+                snake.direction = UP;
+            }
+            if (keyState[KEY_RIGHT] && snake.direction !== LEFT) {
+                snake.direction = RIGHT;
+            }
+            if (keyState[KEY_DOWN] && snake.direction !== UP) {
+                snake.direction = DOWN;
+            }
+
+            if (frames % 5 === 0) {
+
+                var snakePosX = snake.last.x;
+                var snakePosY = snake.last.y;
+
+                switch (snake.direction) {
+                    case LEFT:
+                        snakePosX--;
+                        break;
+                    case UP:
+                        snakePosY--;
+                        break;
+                    case RIGHT:
+                        snakePosX++;
+                        break;
+                    case DOWN:
+                        snakePosY++;
+                        break;
+                    default:
+                        break;
+                }
+                if (snakePosX < 0 || snakePosX >= grid.width ||
+                    snakePosY < 0 || snakePosY >= grid.height ||
+                    grid.getValue(snakePosX,snakePosY) === SNAKE) {
+                    
+                    return init();
+                }
+                if (grid.getValue(snakePosX, snakePosY) === MEAL) {
+                    var snakeTail = { x: snakePosX, y: snakePosY };
+                    score++;
+                    setFood();
+                }
+                else {
+                    var snakeTail = snake.remove();
+                    grid.setValue(snakeTail.x, snakeTail.y, EMPTYCELL);
+                    snakeTail.x = snakePosX;
+                    snakeTail.y = snakePosY;
+                }
+                
+                grid.setValue(snakeTail.x, snakeTail.y, SNAKE);
+                snake.insert(snakeTail.x, snakeTail.y);
+
+            }
+        }
+
+        function draw() {
+           
+            var tempWidth = canvas.width / grid.width;
+            var tempHeight = canvas.height / grid.height;
+
+            for (var x = 0; x < grid.width; x++) {
+
+                for (var y = 0; y < grid.height; y++) {
+
+                    switch (grid.getValue(x, y)) {
+                        case SNAKE:
+                            ctx.fillStyle = 'rgb(50,12,45)';
+                            break;
+                        case EMPTYCELL:
+                            ctx.fillStyle = 'rgb(220,215,110)';
+                            break;
+                        case MEAL:
+                            ctx.fillStyle = 'rgb(212,60,30)';
+                            break;
+                    }
+                    
+                    ctx.fillRect(x * tempWidth, y * tempHeight, tempWidth, tempHeight);
+                }
+            }
+            ctx.fillStyle = 'rgb(60,30,30)';
+            ctx.font = '18px Arial';
+            ctx.fillText('SCORE ' + score,20,grid.height);
+        }
+
+        main();
+    </script>
+</body>
+</html>
