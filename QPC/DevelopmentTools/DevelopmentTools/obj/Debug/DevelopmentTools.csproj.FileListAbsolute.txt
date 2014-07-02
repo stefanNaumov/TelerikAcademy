@@ -1,0 +1,8 @@
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.exe.config
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.exe
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\bin\Debug\DevelopmentTools.pdb
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\bin\Debug\log4net.dll
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\bin\Debug\log4net.xml
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\obj\Debug\DevelopmentTools.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\obj\Debug\DevelopmentTools.exe
+D:\telerik\Projects\QPC\DevelopmentTools\DevelopmentTools\obj\Debug\DevelopmentTools.pdb
