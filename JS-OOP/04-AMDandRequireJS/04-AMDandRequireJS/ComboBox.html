@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="RequireJS.js" data-main="App"></script>
+    <link href="styles/PersonBox.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="container"></div>
+
+    <script type="text/x-handlebars-template" src="handlebars-v1.3.0.js" id="template">
+       <div class="personBox" id="{{id}}">
+           <strong class="person-name">{{name}}</strong><p class="person-age">Age:{{age}}</p>
+           <img src="{{avatarUrl}}" width="100px"/>
+       </div>
+    </script>
+</body>
+</html>

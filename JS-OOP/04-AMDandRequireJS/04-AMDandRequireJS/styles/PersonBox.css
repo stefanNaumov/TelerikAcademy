@@ -1,0 +1,12 @@
+﻿.personBox{
+    border:1px solid black;
+    width:150px;
+    margin-left:5px;
+    margin-top:5px;
+}
+.personBox:hover{
+    background-color:rgb(140,140,140);
+    color:red;
+    border:1px solid red;
+    
+}
