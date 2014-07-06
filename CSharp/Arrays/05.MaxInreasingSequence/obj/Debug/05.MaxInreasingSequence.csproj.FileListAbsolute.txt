@@ -1,0 +1,5 @@
+C:\Users\stefan\Desktop\Arrays\05.MaxInreasingSequence\bin\Debug\05.MaxInreasingSequence.exe.config
+C:\Users\stefan\Desktop\Arrays\05.MaxInreasingSequence\bin\Debug\05.MaxInreasingSequence.exe
+C:\Users\stefan\Desktop\Arrays\05.MaxInreasingSequence\bin\Debug\05.MaxInreasingSequence.pdb
+C:\Users\stefan\Desktop\Arrays\05.MaxInreasingSequence\obj\Debug\05.MaxInreasingSequence.exe
+C:\Users\stefan\Desktop\Arrays\05.MaxInreasingSequence\obj\Debug\05.MaxInreasingSequence.pdb

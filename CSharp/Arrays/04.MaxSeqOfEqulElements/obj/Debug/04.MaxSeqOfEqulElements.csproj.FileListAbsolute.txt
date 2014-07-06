@@ -1,0 +1,6 @@
+C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\bin\Debug\04.MaxSeqOfEqulElements.exe.config
+C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\bin\Debug\04.MaxSeqOfEqulElements.exe
+C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\bin\Debug\04.MaxSeqOfEqulElements.pdb
+C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.exe
+C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.pdb

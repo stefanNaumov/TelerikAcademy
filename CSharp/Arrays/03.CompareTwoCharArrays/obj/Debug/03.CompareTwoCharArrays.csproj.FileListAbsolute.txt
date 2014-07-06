@@ -1,0 +1,5 @@
+C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\bin\Debug\_03.CompareTwoCharArrays.exe
+C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\bin\Debug\_03.CompareTwoCharArrays.pdb
+C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\obj\Debug\_03.CompareTwoCharArrays.exe
+C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\obj\Debug\_03.CompareTwoCharArrays.pdb
