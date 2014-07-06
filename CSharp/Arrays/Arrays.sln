@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MaxSeqOfEqulElements", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MaxInreasingSequence", "05.MaxInreasingSequence\05.MaxInreasingSequence.csproj", "{A64AC8B4-C906-428B-8FE9-4C405650F116}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FindMaxSum", "06.FindMaxSum\06.FindMaxSum.csproj", "{95A7C3BD-822F-4A71-93E0-A6409972C75A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{A64AC8B4-C906-428B-8FE9-4C405650F116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A64AC8B4-C906-428B-8FE9-4C405650F116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A64AC8B4-C906-428B-8FE9-4C405650F116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A7C3BD-822F-4A71-93E0-A6409972C75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A7C3BD-822F-4A71-93E0-A6409972C75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A7C3BD-822F-4A71-93E0-A6409972C75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A7C3BD-822F-4A71-93E0-A6409972C75A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

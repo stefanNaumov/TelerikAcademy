@@ -1,0 +1,6 @@
+D:\telerik\Projects\CSharp\Arrays\06.FindMaxSum\bin\Debug\06.FindMaxSum.exe.config
+D:\telerik\Projects\CSharp\Arrays\06.FindMaxSum\bin\Debug\06.FindMaxSum.exe
+D:\telerik\Projects\CSharp\Arrays\06.FindMaxSum\bin\Debug\06.FindMaxSum.pdb
+D:\telerik\Projects\CSharp\Arrays\06.FindMaxSum\obj\Debug\06.FindMaxSum.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\CSharp\Arrays\06.FindMaxSum\obj\Debug\06.FindMaxSum.exe
+D:\telerik\Projects\CSharp\Arrays\06.FindMaxSum\obj\Debug\06.FindMaxSum.pdb
