@@ -1,0 +1,6 @@
+D:\telerik\Projects\CSharp\Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe.config
+D:\telerik\Projects\CSharp\Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe
+D:\telerik\Projects\CSharp\Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.pdb
+D:\telerik\Projects\CSharp\Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\CSharp\Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.exe
+D:\telerik\Projects\CSharp\Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.pdb

@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MaxSumSequence", "08.Max
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.MostFreqNumInArray", "09.MostFreqNumInArray\09.MostFreqNumInArray.csproj", "{DAA77F59-8700-47AD-AAD4-75A16FC2432A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.SequenceOfGivenSum", "10.SequenceOfGivenSum\10.SequenceOfGivenSum.csproj", "{01CA9D30-4E3F-46A8-B1E6-C287D4267177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BinarySearch", "11.BinarySearch\11.BinarySearch.csproj", "{EDEAC0CB-5CEC-48C2-BBA8-E65CDBB80D1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +65,14 @@ Global
 		{DAA77F59-8700-47AD-AAD4-75A16FC2432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAA77F59-8700-47AD-AAD4-75A16FC2432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAA77F59-8700-47AD-AAD4-75A16FC2432A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CA9D30-4E3F-46A8-B1E6-C287D4267177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CA9D30-4E3F-46A8-B1E6-C287D4267177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CA9D30-4E3F-46A8-B1E6-C287D4267177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CA9D30-4E3F-46A8-B1E6-C287D4267177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEAC0CB-5CEC-48C2-BBA8-E65CDBB80D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEAC0CB-5CEC-48C2-BBA8-E65CDBB80D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEAC0CB-5CEC-48C2-BBA8-E65CDBB80D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEAC0CB-5CEC-48C2-BBA8-E65CDBB80D1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

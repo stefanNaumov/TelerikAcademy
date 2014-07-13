@@ -1,0 +1,5 @@
+D:\telerik\Projects\CSharp\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+D:\telerik\Projects\CSharp\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+D:\telerik\Projects\CSharp\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+D:\telerik\Projects\CSharp\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+D:\telerik\Projects\CSharp\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
