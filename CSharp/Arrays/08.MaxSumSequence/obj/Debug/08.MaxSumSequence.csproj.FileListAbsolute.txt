@@ -1,0 +1,6 @@
+D:\telerik\Projects\CSharp\Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.exe.config
+D:\telerik\Projects\CSharp\Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.exe
+D:\telerik\Projects\CSharp\Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.pdb
+D:\telerik\Projects\CSharp\Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\CSharp\Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.exe
+D:\telerik\Projects\CSharp\Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.pdb

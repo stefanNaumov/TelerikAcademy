@@ -2,3 +2,7 @@ C:\Users\stefan\Desktop\Arrays\02.CompareTwoArrays\bin\Debug\_02.CompareTwoArray
 C:\Users\stefan\Desktop\Arrays\02.CompareTwoArrays\bin\Debug\_02.CompareTwoArrays.pdb
 C:\Users\stefan\Desktop\Arrays\02.CompareTwoArrays\obj\Debug\_02.CompareTwoArrays.exe
 C:\Users\stefan\Desktop\Arrays\02.CompareTwoArrays\obj\Debug\_02.CompareTwoArrays.pdb
+D:\telerik\Projects\CSharp\Arrays\02.CompareTwoArrays\obj\Debug\_02.CompareTwoArrays.exe
+D:\telerik\Projects\CSharp\Arrays\02.CompareTwoArrays\obj\Debug\_02.CompareTwoArrays.pdb
+D:\telerik\Projects\CSharp\Arrays\02.CompareTwoArrays\bin\Debug\_02.CompareTwoArrays.exe
+D:\telerik\Projects\CSharp\Arrays\02.CompareTwoArrays\bin\Debug\_02.CompareTwoArrays.pdb

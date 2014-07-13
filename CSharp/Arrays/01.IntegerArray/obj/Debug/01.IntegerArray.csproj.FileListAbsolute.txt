@@ -8,3 +8,6 @@ C:\Users\stefan\Desktop\Arrays\01.IntegerArray\obj\Debug\01.IntegerArray.pdb
 D:\telerik\Projects\CSharp\Arrays\01.IntegerArray\bin\Debug\01.IntegerArray.exe.config
 D:\telerik\Projects\CSharp\Arrays\01.IntegerArray\obj\Debug\01.IntegerArray.exe
 D:\telerik\Projects\CSharp\Arrays\01.IntegerArray\obj\Debug\01.IntegerArray.pdb
+D:\telerik\Projects\CSharp\Arrays\01.IntegerArray\bin\Debug\01.IntegerArray.exe
+D:\telerik\Projects\CSharp\Arrays\01.IntegerArray\bin\Debug\01.IntegerArray.pdb
+D:\telerik\Projects\CSharp\Arrays\01.IntegerArray\obj\Debug\01.IntegerArray.csprojResolveAssemblyReference.cache

@@ -3,3 +3,8 @@ C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\bin\Debug\_03.CompareTwoC
 C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.csprojResolveAssemblyReference.cache
 C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\obj\Debug\_03.CompareTwoCharArrays.exe
 C:\Users\stefan\Desktop\Arrays\03.CompareTwoCharArrays\obj\Debug\_03.CompareTwoCharArrays.pdb
+D:\telerik\Projects\CSharp\Arrays\03.CompareTwoCharArrays\obj\Debug\_03.CompareTwoCharArrays.exe
+D:\telerik\Projects\CSharp\Arrays\03.CompareTwoCharArrays\obj\Debug\_03.CompareTwoCharArrays.pdb
+D:\telerik\Projects\CSharp\Arrays\03.CompareTwoCharArrays\bin\Debug\_03.CompareTwoCharArrays.exe
+D:\telerik\Projects\CSharp\Arrays\03.CompareTwoCharArrays\bin\Debug\_03.CompareTwoCharArrays.pdb
+D:\telerik\Projects\CSharp\Arrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.csprojResolveAssemblyReference.cache

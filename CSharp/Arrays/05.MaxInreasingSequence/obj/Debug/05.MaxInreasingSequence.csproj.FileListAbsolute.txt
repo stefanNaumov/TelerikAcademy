@@ -6,3 +6,5 @@ C:\Users\stefan\Desktop\Arrays\05.MaxInreasingSequence\obj\Debug\05.MaxInreasing
 D:\telerik\Projects\CSharp\Arrays\05.MaxInreasingSequence\bin\Debug\05.MaxInreasingSequence.exe.config
 D:\telerik\Projects\CSharp\Arrays\05.MaxInreasingSequence\obj\Debug\05.MaxInreasingSequence.exe
 D:\telerik\Projects\CSharp\Arrays\05.MaxInreasingSequence\obj\Debug\05.MaxInreasingSequence.pdb
+D:\telerik\Projects\CSharp\Arrays\05.MaxInreasingSequence\bin\Debug\05.MaxInreasingSequence.exe
+D:\telerik\Projects\CSharp\Arrays\05.MaxInreasingSequence\bin\Debug\05.MaxInreasingSequence.pdb

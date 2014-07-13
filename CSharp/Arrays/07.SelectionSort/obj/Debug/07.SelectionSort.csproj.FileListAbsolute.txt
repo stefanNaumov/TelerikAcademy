@@ -1,0 +1,6 @@
+D:\telerik\Projects\CSharp\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+D:\telerik\Projects\CSharp\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+D:\telerik\Projects\CSharp\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+D:\telerik\Projects\CSharp\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\CSharp\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+D:\telerik\Projects\CSharp\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

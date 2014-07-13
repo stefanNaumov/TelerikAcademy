@@ -4,3 +4,9 @@ C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\bin\Debug\04.MaxSeqOfEqul
 C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.csprojResolveAssemblyReference.cache
 C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.exe
 C:\Users\stefan\Desktop\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.pdb
+D:\telerik\Projects\CSharp\Arrays\04.MaxSeqOfEqulElements\bin\Debug\04.MaxSeqOfEqulElements.exe.config
+D:\telerik\Projects\CSharp\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.exe
+D:\telerik\Projects\CSharp\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.pdb
+D:\telerik\Projects\CSharp\Arrays\04.MaxSeqOfEqulElements\obj\Debug\04.MaxSeqOfEqulElements.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\CSharp\Arrays\04.MaxSeqOfEqulElements\bin\Debug\04.MaxSeqOfEqulElements.exe
+D:\telerik\Projects\CSharp\Arrays\04.MaxSeqOfEqulElements\bin\Debug\04.MaxSeqOfEqulElements.pdb
