@@ -17,7 +17,7 @@ namespace _13.MergeSort
             int[] sorted = Split(randomArr);
             watch.Stop();
 
-            Console.WriteLine("Sorting {0} elements for: {1} seconds",randomArr.Length,watch.Elapsed);
+            Console.WriteLine("Sorted {0} elements for: {1} seconds",randomArr.Length,watch.Elapsed);
 
             //for (int i = 0; i < sorted.Length; i++)
             //{
