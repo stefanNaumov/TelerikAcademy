@@ -1,0 +1,5 @@
+D:\telerik\Projects\CSharp\Arrays\12.CharIndex\bin\Debug\12.CharIndex.exe.config
+D:\telerik\Projects\CSharp\Arrays\12.CharIndex\bin\Debug\12.CharIndex.exe
+D:\telerik\Projects\CSharp\Arrays\12.CharIndex\bin\Debug\12.CharIndex.pdb
+D:\telerik\Projects\CSharp\Arrays\12.CharIndex\obj\Debug\12.CharIndex.exe
+D:\telerik\Projects\CSharp\Arrays\12.CharIndex\obj\Debug\12.CharIndex.pdb
