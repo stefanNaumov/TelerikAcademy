@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.MergeSort", "13.MergeSor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.QuickSort", "14.QuickSort\14.QuickSort.csproj", "{CF51D2D6-7D93-4D96-B392-214BD69FEC14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.SieveOfErathosthenes", "15.SieveOfErathosthenes\15.SieveOfErathosthenes.csproj", "{BBE78515-B7F1-4B5B-AC44-B90F378ED104}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{CF51D2D6-7D93-4D96-B392-214BD69FEC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF51D2D6-7D93-4D96-B392-214BD69FEC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF51D2D6-7D93-4D96-B392-214BD69FEC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE78515-B7F1-4B5B-AC44-B90F378ED104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE78515-B7F1-4B5B-AC44-B90F378ED104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE78515-B7F1-4B5B-AC44-B90F378ED104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE78515-B7F1-4B5B-AC44-B90F378ED104}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

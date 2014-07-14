@@ -1,0 +1,6 @@
+D:\telerik\Projects\CSharp\Arrays\15.SieveOfErathosthenes\bin\Debug\15.SieveOfErathosthenes.exe.config
+D:\telerik\Projects\CSharp\Arrays\15.SieveOfErathosthenes\bin\Debug\15.SieveOfErathosthenes.exe
+D:\telerik\Projects\CSharp\Arrays\15.SieveOfErathosthenes\bin\Debug\15.SieveOfErathosthenes.pdb
+D:\telerik\Projects\CSharp\Arrays\15.SieveOfErathosthenes\obj\Debug\15.SieveOfErathosthenes.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\CSharp\Arrays\15.SieveOfErathosthenes\obj\Debug\15.SieveOfErathosthenes.exe
+D:\telerik\Projects\CSharp\Arrays\15.SieveOfErathosthenes\obj\Debug\15.SieveOfErathosthenes.pdb
