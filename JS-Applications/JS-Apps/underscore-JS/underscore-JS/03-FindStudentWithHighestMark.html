@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!--Write a function that by a given array of students finds the student with highest marks-->
+    <title></title>
+    <script src="chance.min.js"></script>
+    <script src="underscore.min.js"></script>
+</head>
+<body>
+    <script>
+        var studentsArr = [];
+
+        for (var i = 0; i < 20; i++) {
+            studentsArr.push({
+                firstName: chance.first(),
+                lastName: chance.last(),
+                mark: chance.integer({min:0,max:100})
+            });
+        }
+
+        var sorted = _.sortBy(studentsArr, function (student) {
+            return student.mark;
+        });
+
+        var nerd = _.last(sorted);
+        console.log(nerd.firstName + ' ' + nerd.lastName + ' mark: ' + nerd.mark);
+    </script>
+</body>
+</html>

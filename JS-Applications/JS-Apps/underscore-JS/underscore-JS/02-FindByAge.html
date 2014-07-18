@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!--Write function that finds the first name and last name of all students with age between 18 and 24. Use Underscore.js-->
+    <title></title>
+    <script src="chance.min.js"></script>
+    <script src="underscore.min.js"></script>
+</head>
+<body>
+    <script>
+        var studentsArr = [];
+
+        for (var i = 0; i < 20; i++) {
+            studentsArr.push({
+                firstName: chance.first(),
+                lastName: chance.last(),
+                age:chance.age()
+            });
+        }
+        var filtered = _.filter(studentsArr, function (student) {
+            return student.age >= 18 && student.age <= 24;
+        });
+
+        _.each(filtered, function (student) {
+            console.log(student.firstName + ' ' + student.lastName);
+        });
+    </script>
+</body>
+</html>

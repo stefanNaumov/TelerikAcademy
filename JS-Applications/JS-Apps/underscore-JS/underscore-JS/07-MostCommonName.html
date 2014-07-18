@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!--By an array of people find the most common first and last name. Use underscore.-->
+    <title></title>
+    <script src="chance.min.js"></script>
+    <script src="underscore.min.js"></script>
+</head>
+<body>
+    <script>
+        var people = [];
+
+        for (var i = 0; i < 200; i++) {
+            people.push({
+                firstName: chance.first(),
+                lastName: chance.last()
+            });
+        }
+
+        var firstNameCounterCollection = _.countBy(people, function (person) {
+            return person.firstName;
+        });
+        var maxFirstNameValue = _.max(firstNameCounterCollection);
+        firstNameCounterCollection = _.invert(firstNameCounterCollection);
+
+        var maxFirstName = firstNameCounterCollection[maxFirstNameValue];
+
+        console.log(maxFirstName + ' ' + maxFirstNameValue);
+    </script>
+</body>
+</html>

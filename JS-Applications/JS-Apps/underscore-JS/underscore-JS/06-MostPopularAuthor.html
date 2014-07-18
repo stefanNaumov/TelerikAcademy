@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!--By a given collection of books, find the most popular author (the author with the highest number of books)-->
+    <title></title>
+    <script src="chance.min.js"></script>
+    <script src="underscore.min.js"></script>
+</head>
+<body>
+    <script>
+        var books = [];
+        var authors = ['Dragoev', 'Petrov', 'akademik Skrinov', 'prof.Prashasalov'];
+        for (var i = 0; i < 50; i++) {
+            books.push({
+                title: chance.string(),
+                author: authors[chance.integer({ min: 0, max: 3 })]
+            });
+        }
+
+        var groupedByAuthor = _.groupBy(books, function (book) {
+            return book.author;
+        });
+        var sortByBooks = _.sortBy(groupedByAuthor, function (books) {
+            return books.length;
+        });
+        var mostPopAuthor = _.first(sortByBooks)[0].author + ' ' + _.first(sortByBooks).length;
+
+        console.log(mostPopAuthor);
+    </script>
+</body>
+</html>
