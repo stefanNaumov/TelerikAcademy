@@ -1,0 +1,5 @@
+D:\telerik\Projects\JS-Applications\JS-Apps\Web-Storages\Web-Storages\bin\Web-Storages.dll
+D:\telerik\Projects\JS-Applications\JS-Apps\Web-Storages\Web-Storages\bin\Web-Storages.pdb
+D:\telerik\Projects\JS-Applications\JS-Apps\Web-Storages\Web-Storages\obj\Debug\Web-Storages.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\JS-Applications\JS-Apps\Web-Storages\Web-Storages\obj\Debug\Web-Storages.dll
+D:\telerik\Projects\JS-Applications\JS-Apps\Web-Storages\Web-Storages\obj\Debug\Web-Storages.pdb
