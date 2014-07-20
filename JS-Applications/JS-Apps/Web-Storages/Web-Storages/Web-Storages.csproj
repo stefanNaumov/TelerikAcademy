@@ -60,6 +60,7 @@
     <Content Include="images\ram.jpg" />
     <Content Include="images\sheep.png" />
     <Content Include="NumberGuessingGame.html" />
+    <Content Include="numberGuessingGame.js" />
     <Content Include="styles\styles.css" />
     <Content Include="underscore.min.js" />
     <Content Include="Web.config" />
