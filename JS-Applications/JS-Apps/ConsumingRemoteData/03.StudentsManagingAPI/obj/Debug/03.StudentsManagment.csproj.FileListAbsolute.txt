@@ -1,0 +1,5 @@
+D:\telerik\Projects\JS-Applications\JS-Apps\ConsumingRemoteData\03.StudentsManagingAPI\bin\03.StudentsManagingAPI.dll
+D:\telerik\Projects\JS-Applications\JS-Apps\ConsumingRemoteData\03.StudentsManagingAPI\bin\03.StudentsManagingAPI.pdb
+D:\telerik\Projects\JS-Applications\JS-Apps\ConsumingRemoteData\03.StudentsManagingAPI\obj\Debug\03.StudentsManagment.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\JS-Applications\JS-Apps\ConsumingRemoteData\03.StudentsManagingAPI\obj\Debug\03.StudentsManagingAPI.dll
+D:\telerik\Projects\JS-Applications\JS-Apps\ConsumingRemoteData\03.StudentsManagingAPI\obj\Debug\03.StudentsManagingAPI.pdb
