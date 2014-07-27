@@ -1,0 +1,5 @@
+D:\telerik\Projects\JS-Applications\JS-Apps\SPAApplications\SPAApplications\bin\SPAApplications.dll
+D:\telerik\Projects\JS-Applications\JS-Apps\SPAApplications\SPAApplications\bin\SPAApplications.pdb
+D:\telerik\Projects\JS-Applications\JS-Apps\SPAApplications\SPAApplications\obj\Debug\SPAApplications.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\JS-Applications\JS-Apps\SPAApplications\SPAApplications\obj\Debug\SPAApplications.dll
+D:\telerik\Projects\JS-Applications\JS-Apps\SPAApplications\SPAApplications\obj\Debug\SPAApplications.pdb

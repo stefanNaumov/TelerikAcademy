@@ -1,0 +1,29 @@
+﻿#chatWindow{
+    width:80%;
+    height:600px;
+    font-size:25px;
+    color:red;
+    background-color:gray;
+    position:absolute;
+}
+#main-content{
+    height:700px;
+}
+#chatListUser{
+    color:black;
+    font-size:20px;
+}
+#chatListText{
+    color:green;
+    font-size:15px;
+}
+a{
+    margin:10px;
+    font-size:20px;
+}
+#chatList{
+    list-style-type:none;
+}
+li{
+
+}
