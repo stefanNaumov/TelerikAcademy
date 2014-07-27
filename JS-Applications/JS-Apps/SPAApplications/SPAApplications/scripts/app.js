@@ -14,7 +14,7 @@ require.config({
 require(['jquery', 'sammy','renderer','logger','loadData','sendData'], function ($, sammy,renderer,logger,loader,sender) {
 
     var url = 'http://crowd-chat.herokuapp.com/posts';
-
+    
     var log = logger('#logger');
     log.run();
     $('#logBtn').on('click', function () {
