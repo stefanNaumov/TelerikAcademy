@@ -23,9 +23,12 @@ define(['jquery', 'sammy'], function ($,sammy) {
                 var chatWindow = $('<div/>')
                     .html('Creepy Chat')
                     .attr('id', 'chatWindow');
+
                 function loadData() {
                     
                     var getData = loader(url).then(function (data) {
+
+                        $('#chatList').remove();
 
                         var ul = $('<ul/>');
                         ul.attr('id', 'chatList');
@@ -43,7 +46,7 @@ define(['jquery', 'sammy'], function ($,sammy) {
                     
                 }
                 function loadInput() {
-                    console.log(56666666);
+                    
                     var inputBox = $('<input/>')
                        .attr('type', 'text')
                        .attr('id', 'userInput');
@@ -64,7 +67,6 @@ define(['jquery', 'sammy'], function ($,sammy) {
                         });
                         $('#userInput').val('');
                     });
-                    console.log(inputBox);
                     chatWindow.append(inputBox).append(sendBtn);
                 }
                 loadData();
