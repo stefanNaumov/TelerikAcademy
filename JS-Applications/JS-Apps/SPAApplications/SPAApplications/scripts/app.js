@@ -25,11 +25,8 @@ require(['jquery', 'sammy','renderer','logger','loadData','sendData'], function 
 
             $('body').append($('<div/>').attr('id', 'main-content'));
 
-           
-
             var chatAnch = $('<a/>').html('Chat')
             .attr('href', '#/chat');
-
 
             var aboutAnch = $('<a/>').html('About')
             .attr('href', '#/about');
