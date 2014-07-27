@@ -73,7 +73,7 @@ define(['jquery', 'sammy'], function ($,sammy) {
                 setInterval(function () {
                     $('#chatList').remove();
                     loadData();
-                }, 3000);
+                }, 5000);
 
                 $(targetEl).append(chatWindow);
             });
