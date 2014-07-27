@@ -66,7 +66,7 @@
     <Content Include="scripts\logic\loadData.js" />
     <Content Include="scripts\logic\logger.js" />
     <Content Include="scripts\logic\sendData.js" />
-    <Content Include="scripts\styles\styles.css" />
+    <Content Include="styles\styles.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
