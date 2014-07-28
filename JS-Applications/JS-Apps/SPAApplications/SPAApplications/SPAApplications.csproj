@@ -59,7 +59,9 @@
   <ItemGroup>
     <Content Include="index.html" />
     <Content Include="scripts\app.js" />
+    <Content Include="scripts\libs\chai.js" />
     <Content Include="scripts\libs\jquery.js" />
+    <Content Include="scripts\libs\mocha.js" />
     <Content Include="scripts\libs\require.js" />
     <Content Include="scripts\libs\sammy.js" />
     <Content Include="scripts\logic\chatRenderer.js" />

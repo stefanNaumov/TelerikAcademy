@@ -41,5 +41,6 @@ require(['jquery', 'sammy','renderer','logger','loadData','sendData'], function 
         else {
             alert('Invalid username!');
         }
+        return 'pesho';
     });
 });
