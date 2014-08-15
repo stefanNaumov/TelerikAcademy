@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\bin\Debug\05.RiskWins-RiskLoses.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\obj\Debug\05.RiskWins-RiskLoses.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\bin\Debug\05.RiskWins-RiskLoses.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\bin\Debug\05.RiskWins-RiskLoses.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\obj\Debug\05.RiskWins-RiskLoses.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\obj\Debug\05.RiskWins-RiskLoses.pdb

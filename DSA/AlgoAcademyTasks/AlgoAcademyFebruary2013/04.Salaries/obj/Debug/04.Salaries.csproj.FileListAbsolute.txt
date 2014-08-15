@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.Salaries\bin\Debug\04.Salaries.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.Salaries\bin\Debug\04.Salaries.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.Salaries\bin\Debug\04.Salaries.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.Salaries\obj\Debug\04.Salaries.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.Salaries\obj\Debug\04.Salaries.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.Salaries\obj\Debug\04.Salaries.pdb

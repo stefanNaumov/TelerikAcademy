@@ -1,0 +1,9 @@
+D:\telerik\Projects\DSA\AlgoAcademyFebruary2013\01.Carrying\bin\Debug\01.Carrying.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyFebruary2013\01.Carrying\bin\Debug\01.Carrying.exe
+D:\telerik\Projects\DSA\AlgoAcademyFebruary2013\01.Carrying\bin\Debug\01.Carrying.pdb
+D:\telerik\Projects\DSA\AlgoAcademyFebruary2013\01.Carrying\obj\Debug\01.Carrying.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyFebruary2013\01.Carrying\obj\Debug\01.Carrying.exe
+D:\telerik\Projects\DSA\AlgoAcademyFebruary2013\01.Carrying\obj\Debug\01.Carrying.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\01.Carrying\bin\Debug\01.Carrying.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\01.Carrying\obj\Debug\01.Carrying.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\01.Carrying\obj\Debug\01.Carrying.pdb

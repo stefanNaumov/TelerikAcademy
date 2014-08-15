@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\07.MaximalPath\bin\Debug\07.MaximalPath.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\07.MaximalPath\obj\Debug\07.MaximalPath.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\07.MaximalPath\bin\Debug\07.MaximalPath.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\07.MaximalPath\bin\Debug\07.MaximalPath.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\07.MaximalPath\obj\Debug\07.MaximalPath.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\07.MaximalPath\obj\Debug\07.MaximalPath.pdb
