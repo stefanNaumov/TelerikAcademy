@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\04.ColorBallsRow\bin\Debug\04.ColorBallsRow.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\04.ColorBallsRow\bin\Debug\04.ColorBallsRow.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\04.ColorBallsRow\bin\Debug\04.ColorBallsRow.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\04.ColorBallsRow\obj\Debug\04.ColorBallsRow.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\04.ColorBallsRow\obj\Debug\04.ColorBallsRow.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\04.ColorBallsRow\obj\Debug\04.ColorBallsRow.csprojResolveAssemblyReference.cache

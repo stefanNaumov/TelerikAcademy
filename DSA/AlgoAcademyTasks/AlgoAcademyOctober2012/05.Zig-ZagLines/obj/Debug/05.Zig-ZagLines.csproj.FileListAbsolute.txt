@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\05.Zig-ZagLines\bin\Debug\05.Zig-ZagLines.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\05.Zig-ZagLines\bin\Debug\05.Zig-ZagLines.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\05.Zig-ZagLines\bin\Debug\05.Zig-ZagLines.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\05.Zig-ZagLines\obj\Debug\05.Zig-ZagLines.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\05.Zig-ZagLines\obj\Debug\05.Zig-ZagLines.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\05.Zig-ZagLines\obj\Debug\05.Zig-ZagLines.pdb
