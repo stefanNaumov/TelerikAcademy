@@ -1,1 +1,6 @@
 D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\03.Divisors\bin\Debug\03.Divisors.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\03.Divisors\bin\Debug\03.Divisors.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\03.Divisors\bin\Debug\03.Divisors.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\03.Divisors\obj\Debug\03.Divisors.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\03.Divisors\obj\Debug\03.Divisors.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\03.Divisors\obj\Debug\03.Divisors.pdb
