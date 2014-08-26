@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\SampleExams\FriendsInNeed\FreindsInNeed\bin\Debug\FriendsInNeed.exe.config
+D:\telerik\Projects\DSA\SampleExams\FriendsInNeed\FreindsInNeed\bin\Debug\FriendsInNeed.exe
+D:\telerik\Projects\DSA\SampleExams\FriendsInNeed\FreindsInNeed\bin\Debug\FriendsInNeed.pdb
+D:\telerik\Projects\DSA\SampleExams\FriendsInNeed\FreindsInNeed\obj\Debug\FriendsInNeed.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\SampleExams\FriendsInNeed\FreindsInNeed\obj\Debug\FriendsInNeed.exe
+D:\telerik\Projects\DSA\SampleExams\FriendsInNeed\FreindsInNeed\obj\Debug\FriendsInNeed.pdb
