@@ -1,1 +1,6 @@
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.exe.config
+D:\telerik\Projects\DSA\TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.exe
+D:\telerik\Projects\DSA\TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.pdb
+D:\telerik\Projects\DSA\TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.exe
+D:\telerik\Projects\DSA\TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.pdb

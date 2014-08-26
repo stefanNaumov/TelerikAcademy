@@ -3,3 +3,5 @@ C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\TreesAndTraversals\01.
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\TreesAndTraversals\01.TreeOfNNodes\obj\Debug\01.TreeOfNNodes.csprojResolveAssemblyReference.cache
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\TreesAndTraversals\01.TreeOfNNodes\obj\Debug\01.TreeOfNNodes.exe
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\TreesAndTraversals\01.TreeOfNNodes\obj\Debug\01.TreeOfNNodes.pdb
+D:\telerik\Projects\DSA\TreesAndTraversals\01.TreeOfNNodes\obj\Debug\01.TreeOfNNodes.exe
+D:\telerik\Projects\DSA\TreesAndTraversals\01.TreeOfNNodes\obj\Debug\01.TreeOfNNodes.pdb
