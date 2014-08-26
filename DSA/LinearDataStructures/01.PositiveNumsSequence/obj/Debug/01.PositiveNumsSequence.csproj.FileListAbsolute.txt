@@ -4,3 +4,6 @@ C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\0
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\01.PositiveNumsSequence\obj\Debug\01.PositiveNumsSequence.csprojResolveAssemblyReference.cache
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\01.PositiveNumsSequence\obj\Debug\01.PositiveNumsSequence.exe
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\LinearDataStructures\01.PositiveNumsSequence\obj\Debug\01.PositiveNumsSequence.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\01.PositiveNumsSequence\bin\Debug\01.PositiveNumsSequence.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\01.PositiveNumsSequence\obj\Debug\01.PositiveNumsSequence.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\01.PositiveNumsSequence\obj\Debug\01.PositiveNumsSequence.pdb

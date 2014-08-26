@@ -1,0 +1,6 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\11.LinkedList\bin\Debug\11.LinkedList.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\LinearDataStructures\11.LinkedList\obj\Debug\11.LinkedList.pdb
