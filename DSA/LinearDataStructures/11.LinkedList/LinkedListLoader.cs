@@ -8,6 +8,8 @@ namespace LinkedList
 {
     class LinkedListLoader
     {
+        //Must implement getting the previous element in the list in order to have correct removal of element
+
         static void Main()
         {
             LinkedList<int> list = new LinkedList<int>();
@@ -15,8 +17,13 @@ namespace LinkedList
             list.Add(6);
             list.Add(7);
 
-            ListItem<int> n = list.Find(6);
-            Console.WriteLine(n.Value);
+            list.Remove(6);
+            ListItem<int> n = list.Find(7);
+            while (n != null)
+            {
+                Console.WriteLine(n.Value);
+                n = n.NextItem;
+            }
         }
     }
 }

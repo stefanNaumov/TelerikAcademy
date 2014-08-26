@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\LinearDataStructures\13.Queue\bin\Debug\13.Queue.exe.config
+D:\telerik\Projects\DSA\LinearDataStructures\13.Queue\bin\Debug\13.Queue.exe
+D:\telerik\Projects\DSA\LinearDataStructures\13.Queue\bin\Debug\13.Queue.pdb
+D:\telerik\Projects\DSA\LinearDataStructures\13.Queue\obj\Debug\13.LinkedListQueue.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\LinearDataStructures\13.Queue\obj\Debug\13.Queue.exe
+D:\telerik\Projects\DSA\LinearDataStructures\13.Queue\obj\Debug\13.Queue.pdb

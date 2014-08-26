@@ -1,0 +1,1 @@
+D:\telerik\Projects\DSA\LinearDataStructures\13.Queue\bin\Debug\13.Queue.exe.config

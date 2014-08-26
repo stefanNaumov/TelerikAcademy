@@ -1,0 +1,5 @@
+D:\telerik\Projects\DSA\LinearDataStructures\06.RemoveNegativeNumbers\bin\Debug\06.RemoveNegativeNumbers.exe.config
+D:\telerik\Projects\DSA\LinearDataStructures\06.RemoveNegativeNumbers\bin\Debug\06.RemoveNegativeNumbers.exe
+D:\telerik\Projects\DSA\LinearDataStructures\06.RemoveNegativeNumbers\bin\Debug\06.RemoveNegativeNumbers.pdb
+D:\telerik\Projects\DSA\LinearDataStructures\06.RemoveNegativeNumbers\obj\Debug\06.RemoveNegativeNumbers.exe
+D:\telerik\Projects\DSA\LinearDataStructures\06.RemoveNegativeNumbers\obj\Debug\06.RemoveNegativeNumbers.pdb
