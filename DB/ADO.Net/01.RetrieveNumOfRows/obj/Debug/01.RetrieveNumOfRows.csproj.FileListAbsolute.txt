@@ -1,0 +1,6 @@
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\01.RetrieveNumOfRows\bin\Debug\01.RetrieveNumOfRows.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\01.RetrieveNumOfRows\bin\Debug\01.RetrieveNumOfRows.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\01.RetrieveNumOfRows\bin\Debug\01.RetrieveNumOfRows.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\01.RetrieveNumOfRows\obj\Debug\01.RetrieveNumOfRows.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\01.RetrieveNumOfRows\obj\Debug\01.RetrieveNumOfRows.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\01.RetrieveNumOfRows\obj\Debug\01.RetrieveNumOfRows.pdb
