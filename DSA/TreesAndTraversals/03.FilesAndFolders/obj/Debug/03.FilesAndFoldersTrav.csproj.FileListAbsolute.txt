@@ -1,0 +1,6 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\TreesAndTraversals\03.FilesAndFolders\bin\Debug\03.FilesAndFolders.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\TreesAndTraversals\03.FilesAndFolders\bin\Debug\03.FilesAndFolders.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\TreesAndTraversals\03.FilesAndFolders\bin\Debug\03.FilesAndFolders.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\TreesAndTraversals\03.FilesAndFolders\obj\Debug\03.FilesAndFoldersTrav.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DSA\TreesAndTraversals\03.FilesAndFolders\obj\Debug\03.FilesAndFolders.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\TreesAndTraversals\03.FilesAndFolders\obj\Debug\03.FilesAndFolders.pdb

@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FilesAndFolders
+namespace FilesAndFoldersTrav
 {
     public class Folder
     {
-        private string name;
-        public File[] Files;
-        public Folder[] ChildFolders;
+        public string Name { get; set; }
+        public File[] Files { get; set; }
+        public Folder[] ChildFolders { get; set; }
+
+        public Folder(string name)
+        {
+            this.Name = name;
+        }
+
     }
 }

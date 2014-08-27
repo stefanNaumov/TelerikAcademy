@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FilesAndFolders
+namespace FilesAndFoldersTrav
 {
     public class File
     {
-        private string name;
-        private int size;
+        public string Name { get; set; }
+        public int Size { get; set; }
 
         public File(string name, int size)
         {
-            this.name = name;
-            this.size = size;
+            this.Name = name;
+            this.Size = size;
         }
     }
 }

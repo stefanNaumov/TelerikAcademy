@@ -16,7 +16,12 @@ namespace FilesAndFoldersTrav
     {
         static void Main()
         {
+            Folder root = new Folder("C:\\Windows");
+            FileFolderTree tree = new FileFolderTree(root);
 
+            long sum = tree.CalcFileSizesSum();
+
+            Console.WriteLine("Sum of files sizes is: {0} bytes",sum);
         }
     }
 }
