@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\02.RetrieveNameAndDescription\bin\Debug\02.RetrieveNameAndDescription.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\02.RetrieveNameAndDescription\bin\Debug\02.RetrieveNameAndDescription.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\02.RetrieveNameAndDescription\bin\Debug\02.RetrieveNameAndDescription.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\02.RetrieveNameAndDescription\obj\Debug\02.RetrieveNameAndDescription.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\02.RetrieveNameAndDescription\obj\Debug\02.RetrieveNameAndDescription.pdb

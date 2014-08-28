@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\08.ProductsFromString\bin\Debug\08.ProductsFromString.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\08.ProductsFromString\bin\Debug\08.ProductsFromString.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\08.ProductsFromString\bin\Debug\08.ProductsFromString.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\08.ProductsFromString\obj\Debug\08.ProductsFromString.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\08.ProductsFromString\obj\Debug\08.ProductsFromString.pdb

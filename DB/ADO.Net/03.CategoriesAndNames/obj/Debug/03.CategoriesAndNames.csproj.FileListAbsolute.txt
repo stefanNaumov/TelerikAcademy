@@ -1,0 +1,6 @@
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\03.CategoriesAndNames\bin\Debug\03.CategoriesAndNames.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\03.CategoriesAndNames\bin\Debug\03.CategoriesAndNames.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\03.CategoriesAndNames\bin\Debug\03.CategoriesAndNames.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\03.CategoriesAndNames\obj\Debug\03.CategoriesAndNames.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\03.CategoriesAndNames\obj\Debug\03.CategoriesAndNames.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\03.CategoriesAndNames\obj\Debug\03.CategoriesAndNames.pdb

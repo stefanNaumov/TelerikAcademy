@@ -1,0 +1,6 @@
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\05.RetrieveImages\bin\Debug\05.RetrieveImages.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\05.RetrieveImages\bin\Debug\05.RetrieveImages.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\05.RetrieveImages\bin\Debug\05.RetrieveImages.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\05.RetrieveImages\obj\Debug\05.RetrieveImages.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\05.RetrieveImages\obj\Debug\05.RetrieveImages.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\05.RetrieveImages\obj\Debug\05.RetrieveImages.csprojResolveAssemblyReference.cache

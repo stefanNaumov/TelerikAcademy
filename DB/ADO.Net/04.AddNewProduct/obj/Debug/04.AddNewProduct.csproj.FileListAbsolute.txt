@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\04.AddNewProduct\bin\Debug\04.AddNewProduct.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\04.AddNewProduct\bin\Debug\04.AddNewProduct.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\04.AddNewProduct\bin\Debug\04.AddNewProduct.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\04.AddNewProduct\obj\Debug\04.AddNewProduct.exe
+D:\Telerik\telerik\TelerikAcademy\DB\ADO.Net\04.AddNewProduct\obj\Debug\04.AddNewProduct.pdb
