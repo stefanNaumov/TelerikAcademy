@@ -1,0 +1,10 @@
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\bin\Debug\01.DbContext.exe.config
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\obj\Debug\01.DbContext.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\bin\Debug\01.DbContext.exe
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\bin\Debug\01.DbContext.pdb
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\bin\Debug\EntityFramework.dll
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\bin\Debug\EntityFramework.xml
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\obj\Debug\01.DbContext.exe
+D:\telerik\Projects\DB\EntityFramework\01.DbContext\obj\Debug\01.DbContext.pdb
