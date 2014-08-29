@@ -1,0 +1,1 @@
+D:\telerik\Projects\DB\EntityFramework\10.StoreProcGetIncome\bin\Debug\10.StoreProcGetIncome.exe.config
