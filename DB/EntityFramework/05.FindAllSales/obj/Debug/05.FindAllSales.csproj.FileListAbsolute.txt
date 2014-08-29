@@ -1,0 +1,10 @@
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.dll
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.xml
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.pdb

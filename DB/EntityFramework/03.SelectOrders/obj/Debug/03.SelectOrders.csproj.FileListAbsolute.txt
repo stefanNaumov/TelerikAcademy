@@ -6,3 +6,10 @@ D:\telerik\Projects\DB\EntityFramework\03.SelectOrders\bin\Debug\EntityFramework
 D:\telerik\Projects\DB\EntityFramework\03.SelectOrders\obj\Debug\03.SelectOrders.csprojResolveAssemblyReference.cache
 D:\telerik\Projects\DB\EntityFramework\03.SelectOrders\obj\Debug\03.SelectOrders.exe
 D:\telerik\Projects\DB\EntityFramework\03.SelectOrders\obj\Debug\03.SelectOrders.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\03.SelectOrders\bin\Debug\03.SelectOrders.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\03.SelectOrders\obj\Debug\03.SelectOrders.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\03.SelectOrders\obj\Debug\03.SelectOrders.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\03.SelectOrders\bin\Debug\03.SelectOrders.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\03.SelectOrders\bin\Debug\03.SelectOrders.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\03.SelectOrders\bin\Debug\EntityFramework.dll
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\03.SelectOrders\bin\Debug\EntityFramework.xml
