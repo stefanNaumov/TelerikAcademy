@@ -6,3 +6,6 @@ C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorith
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\02.CableTVCompany\obj\Debug\02.CableTVCompany.csprojResolveAssemblyReference.cache
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\02.CableTVCompany\obj\Debug\02.CableTVCompany.exe
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\GraphsAndGraphAlgorithms\02.CableTVCompany\obj\Debug\02.CableTVCompany.pdb
+D:\telerik\Projects\DSA\GraphsAndGraphAlgorithms\02.CableTVCompany\bin\Debug\02.CableTVCompany.exe.config
+D:\telerik\Projects\DSA\GraphsAndGraphAlgorithms\02.CableTVCompany\obj\Debug\02.CableTVCompany.exe
+D:\telerik\Projects\DSA\GraphsAndGraphAlgorithms\02.CableTVCompany\obj\Debug\02.CableTVCompany.pdb

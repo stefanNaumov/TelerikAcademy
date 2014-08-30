@@ -1,7 +1,0 @@
-D:\telerik\Projects\DB\EntityFramework\08.EntityClassInheritance\bin\Debug\08.EntityClassInheritance.exe.config
-D:\telerik\Projects\DB\EntityFramework\08.EntityClassInheritance\bin\Debug\08.EntityClassInheritance.exe
-D:\telerik\Projects\DB\EntityFramework\08.EntityClassInheritance\bin\Debug\08.EntityClassInheritance.pdb
-D:\telerik\Projects\DB\EntityFramework\08.EntityClassInheritance\bin\Debug\EntityFramework.dll
-D:\telerik\Projects\DB\EntityFramework\08.EntityClassInheritance\bin\Debug\EntityFramework.xml
-D:\telerik\Projects\DB\EntityFramework\08.EntityClassInheritance\obj\Debug\08.EntityClassInheritance.exe
-D:\telerik\Projects\DB\EntityFramework\08.EntityClassInheritance\obj\Debug\08.EntityClassInheritance.pdb

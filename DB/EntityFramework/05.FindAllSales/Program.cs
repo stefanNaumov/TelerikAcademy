@@ -11,7 +11,7 @@ namespace _05.FindAllSales
     {
         static void Main()
         {
-            FindSales("Western", 1997, 2012);
+            FindSales("Sofia", 1997, 2000);
         }
 
         private static void FindSales(string region, int startDate, int endDate)
