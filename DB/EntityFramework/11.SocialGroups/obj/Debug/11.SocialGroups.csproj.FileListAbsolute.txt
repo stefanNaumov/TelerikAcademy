@@ -1,0 +1,8 @@
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\bin\Debug\11.SocialGroups.exe.config
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\bin\Debug\11.SocialGroups.exe
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\bin\Debug\11.SocialGroups.pdb
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\bin\Debug\EntityFramework.dll
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\bin\Debug\EntityFramework.xml
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\obj\Debug\11.SocialGroups.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\obj\Debug\11.SocialGroups.exe
+D:\telerik\Projects\DB\EntityFramework\11.SocialGroups\obj\Debug\11.SocialGroups.pdb
