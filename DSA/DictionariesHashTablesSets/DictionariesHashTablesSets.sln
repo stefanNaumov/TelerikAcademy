@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CountWordsInFile", "03.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HashTable", "04.HashTable\04.HashTable.csproj", "{B1A04893-5EDD-40FD-96FA-F91D7AFB5A3C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.HashSet", "05.HashSet\05.HashSet.csproj", "{149E523D-97AF-4F25-91E8-79C09872A406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{B1A04893-5EDD-40FD-96FA-F91D7AFB5A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1A04893-5EDD-40FD-96FA-F91D7AFB5A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1A04893-5EDD-40FD-96FA-F91D7AFB5A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149E523D-97AF-4F25-91E8-79C09872A406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149E523D-97AF-4F25-91E8-79C09872A406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149E523D-97AF-4F25-91E8-79C09872A406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149E523D-97AF-4F25-91E8-79C09872A406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,1 @@
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\bin\Debug\05.HashSet.exe.config
