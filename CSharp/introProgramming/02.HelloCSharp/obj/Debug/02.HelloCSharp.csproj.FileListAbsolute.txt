@@ -3,3 +3,5 @@ c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\02.HelloC
 c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.csprojResolveAssemblyReference.cache
 c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.exe
 c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.pdb
+D:\telerik\Projects\CSharp\introProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.exe
+D:\telerik\Projects\CSharp\introProgramming\02.HelloCSharp\obj\Debug\02.HelloCSharp.pdb
