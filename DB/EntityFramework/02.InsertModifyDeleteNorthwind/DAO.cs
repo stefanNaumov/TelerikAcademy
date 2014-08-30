@@ -1,8 +1,8 @@
-﻿using System;
+﻿using _01.DbContext;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace _02.InsertModifyDeleteNorthwind
 {

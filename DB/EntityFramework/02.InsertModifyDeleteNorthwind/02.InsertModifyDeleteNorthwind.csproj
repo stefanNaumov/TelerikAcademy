@@ -50,81 +50,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Category.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Customer.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="CustomerDemographic.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
     <Compile Include="DAO.cs" />
-    <Compile Include="Employee.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="InsertModDelCustomers.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>InsertModDelCustomers.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="InsertModDelCustomers.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="InsertModDelCustomers.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>InsertModDelCustomers.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="Order.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Order_Detail.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Product.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Region.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Shipper.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Supplier.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Territory.cs">
-      <DependentUpon>InsertModDelCustomers.tt</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <EntityDeploy Include="InsertModDelCustomers.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>InsertModDelCustomers.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <None Include="InsertModDelCustomers.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>InsertModDelCustomers.edmx</DependentUpon>
-      <LastGenOutput>InsertModDelCustomers.Context.cs</LastGenOutput>
-    </None>
-    <None Include="InsertModDelCustomers.edmx.diagram">
-      <DependentUpon>InsertModDelCustomers.edmx</DependentUpon>
-    </None>
-    <None Include="InsertModDelCustomers.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>InsertModDelCustomers.edmx</DependentUpon>
-      <LastGenOutput>InsertModDelCustomers.cs</LastGenOutput>
-    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\01.DbContext\01.DbContext.csproj">
+      <Project>{b0ede987-8a34-4996-bd64-fce1e4d5da96}</Project>
+      <Name>01.DbContext</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(SolutionDir)\.nuget\nuget.targets" />

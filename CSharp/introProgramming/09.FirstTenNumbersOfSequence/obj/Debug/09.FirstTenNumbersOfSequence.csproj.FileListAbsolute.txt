@@ -3,3 +3,8 @@ c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\09.FirstT
 c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\09.FirstTenNumbersOfSequence\obj\Debug\09.FirstTenNumbersOfSequence.exe
 c:\users\stefan\documents\visual studio 2012\Projects\introProgramming\09.FirstTenNumbersOfSequence\obj\Debug\09.FirstTenNumbersOfSequence.pdb
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\introProgramming\09.FirstTenNumbersOfSequence\obj\Debug\09.FirstTenNumbersOfSequence.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\CSharp\introProgramming\09.FirstTenNumbersOfSequence\obj\Debug\09.FirstTenNumbersOfSequence.exe
+D:\telerik\Projects\CSharp\introProgramming\09.FirstTenNumbersOfSequence\obj\Debug\09.FirstTenNumbersOfSequence.pdb
+D:\telerik\Projects\CSharp\introProgramming\09.FirstTenNumbersOfSequence\bin\Debug\09.FirstTenNumbersOfSequence.exe
+D:\telerik\Projects\CSharp\introProgramming\09.FirstTenNumbersOfSequence\bin\Debug\09.FirstTenNumbersOfSequence.pdb
+D:\telerik\Projects\CSharp\introProgramming\09.FirstTenNumbersOfSequence\obj\Debug\09.FirstTenNumbersOfSequence.csprojResolveAssemblyReference.cache

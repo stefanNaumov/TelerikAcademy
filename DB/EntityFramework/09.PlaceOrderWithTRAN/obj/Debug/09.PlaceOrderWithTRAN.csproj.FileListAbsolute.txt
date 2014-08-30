@@ -1,8 +1,0 @@
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\bin\Debug\09.PlaceOrderWithTRAN.exe.config
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\bin\Debug\09.PlaceOrderWithTRAN.exe
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\bin\Debug\09.PlaceOrderWithTRAN.pdb
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\bin\Debug\EntityFramework.dll
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\bin\Debug\EntityFramework.xml
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\obj\Debug\09.PlaceOrderWithTRAN.csprojResolveAssemblyReference.cache
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\obj\Debug\09.PlaceOrderWithTRAN.exe
-D:\telerik\Projects\DB\EntityFramework\09.PlaceOrderWithTRAN\obj\Debug\09.PlaceOrderWithTRAN.pdb

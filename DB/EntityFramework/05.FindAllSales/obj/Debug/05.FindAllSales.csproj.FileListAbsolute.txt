@@ -8,13 +8,3 @@ D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\bin\Debug\E
 D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.csprojResolveAssemblyReference.cache
 D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.exe
 D:\Telerik\telerik\TelerikAcademy\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.pdb
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.exe.config
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.exe
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.pdb
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.exe
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\bin\Debug\05.FindAllSales.pdb
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.dll
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.SqlServer.dll
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.xml
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\bin\Debug\EntityFramework.SqlServer.xml
-D:\telerik\Projects\DB\EntityFramework\05.FindAllSales\obj\Debug\05.FindAllSales.csprojResolveAssemblyReference.cache
