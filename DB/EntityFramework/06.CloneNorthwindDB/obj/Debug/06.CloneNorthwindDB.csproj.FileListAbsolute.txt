@@ -1,8 +1,0 @@
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\bin\Debug\06.CloneNorthwindDB.exe.config
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\bin\Debug\06.CloneNorthwindDB.exe
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\bin\Debug\06.CloneNorthwindDB.pdb
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\bin\Debug\EntityFramework.dll
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\bin\Debug\EntityFramework.xml
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\obj\Debug\06.CloneNorthwindDB.csprojResolveAssemblyReference.cache
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\obj\Debug\06.CloneNorthwindDB.exe
-D:\telerik\Projects\DB\EntityFramework\06.CloneNorthwindDB\obj\Debug\06.CloneNorthwindDB.pdb
