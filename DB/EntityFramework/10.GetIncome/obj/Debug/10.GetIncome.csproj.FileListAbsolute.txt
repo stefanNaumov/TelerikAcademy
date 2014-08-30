@@ -1,0 +1,8 @@
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\bin\Debug\10.GetIncome.exe.config
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\bin\Debug\10.GetIncome.exe
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\bin\Debug\10.GetIncome.pdb
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\bin\Debug\EntityFramework.dll
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\bin\Debug\EntityFramework.xml
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\obj\Debug\10.GetIncome.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\obj\Debug\10.GetIncome.exe
+D:\telerik\Projects\DB\EntityFramework\10.GetIncome\obj\Debug\10.GetIncome.pdb
