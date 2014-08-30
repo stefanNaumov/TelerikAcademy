@@ -1,0 +1,5 @@
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySytem.Models\bin\Debug\UniversitySytem.Models.dll
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySytem.Models\bin\Debug\UniversitySytem.Models.pdb
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySytem.Models\obj\Debug\UniversitySytem.Models.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySytem.Models\obj\Debug\UniversitySytem.Models.dll
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySytem.Models\obj\Debug\UniversitySytem.Models.pdb

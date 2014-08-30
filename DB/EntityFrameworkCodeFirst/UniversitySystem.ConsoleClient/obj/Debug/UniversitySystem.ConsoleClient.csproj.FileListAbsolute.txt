@@ -1,0 +1,14 @@
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe.config
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.pdb
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Data.dll
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\UniversitySytem.Models.dll
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Data.pdb
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\UniversitySytem.Models.pdb
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.exe
+D:\telerik\Projects\DB\EntityFrameworkCodeFirst\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.pdb
