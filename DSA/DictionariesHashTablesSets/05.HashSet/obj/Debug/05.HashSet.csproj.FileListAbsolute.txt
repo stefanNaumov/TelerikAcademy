@@ -1,1 +1,8 @@
 D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\bin\Debug\05.HashSet.exe.config
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\obj\Debug\05.HashSet.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\bin\Debug\05.HashSet.exe
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\bin\Debug\05.HashSet.pdb
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\bin\Debug\04.HashTable.exe
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\bin\Debug\04.HashTable.pdb
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\obj\Debug\05.HashSet.exe
+D:\telerik\Projects\DSA\DictionariesHashTablesSets\05.HashSet\obj\Debug\05.HashSet.pdb

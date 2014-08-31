@@ -67,26 +67,50 @@ namespace HashTable
             }
         }
 
-        public List<K> GetKeys()
+        public List<K> Keys
         {
-            if (this.list.Length < 1)
+            get
             {
-                throw new ArgumentException("Cannot get keys from an empty HashTable<K,T>!");
+                if (this.list.Length < 1)
+                {
+                    throw new ArgumentException("Cannot get keys from an empty HashTable<K,T>!");
+                }
+
+                List<K> keysList = new List<K>();
+                for (int i = 0; i < this.list.Length; i++)
+                {
+                    if (this.list[i] != null)
+                    {
+                        var next = this.list[i].First;
+                        while (next != null)
+                        {
+                            keysList.Add(next.Value.Key);
+                            next = next.Next;
+                        }
+                    }
+                }
+
+                return keysList;
             }
-
-            List<K> keysList = new List<K>();
-
-            foreach (var pair in this.GetLinkedList(0))
-            {
-                keysList.Add(pair.Key);
-            }
-
-            return keysList;
         }
+        
         //TODO:Implement
-        public void Remove(T key)
+        public void Remove(K key)
         {
+            int index = this.GetIndex(key);
+            LinkedList<KeyValuePair<K, T>> linkedList = this.GetLinkedList(index);
+            KeyValuePair<K, T> pair = default(KeyValuePair<K, T>);
 
+            foreach (var item in linkedList)
+            {
+                if (item.Key.Equals(key))
+                {
+                    pair = item;
+                    break;
+                }
+            }
+
+            linkedList.Remove(pair);
         }
 
         public void Clear()
@@ -155,15 +179,28 @@ namespace HashTable
 
         private int GetIndex(K key)
         {
-            int index = key.GetHashCode() % this.list.Length;
+            int index = Math.Abs(key.GetHashCode() % this.list.Length);
             return index;
         }
 
-        public IEnumerator GetEnumerator()
+        IEnumerator IEnumerable.GetEnumerator()
         {
-            foreach (var item in this.list)
+            return this.GetEnumerator();
+        }
+
+        public IEnumerator<KeyValuePair<K, T>> GetEnumerator()
+        {
+            for (int i = 0; i < this.list.Length; i++)
             {
-                yield return item;
+                if (this.list[i] != null)
+                {
+                    var next = this.list[i].First;
+                    while (next != null)
+                    {
+                        yield return next.Value;
+                        next = next.Next;
+                    }
+                }
             }
         }
     }
