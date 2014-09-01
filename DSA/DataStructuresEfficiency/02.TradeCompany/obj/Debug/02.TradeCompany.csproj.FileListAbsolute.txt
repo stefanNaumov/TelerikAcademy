@@ -1,0 +1,8 @@
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\bin\Debug\02.TradeCompany.exe.config
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\bin\Debug\02.TradeCompany.exe
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\bin\Debug\02.TradeCompany.pdb
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\bin\Debug\PowerCollections.dll
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\bin\Debug\PowerCollections.xml
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\obj\Debug\02.TradeCompany.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\obj\Debug\02.TradeCompany.exe
+D:\telerik\Projects\DSA\DataStructuresEfficiency\02.TradeCompany\obj\Debug\02.TradeCompany.pdb
