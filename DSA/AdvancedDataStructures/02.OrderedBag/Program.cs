@@ -34,6 +34,7 @@ namespace _02.OrderedBag
             Console.WriteLine("Elapsed time for 10 000 price range searches: {0}",watch.Elapsed);
             
         }
+
         static void AddElements(OrderedBag<Product> bag, int numberOfElements)
         {
             Random generator = new Random();

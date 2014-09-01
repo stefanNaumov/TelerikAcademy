@@ -5,3 +5,10 @@ C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.csprojResolveAssemblyReference.cache
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.exe
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\02.OrderedBag.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\02.OrderedBag.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\PowerCollections.dll
+D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\02.OrderedBag\bin\Debug\PowerCollections.xml
+D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\02.OrderedBag\obj\Debug\02.OrderedBag.csprojResolveAssemblyReference.cache
