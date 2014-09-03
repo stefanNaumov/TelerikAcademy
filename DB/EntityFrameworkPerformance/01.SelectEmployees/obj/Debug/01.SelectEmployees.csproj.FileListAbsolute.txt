@@ -1,0 +1,10 @@
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\bin\Debug\01.SelectEmployees.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\bin\Debug\01.SelectEmployees.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\bin\Debug\01.SelectEmployees.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\bin\Debug\EntityFramework.dll
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\bin\Debug\EntityFramework.SqlServer.dll
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\bin\Debug\EntityFramework.xml
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\bin\Debug\EntityFramework.SqlServer.xml
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\obj\Debug\01.SelectEmployees.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\obj\Debug\01.SelectEmployees.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\01.SelectEmployees\obj\Debug\01.SelectEmployees.pdb

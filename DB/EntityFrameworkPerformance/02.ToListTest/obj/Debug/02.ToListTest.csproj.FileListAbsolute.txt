@@ -1,0 +1,8 @@
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\bin\Debug\02.ToListTest.exe.config
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\bin\Debug\02.ToListTest.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\bin\Debug\02.ToListTest.pdb
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\bin\Debug\EntityFramework.dll
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\bin\Debug\EntityFramework.xml
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\obj\Debug\02.ToListTest.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\obj\Debug\02.ToListTest.exe
+D:\Telerik\telerik\TelerikAcademy\DB\EntityFrameworkPerformance\02.ToListTest\obj\Debug\02.ToListTest.pdb
