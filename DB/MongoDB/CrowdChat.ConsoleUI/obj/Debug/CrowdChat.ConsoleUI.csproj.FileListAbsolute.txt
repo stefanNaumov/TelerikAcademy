@@ -1,0 +1,14 @@
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\CrowdChat.ConsoleUI.exe.config
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\CrowdChat.ConsoleUI.exe
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\CrowdChat.ConsoleUI.pdb
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\CrowdChat.Data.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\CrowdChat.Models.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\MongoDB.Driver.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\MongoDB.Bson.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\CrowdChat.Data.pdb
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\CrowdChat.Models.pdb
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\MongoDB.Driver.xml
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\bin\Debug\MongoDB.Bson.xml
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\obj\Debug\CrowdChat.ConsoleUI.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\obj\Debug\CrowdChat.ConsoleUI.exe
+D:\telerik\Projects\DB\MongoDB\CrowdChat.ConsoleUI\obj\Debug\CrowdChat.ConsoleUI.pdb

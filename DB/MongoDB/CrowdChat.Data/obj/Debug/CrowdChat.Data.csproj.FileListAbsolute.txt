@@ -1,0 +1,12 @@
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\CrowdChat.Data.dll.config
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\CrowdChat.Data.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\CrowdChat.Data.pdb
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\CrowdChat.Models.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\MongoDB.Bson.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\MongoDB.Driver.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\CrowdChat.Models.pdb
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\MongoDB.Bson.xml
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\bin\Debug\MongoDB.Driver.xml
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\obj\Debug\CrowdChat.Data.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\obj\Debug\CrowdChat.Data.dll
+D:\telerik\Projects\DB\MongoDB\CrowdChat.Data\obj\Debug\CrowdChat.Data.pdb
