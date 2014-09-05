@@ -1,0 +1,5 @@
+D:\telerik\Projects\DSA\Recursion\04.GenerateAllPermutations\bin\Debug\04.GenerateAllPermutations.exe.config
+D:\telerik\Projects\DSA\Recursion\04.GenerateAllPermutations\bin\Debug\04.GenerateAllPermutations.exe
+D:\telerik\Projects\DSA\Recursion\04.GenerateAllPermutations\bin\Debug\04.GenerateAllPermutations.pdb
+D:\telerik\Projects\DSA\Recursion\04.GenerateAllPermutations\obj\Debug\04.GenerateAllPermutations.exe
+D:\telerik\Projects\DSA\Recursion\04.GenerateAllPermutations\obj\Debug\04.GenerateAllPermutations.pdb

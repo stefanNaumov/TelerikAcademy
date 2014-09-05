@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.NestedLoops", "01.NestedLoops\01.NestedLoops.csproj", "{23504846-D043-47C1-A2BD-DE27C11C3F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.CombinationsWithDuplicates", "02.CombinationsWithDuplicates\02.CombinationsWithDuplicates.csproj", "{5E90F919-2349-4C1A-8648-5C708A75BC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CombsWithoutDuplicates", "03.CombsWithoutDuplicates\03.CombsWithoutDuplicates.csproj", "{110267B7-709D-46EF-B915-9FD6A05B5E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GenerateAllPermutations", "04.GenerateAllPermutations\04.GenerateAllPermutations.csproj", "{3C6FD618-31FB-4E38-9F20-5B596DEE34E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23504846-D043-47C1-A2BD-DE27C11C3F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23504846-D043-47C1-A2BD-DE27C11C3F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23504846-D043-47C1-A2BD-DE27C11C3F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23504846-D043-47C1-A2BD-DE27C11C3F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E90F919-2349-4C1A-8648-5C708A75BC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E90F919-2349-4C1A-8648-5C708A75BC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E90F919-2349-4C1A-8648-5C708A75BC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E90F919-2349-4C1A-8648-5C708A75BC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110267B7-709D-46EF-B915-9FD6A05B5E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110267B7-709D-46EF-B915-9FD6A05B5E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110267B7-709D-46EF-B915-9FD6A05B5E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110267B7-709D-46EF-B915-9FD6A05B5E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6FD618-31FB-4E38-9F20-5B596DEE34E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6FD618-31FB-4E38-9F20-5B596DEE34E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6FD618-31FB-4E38-9F20-5B596DEE34E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6FD618-31FB-4E38-9F20-5B596DEE34E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
