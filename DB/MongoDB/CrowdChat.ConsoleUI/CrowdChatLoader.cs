@@ -19,8 +19,6 @@ namespace CrowdChat.ConsoleUI
             CrowdChatDbContext dbContext = new CrowdChatDbContext(connectionString, databaseName);
             CrowdChatController chatController = new CrowdChatController(dbContext);
 
-            AddMessage();
-            AddMessage();
             GetAllMessages();
         }
 
