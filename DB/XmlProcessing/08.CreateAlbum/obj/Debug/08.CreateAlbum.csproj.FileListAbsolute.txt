@@ -1,0 +1,5 @@
+D:\telerik\Projects\DB\XmlProcessing\08.CreateAlbum\bin\Debug\08.CreateAlbum.exe.config
+D:\telerik\Projects\DB\XmlProcessing\08.CreateAlbum\bin\Debug\08.CreateAlbum.exe
+D:\telerik\Projects\DB\XmlProcessing\08.CreateAlbum\bin\Debug\08.CreateAlbum.pdb
+D:\telerik\Projects\DB\XmlProcessing\08.CreateAlbum\obj\Debug\08.CreateAlbum.exe
+D:\telerik\Projects\DB\XmlProcessing\08.CreateAlbum\obj\Debug\08.CreateAlbum.pdb

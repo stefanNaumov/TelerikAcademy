@@ -1,0 +1,6 @@
+D:\telerik\Projects\DB\XmlProcessing\04.DeleteAlbums\bin\Debug\04.DeleteAlbums.exe.config
+D:\telerik\Projects\DB\XmlProcessing\04.DeleteAlbums\bin\Debug\04.DeleteAlbums.exe
+D:\telerik\Projects\DB\XmlProcessing\04.DeleteAlbums\bin\Debug\04.DeleteAlbums.pdb
+D:\telerik\Projects\DB\XmlProcessing\04.DeleteAlbums\obj\Debug\04.DeleteAlbums.exe
+D:\telerik\Projects\DB\XmlProcessing\04.DeleteAlbums\obj\Debug\04.DeleteAlbums.pdb
+D:\telerik\Projects\DB\XmlProcessing\04.DeleteAlbums\obj\Debug\04.DeleteAlbums.csprojResolveAssemblyReference.cache

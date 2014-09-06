@@ -1,0 +1,6 @@
+D:\telerik\Projects\DB\XmlProcessing\06.ExtractWithLinqQuery\bin\Debug\06.ExtractWithLinqQuery.exe.config
+D:\telerik\Projects\DB\XmlProcessing\06.ExtractWithLinqQuery\bin\Debug\06.ExtractWithLinqQuery.exe
+D:\telerik\Projects\DB\XmlProcessing\06.ExtractWithLinqQuery\bin\Debug\06.ExtractWithLinqQuery.pdb
+D:\telerik\Projects\DB\XmlProcessing\06.ExtractWithLinqQuery\obj\Debug\06.ExtractWithLinqQuery.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\XmlProcessing\06.ExtractWithLinqQuery\obj\Debug\06.ExtractWithLinqQuery.exe
+D:\telerik\Projects\DB\XmlProcessing\06.ExtractWithLinqQuery\obj\Debug\06.ExtractWithLinqQuery.pdb

@@ -1,0 +1,5 @@
+D:\telerik\Projects\DB\XmlProcessing\09.TraverseDirectory\bin\Debug\09.TraverseDirectory.exe.config
+D:\telerik\Projects\DB\XmlProcessing\09.TraverseDirectory\bin\Debug\09.TraverseDirectory.exe
+D:\telerik\Projects\DB\XmlProcessing\09.TraverseDirectory\bin\Debug\09.TraverseDirectory.pdb
+D:\telerik\Projects\DB\XmlProcessing\09.TraverseDirectory\obj\Debug\09.TraverseDirectory.exe
+D:\telerik\Projects\DB\XmlProcessing\09.TraverseDirectory\obj\Debug\09.TraverseDirectory.pdb

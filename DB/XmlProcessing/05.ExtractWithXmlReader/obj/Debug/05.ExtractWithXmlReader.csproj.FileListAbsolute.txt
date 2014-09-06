@@ -1,0 +1,5 @@
+D:\telerik\Projects\DB\XmlProcessing\05.ExtractWithXmlReader\bin\Debug\05.ExtractWithXmlReader.exe.config
+D:\telerik\Projects\DB\XmlProcessing\05.ExtractWithXmlReader\bin\Debug\05.ExtractWithXmlReader.exe
+D:\telerik\Projects\DB\XmlProcessing\05.ExtractWithXmlReader\bin\Debug\05.ExtractWithXmlReader.pdb
+D:\telerik\Projects\DB\XmlProcessing\05.ExtractWithXmlReader\obj\Debug\05.ExtractWithXmlReader.exe
+D:\telerik\Projects\DB\XmlProcessing\05.ExtractWithXmlReader\obj\Debug\05.ExtractWithXmlReader.pdb

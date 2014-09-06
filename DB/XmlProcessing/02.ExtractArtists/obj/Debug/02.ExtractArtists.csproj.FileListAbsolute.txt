@@ -1,0 +1,6 @@
+D:\telerik\Projects\DB\XmlProcessing\02.ExtractArtists\bin\Debug\02.ExtractArtists.exe.config
+D:\telerik\Projects\DB\XmlProcessing\02.ExtractArtists\bin\Debug\02.ExtractArtists.exe
+D:\telerik\Projects\DB\XmlProcessing\02.ExtractArtists\bin\Debug\02.ExtractArtists.pdb
+D:\telerik\Projects\DB\XmlProcessing\02.ExtractArtists\obj\Debug\02.ExtractArtists.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\XmlProcessing\02.ExtractArtists\obj\Debug\02.ExtractArtists.exe
+D:\telerik\Projects\DB\XmlProcessing\02.ExtractArtists\obj\Debug\02.ExtractArtists.pdb

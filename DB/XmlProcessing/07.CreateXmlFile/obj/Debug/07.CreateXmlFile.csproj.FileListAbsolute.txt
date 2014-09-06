@@ -1,0 +1,6 @@
+D:\telerik\Projects\DB\XmlProcessing\07.CreateXmlFile\bin\Debug\07.CreateXmlFile.exe.config
+D:\telerik\Projects\DB\XmlProcessing\07.CreateXmlFile\bin\Debug\07.CreateXmlFile.exe
+D:\telerik\Projects\DB\XmlProcessing\07.CreateXmlFile\bin\Debug\07.CreateXmlFile.pdb
+D:\telerik\Projects\DB\XmlProcessing\07.CreateXmlFile\obj\Debug\07.CreateXmlFile.exe
+D:\telerik\Projects\DB\XmlProcessing\07.CreateXmlFile\obj\Debug\07.CreateXmlFile.pdb
+D:\telerik\Projects\DB\XmlProcessing\07.CreateXmlFile\obj\Debug\07.CreateXmlFile.csprojResolveAssemblyReference.cache

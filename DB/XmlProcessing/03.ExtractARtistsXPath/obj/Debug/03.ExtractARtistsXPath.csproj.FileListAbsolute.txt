@@ -1,0 +1,6 @@
+D:\telerik\Projects\DB\XmlProcessing\03.ExtractARtistsXPath\bin\Debug\03.ExtractARtistsXPath.exe.config
+D:\telerik\Projects\DB\XmlProcessing\03.ExtractARtistsXPath\bin\Debug\03.ExtractARtistsXPath.exe
+D:\telerik\Projects\DB\XmlProcessing\03.ExtractARtistsXPath\bin\Debug\03.ExtractARtistsXPath.pdb
+D:\telerik\Projects\DB\XmlProcessing\03.ExtractARtistsXPath\obj\Debug\03.ExtractARtistsXPath.exe
+D:\telerik\Projects\DB\XmlProcessing\03.ExtractARtistsXPath\obj\Debug\03.ExtractARtistsXPath.pdb
+D:\telerik\Projects\DB\XmlProcessing\03.ExtractARtistsXPath\obj\Debug\03.ExtractARtistsXPath.csprojResolveAssemblyReference.cache
