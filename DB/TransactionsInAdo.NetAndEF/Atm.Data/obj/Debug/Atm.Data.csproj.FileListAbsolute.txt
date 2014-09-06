@@ -1,0 +1,14 @@
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\Atm.Data.dll.config
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\Atm.Data.dll
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\Atm.Data.pdb
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\Atm.Models.dll
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\EntityFramework.dll
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\Atm.Models.pdb
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\EntityFramework.xml
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\obj\Debug\Atm.Data.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\obj\Debug\Atm.Data.dll
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\obj\Debug\Atm.Data.pdb
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\obj\Debug\Atm.Data.Migrations.InitialCreate.resources
+D:\telerik\Projects\DB\TransactionsInAdo.NetAndEF\Atm.Data\obj\Debug\Atm.Data.csproj.GenerateResource.Cache
