@@ -1,0 +1,4 @@
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Models\bin\Debug\BookStore.Models.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Models\bin\Debug\BookStore.Models.pdb
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Models\obj\Debug\BookStore.Models.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Models\obj\Debug\BookStore.Models.pdb

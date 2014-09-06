@@ -1,0 +1,12 @@
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\BookStore.Data.dll.config
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\BookStore.Data.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\BookStore.Data.pdb
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\EntityFramework.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\EntityFramework.xml
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\obj\Debug\BookStore.Data.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\obj\Debug\BookStore.Data.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\obj\Debug\BookStore.Data.pdb
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\BookStore.Models.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.Data\bin\Debug\BookStore.Models.pdb
