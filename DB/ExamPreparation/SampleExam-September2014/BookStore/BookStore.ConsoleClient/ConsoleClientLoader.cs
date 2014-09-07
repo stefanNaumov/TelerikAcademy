@@ -12,9 +12,13 @@ namespace BookStore.ConsoleClient
         static void Main()
         {
             BookStoreDbContext dbContext = new BookStoreDbContext();
+            string xmlImportFilePath = @"../../../complex-books.xml";
+            string xmlQueriesFilePath = @"../../../reviews-queries.xml";
+            XmlQueryParser queryParser = new XmlQueryParser(dbContext);
+            queryParser.Search(xmlQueriesFilePath);
             XmlImporter xmlImporter = new XmlImporter(dbContext);
-            string filePath = @"../../../complex-books.xml";
-            xmlImporter.Import(filePath);
+
+            xmlImporter.Import(xmlImportFilePath);
             Console.WriteLine("Imported complex-books.xml data into database");
             dbContext.SaveChanges();
         }
