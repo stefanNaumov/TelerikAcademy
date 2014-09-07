@@ -1,0 +1,8 @@
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\bin\Debug\01.TelerikForumRssFeed.exe.config
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\bin\Debug\01.TelerikForumRssFeed.exe
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\bin\Debug\01.TelerikForumRssFeed.pdb
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\obj\Debug\01.TelerikForumRssFeed.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\obj\Debug\01.TelerikForumRssFeed.exe
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\obj\Debug\01.TelerikForumRssFeed.pdb
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\bin\Debug\Newtonsoft.Json.dll
+D:\telerik\Projects\DB\ProcessingJSON\01.TelerikForumRssFeed\bin\Debug\Newtonsoft.Json.xml
