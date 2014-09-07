@@ -12,3 +12,5 @@ D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookSt
 D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.ConsoleClient\bin\Debug\BookStore.Models.pdb
 D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.ConsoleClient\bin\Debug\EntityFramework.xml
 D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.ConsoleClient\bin\Debug\BookStore.Xml.dll
+D:\telerik\Projects\DB\ExamPreparation\SampleExam-September2014\BookStore\BookStore.ConsoleClient\bin\Debug\BookStore.Xml.pdb

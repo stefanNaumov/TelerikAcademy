@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Xml.Linq;
 using System.Data;
-using BookStore.ConsoleClient;
 using BookStore.Models;
 using BookStore.Data;
 
@@ -24,16 +23,39 @@ namespace BookStore.Xml
             
             foreach (var xmlbook in books)
             {
-                Book book = new Book();
-
-                var bookAuthors = this.ParseAuthors(xmlbook);
-
-                foreach (var bookItem in bookAuthors)
+                if (xmlbook != null)
                 {
-                    book.Authors.Add(bookItem);
+                    Book book = new Book();
+                    book.Title = xmlbook.Element("title").Value.Trim();
+                    var bookAuthors = this.ParseAuthors(xmlbook);
+
+                    foreach (var bookAuthor in bookAuthors)
+                    {
+                        book.Authors.Add(bookAuthor);
+                    }
+
+                    var bookReviews = this.ParseReviews(xmlbook);
+
+                    foreach (var reviewItem in bookReviews)
+                    {
+                        book.Reviews.Add(reviewItem);
+                    }
+
+                    var isbn = xmlbook.Element("isbn");
+                    if (isbn != null)
+                    {
+                        book.ISBN = isbn.Value;
+                    }
+
+                    var url = xmlbook.Element("url");
+                    if (url != null)
+                    {
+                        book.WebSite = url.Value;
+                    }
+
+                    this.dbContext.Books.Add(book);
+                    this.dbContext.SaveChanges(); 
                 }
-
-
             }
         }
 
@@ -60,9 +82,12 @@ namespace BookStore.Xml
 
             var reviews = book.Element("reviews");
 
-            foreach (var review in reviews.Elements("review"))
+            if (reviews != null)
             {
-                reviewsList.Add(GetReviewObj(review));
+                foreach (var review in reviews.Elements("review"))
+                {
+                    reviewsList.Add(GetReviewObj(review));
+                } 
             }
 
             return reviewsList;
@@ -86,26 +111,31 @@ namespace BookStore.Xml
 
         private Review GetReviewObj(XElement xmlReview)
         {
-            var revAuthor = xmlReview.Attribute("author").Value;
-            var revDate = DateTime.Parse(xmlReview.Attribute("date").Value);
-            var content = xmlReview.Value;
+            Review reviewObj = new Review();
 
-            Review review = new Review()
+            var revDate = xmlReview.Attribute("date");
+            if (revDate != null)
             {
-                Date = revDate
-            };
-
-            if (revAuthor != null)
+                reviewObj.Date = DateTime.Parse(revDate.Value);
+            }
+            else
             {
-                review.Author = this.GetAuthor(revAuthor);   
+                reviewObj.Date = DateTime.Now;
             }
 
-            if (content != null)
+            var revAuthor = xmlReview.Attribute("author");
+            if (revAuthor != null)
             {
-                review.Content = content;
-            };
+                reviewObj.Author = this.GetAuthor(revAuthor.Value);
+            }
 
-            return review;
+            var revContent = xmlReview.Value;
+            if (revContent != null)
+            {
+                reviewObj.Content = revContent;
+            }
+
+            return reviewObj;
         }
 
         private Author GetAuthor(string authorName)

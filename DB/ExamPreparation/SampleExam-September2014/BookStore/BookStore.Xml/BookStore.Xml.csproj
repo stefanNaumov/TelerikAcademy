@@ -30,7 +30,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -43,10 +50,6 @@
     <Compile Include="XmlImporter.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BookStore.ConsoleClient\BookStore.ConsoleClient.csproj">
-      <Project>{1a464d33-8f47-4bd4-bad6-30dcfda7f9b3}</Project>
-      <Name>BookStore.ConsoleClient</Name>
-    </ProjectReference>
     <ProjectReference Include="..\BookStore.Data\BookStore.Data.csproj">
       <Project>{1a92a31a-bb5c-4d4a-8ab6-84a9bb9c0db9}</Project>
       <Name>BookStore.Data</Name>
@@ -58,6 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

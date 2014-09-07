@@ -64,6 +64,10 @@
       <Project>{7c0d58cd-b919-4284-b418-1edcac26585e}</Project>
       <Name>BookStore.Models</Name>
     </ProjectReference>
+    <ProjectReference Include="..\BookStore.Xml\BookStore.Xml.csproj">
+      <Project>{d801ded5-cb6f-4462-bc1b-971130195c8c}</Project>
+      <Name>BookStore.Xml</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

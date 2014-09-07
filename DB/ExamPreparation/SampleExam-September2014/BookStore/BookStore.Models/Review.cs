@@ -10,7 +10,7 @@ namespace BookStore.Models
         [Key]
         public int Id { get; set; }
 
-        [Required]
+        //[Required]
         public DateTime Date { get; set; }
 
         public int? AuthorID { get; set; }
