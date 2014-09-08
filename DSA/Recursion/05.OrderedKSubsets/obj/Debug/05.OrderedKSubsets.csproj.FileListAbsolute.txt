@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\Recursion\05.OrderedKSubsets\bin\Debug\05.OrderedKSubsets.exe.config
+D:\telerik\Projects\DSA\Recursion\05.OrderedKSubsets\bin\Debug\05.OrderedKSubsets.exe
+D:\telerik\Projects\DSA\Recursion\05.OrderedKSubsets\bin\Debug\05.OrderedKSubsets.pdb
+D:\telerik\Projects\DSA\Recursion\05.OrderedKSubsets\obj\Debug\05.OrderedKSubsets.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\Recursion\05.OrderedKSubsets\obj\Debug\05.OrderedKSubsets.exe
+D:\telerik\Projects\DSA\Recursion\05.OrderedKSubsets\obj\Debug\05.OrderedKSubsets.pdb

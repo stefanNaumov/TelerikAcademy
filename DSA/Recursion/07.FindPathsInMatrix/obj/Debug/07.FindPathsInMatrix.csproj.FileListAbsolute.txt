@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\Recursion\07.FindPathsInMatrix\bin\Debug\07.FindPathsInMatrix.exe.config
+D:\telerik\Projects\DSA\Recursion\07.FindPathsInMatrix\obj\Debug\07.FindPathsInMatrix.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\Recursion\07.FindPathsInMatrix\bin\Debug\07.FindPathsInMatrix.exe
+D:\telerik\Projects\DSA\Recursion\07.FindPathsInMatrix\bin\Debug\07.FindPathsInMatrix.pdb
+D:\telerik\Projects\DSA\Recursion\07.FindPathsInMatrix\obj\Debug\07.FindPathsInMatrix.exe
+D:\telerik\Projects\DSA\Recursion\07.FindPathsInMatrix\obj\Debug\07.FindPathsInMatrix.pdb

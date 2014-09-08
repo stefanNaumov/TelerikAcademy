@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\Recursion\06.SubsetsOfKStrings\bin\Debug\06.SubsetsOfKStrings.exe.config
+D:\telerik\Projects\DSA\Recursion\06.SubsetsOfKStrings\bin\Debug\06.SubsetsOfKStrings.exe
+D:\telerik\Projects\DSA\Recursion\06.SubsetsOfKStrings\bin\Debug\06.SubsetsOfKStrings.pdb
+D:\telerik\Projects\DSA\Recursion\06.SubsetsOfKStrings\obj\Debug\06.SubsetsOfKStrings.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\Recursion\06.SubsetsOfKStrings\obj\Debug\06.SubsetsOfKStrings.exe
+D:\telerik\Projects\DSA\Recursion\06.SubsetsOfKStrings\obj\Debug\06.SubsetsOfKStrings.pdb
