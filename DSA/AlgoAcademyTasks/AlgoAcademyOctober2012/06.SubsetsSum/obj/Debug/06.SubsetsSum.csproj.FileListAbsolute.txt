@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\06.SubsetsSum\bin\Debug\06.SubsetsSum.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\06.SubsetsSum\bin\Debug\06.SubsetsSum.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\06.SubsetsSum\obj\Debug\06.SubsetsSum.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\06.SubsetsSum\obj\Debug\06.SubsetsSum.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\06.SubsetsSum\obj\Debug\06.SubsetsSum.pdb
