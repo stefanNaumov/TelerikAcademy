@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\bin\Debug\01.SelectionSort.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\bin\Debug\01.SelectionSort.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\bin\Debug\01.SelectionSort.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\obj\Debug\01.SelectionSort.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\01.SelectionSort\obj\Debug\01.SelectionSort.pdb

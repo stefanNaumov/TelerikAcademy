@@ -4,3 +4,6 @@ C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlg
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\04.CountingSort\obj\Debug\04.CountingSort.csprojResolveAssemblyReference.cache
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\04.CountingSort\obj\Debug\04.CountingSort.exe
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\04.CountingSort\obj\Debug\04.CountingSort.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\04.CountingSort\bin\Debug\04.CountingSort.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\04.CountingSort\obj\Debug\04.CountingSort.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\04.CountingSort\obj\Debug\04.CountingSort.pdb

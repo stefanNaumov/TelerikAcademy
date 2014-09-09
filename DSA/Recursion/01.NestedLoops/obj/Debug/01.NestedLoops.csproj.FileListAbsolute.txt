@@ -4,3 +4,6 @@ D:\telerik\Projects\DSA\Recursion\01.NestedLoops\bin\Debug\NestedLoops.pdb
 D:\telerik\Projects\DSA\Recursion\01.NestedLoops\obj\Debug\01.NestedLoops.csprojResolveAssemblyReference.cache
 D:\telerik\Projects\DSA\Recursion\01.NestedLoops\obj\Debug\NestedLoops.exe
 D:\telerik\Projects\DSA\Recursion\01.NestedLoops\obj\Debug\NestedLoops.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\Recursion\01.NestedLoops\bin\Debug\NestedLoops.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\Recursion\01.NestedLoops\obj\Debug\NestedLoops.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\Recursion\01.NestedLoops\obj\Debug\NestedLoops.pdb

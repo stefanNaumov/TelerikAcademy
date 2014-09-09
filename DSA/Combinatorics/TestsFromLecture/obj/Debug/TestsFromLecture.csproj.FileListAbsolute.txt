@@ -1,6 +1,0 @@
-D:\telerik\Projects\DSA\Combinatorics\TestsFromLecture\bin\Debug\TestsFromLecture.exe.config
-D:\telerik\Projects\DSA\Combinatorics\TestsFromLecture\bin\Debug\TestsFromLecture.exe
-D:\telerik\Projects\DSA\Combinatorics\TestsFromLecture\bin\Debug\TestsFromLecture.pdb
-D:\telerik\Projects\DSA\Combinatorics\TestsFromLecture\obj\Debug\TestsFromLecture.csprojResolveAssemblyReference.cache
-D:\telerik\Projects\DSA\Combinatorics\TestsFromLecture\obj\Debug\TestsFromLecture.exe
-D:\telerik\Projects\DSA\Combinatorics\TestsFromLecture\obj\Debug\TestsFromLecture.pdb

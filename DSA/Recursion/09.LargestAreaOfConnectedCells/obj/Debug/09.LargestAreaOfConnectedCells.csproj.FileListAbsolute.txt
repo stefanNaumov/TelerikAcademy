@@ -3,3 +3,6 @@ D:\telerik\Projects\DSA\Recursion\09.LargestAreaOfConnectedCells\bin\Debug\09.La
 D:\telerik\Projects\DSA\Recursion\09.LargestAreaOfConnectedCells\bin\Debug\09.LargestAreaOfConnectedCells.pdb
 D:\telerik\Projects\DSA\Recursion\09.LargestAreaOfConnectedCells\obj\Debug\09.LargestAreaOfConnectedCells.exe
 D:\telerik\Projects\DSA\Recursion\09.LargestAreaOfConnectedCells\obj\Debug\09.LargestAreaOfConnectedCells.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\Recursion\09.LargestAreaOfConnectedCells\bin\Debug\09.LargestAreaOfConnectedCells.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\Recursion\09.LargestAreaOfConnectedCells\obj\Debug\09.LargestAreaOfConnectedCells.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\Recursion\09.LargestAreaOfConnectedCells\obj\Debug\09.LargestAreaOfConnectedCells.pdb

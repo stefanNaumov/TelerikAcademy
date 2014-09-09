@@ -20,7 +20,7 @@ namespace TestsFromLecture
             //nonRepCombinations.GenerateComb(1, 0);
 
             CombinationsWithRep combWithRep = new CombinationsWithRep(3, 3);
-            //combWithRep.GenerateComb(0);
+            combWithRep.GenerateComb(0);
         }
 
         static void Print(List<int[]> collection)
