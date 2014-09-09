@@ -5,3 +5,5 @@ C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlg
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\obj\Debug\02.QuickSort.pdb
 D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\obj\Debug\02.QuickSort.exe
 D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\obj\Debug\02.QuickSort.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\bin\Debug\02.QuickSort.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\02.QuickSort\bin\Debug\02.QuickSort.pdb

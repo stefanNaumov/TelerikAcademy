@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 namespace _04.CountingSort
 {
-    class CountingSort
+    public class CountingSorter
     {
         static void Main()
         {

@@ -13,11 +13,13 @@ namespace SortableCollection
     {
         static void Main()
         {
-            List<int> list = new List<int>();
-            InsertSortedNumbers(list, 100000000);
+            IList<int> list = new List<int>();
+            InsertSortedNumbers(list, 10000000);
 
-            SortableCollection<int> sortableCollection = new SortableCollection<int>(list);
-            int target = sortableCollection.BinarySearch(50000000);
+            SearchShuffleCollection<int> sortableCollection = new SearchShuffleCollection<int>(list);
+            int target = sortableCollection.BinarySearch(5000000);
+            list = sortableCollection.Shuffle();
+
             Console.WriteLine(target);
 
         }

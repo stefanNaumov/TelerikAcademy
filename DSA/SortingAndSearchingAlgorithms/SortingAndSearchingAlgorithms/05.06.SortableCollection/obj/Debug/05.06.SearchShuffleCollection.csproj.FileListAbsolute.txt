@@ -1,0 +1,4 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\05.06.SortableCollection\bin\Debug\05.06.SortableCollection.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\05.06.SortableCollection\bin\Debug\05.06.SortableCollection.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\05.06.SortableCollection\obj\Debug\05.06.SortableCollection.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\05.06.SortableCollection\obj\Debug\05.06.SortableCollection.pdb

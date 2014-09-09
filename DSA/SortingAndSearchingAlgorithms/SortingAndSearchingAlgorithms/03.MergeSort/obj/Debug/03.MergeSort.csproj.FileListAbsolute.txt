@@ -5,3 +5,5 @@ C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlg
 C:\Users\stefan\Documents\Visual Studio 2012\Projects\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\03.MergeSort\obj\Debug\03.MergeSort.pdb
 D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\03.MergeSort\obj\Debug\03.MergeSort.exe
 D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\03.MergeSort\obj\Debug\03.MergeSort.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\03.MergeSort\bin\Debug\03.MergeSort.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\SortingAndSearchingAlgorithms\SortingAndSearchingAlgorithms\03.MergeSort\bin\Debug\03.MergeSort.pdb

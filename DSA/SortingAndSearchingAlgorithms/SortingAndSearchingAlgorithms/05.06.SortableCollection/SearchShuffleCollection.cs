@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace SortableCollection
 {
-    public class SortableCollection<T> where T: IComparable<T>
+    public class SearchShuffleCollection<T> where T: IComparable<T>
     {
         private IList<T> collection;
 
-        public SortableCollection(IList<T> collection)
+        public SearchShuffleCollection(IList<T> collection)
         {
             this.collection = collection;
         }
@@ -39,6 +39,26 @@ namespace SortableCollection
             }
 
             return default(T);
+        }
+
+        //shuffle using Fisher Yates algorithm
+        public IList<T> Shuffle()
+        {
+            int index = this.collection.Count - 1;
+            Random generator = new Random();
+
+            while (index > 1)
+            {
+                int rand = generator.Next(1, index);
+
+                T tmp = this.collection[rand];
+                this.collection[rand] = this.collection[index];
+                this.collection[index] = tmp;
+
+                index--;
+            }
+
+            return this.collection;
         }
     }
 }

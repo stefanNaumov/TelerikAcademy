@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-namespace _01.SortableCollection
+namespace SortableCollection
 {
     class MainLoader
     {
@@ -13,39 +13,39 @@ namespace _01.SortableCollection
         {
             Random generator = new Random();
             Stopwatch watch = new Stopwatch();
-            int count = 5000;
-            List<int> testList = GenerateRandomNumbers(count);
+            List<int> testList = GenerateRandomNumbers();
+            testList = GenerateRandomNumbers();
             SortableCollection sortableCollection = new SortableCollection(testList);
 
             watch.Start();
             sortableCollection.BubbleSort();
             watch.Stop();
-            Console.WriteLine("Bubble sort time for {0} elements: {1}",count, watch.Elapsed);
+            Console.WriteLine("Bubble sort time: {0}",watch.Elapsed);
             watch.Reset();
 
-            testList = GenerateRandomNumbers(count);
+            testList = GenerateRandomNumbers();
             watch.Start();
             sortableCollection.SelectionSort();
             watch.Stop();
-            Console.WriteLine("Selection sort time for {0} elements: {1}",count, watch.Elapsed);
+            Console.WriteLine("Selection sort time: {0}",watch.Elapsed);
             watch.Reset();
 
-            testList = GenerateRandomNumbers(count);
+            testList = GenerateRandomNumbers();
             watch.Start();
             sortableCollection.InsertionSort();
             watch.Stop();
-            Console.WriteLine("Insertion sort time for {0} elements: {1}",count, watch.Elapsed);
+            Console.WriteLine("Insertion sort time: {0}",watch.Elapsed);
             watch.Reset();
 
         }
         
-        static List<int> GenerateRandomNumbers(int count)
+        static List<int> GenerateRandomNumbers()
         {
             List<int> testList = new List<int>();
             Random generator = new Random();
-            for (int i = 0; i < count; i++)
+            for (int i = 0; i < 10000; i++)
             {
-                testList.Add(generator.Next(1, 10000));
+                testList.Add(generator.Next(1, 1000));
             }
 
             return testList;

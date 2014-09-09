@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MergeSort", "03.MergeSor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CountingSort", "04.CountingSort\04.CountingSort.csproj", "{FA3DD536-1BAE-417D-9ECC-2E272CCB2E2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.06.SortableCollection", "05.06.SortableCollection\05.06.SortableCollection.csproj", "{CA357031-A7FA-4314-A9E1-936F57EAE792}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.06.SearchShuffleCollection", "05.06.SortableCollection\05.06.SearchShuffleCollection.csproj", "{CA357031-A7FA-4314-A9E1-936F57EAE792}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

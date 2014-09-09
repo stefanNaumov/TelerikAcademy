@@ -7,8 +7,8 @@
     <ProjectGuid>{C25277B1-CED3-41DF-A654-0E5C9424B614}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01.SortableCollection</RootNamespace>
-    <AssemblyName>01.SelectionSort</AssemblyName>
+    <RootNamespace>SortableCollection</RootNamespace>
+    <AssemblyName>SelectionSort</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
