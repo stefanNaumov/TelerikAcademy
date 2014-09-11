@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\bin\Debug\02.InaBoyfriend.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\bin\Debug\02.InaBoyfriend.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.pdb

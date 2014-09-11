@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.CountSalaries\bin\Debug\04.CountSalaries.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.CountSalaries\bin\Debug\04.CountSalaries.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.CountSalaries\obj\Debug\04.CountSalaries.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.CountSalaries\obj\Debug\04.CountSalaries.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\04.CountSalaries\obj\Debug\04.CountSalaries.pdb

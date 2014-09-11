@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\07.Circles\obj\Debug\07.Circles.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\07.Circles\bin\Debug\07.Circles.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\07.Circles\bin\Debug\07.Circles.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\07.Circles\obj\Debug\07.Circles.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\07.Circles\obj\Debug\07.Circles.pdb
