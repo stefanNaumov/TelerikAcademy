@@ -4,3 +4,6 @@ D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-Ris
 D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\bin\Debug\05.RiskWins-RiskLoses.pdb
 D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\obj\Debug\05.RiskWins-RiskLoses.exe
 D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\obj\Debug\05.RiskWins-RiskLoses.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\bin\Debug\05.RiskWins-RiskLoses.exe.config
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\obj\Debug\05.RiskWins-RiskLoses.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\05.RiskWins-RiskLoses\obj\Debug\05.RiskWins-RiskLoses.pdb
