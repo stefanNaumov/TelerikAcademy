@@ -8,8 +8,8 @@ namespace SubsetsSum
     class Program
     {
         static bool[] usedNumbers;
-        static List<int> sums = new List<int>();
-        static List<int> allSums = new List<int>();
+        static List<long> sums = new List<long>();
+
         static void Main()
         {
             int T = int.Parse(Console.ReadLine());
@@ -25,43 +25,47 @@ namespace SubsetsSum
                 string numbersStr = Console.ReadLine();
                 int[] numbers = ParseStringInput(numbersStr);
                 
-                GetSubsetSum(numbers, 0, k);
-                for (int j = 0; j < sums.Count; j++)
-                {
-                    Console.Write(sums[j] + ' ');
-                }
-                allSums.Add(sums.Sum());
-                sums.Clear();
+                long sum = GetSubsetSum(numbers, n - 1, k);
+
+                sums.Add(sum);
             }
 
             Print();
-           
         }
 
-        static void GetSubsetSum(int[] numbers, int index, int k)
+        static long GetSubsetSum(int[] numbers, int n, int k)
         {
-            if (index >= k)
+            long binomCoeff = CalcBinom(k, n);
+            long sum = CalcSum(numbers);
+
+            return binomCoeff * sum;
+        }
+        static long CalcBinom(int k, int n)
+        {
+            long nominator = 1;
+            long denominator = 1;
+            for (int i = n; i >= (n - k + 1); i--)
             {
-                int sum = 0;
-                for (int i = 0; i < numbers.Length; i++)
-                {
-                    if (!usedNumbers[i])
-                    {
-                        sum += numbers[i];
-                        
-                    }
-                }
-                sums.Add(sum);
-                sum = 0;
-                return;
+                nominator *= i;
             }
 
-            for (int i = index; i < numbers.Length; i++)
+            for (int i = k; i > 0; i--)
             {
-                usedNumbers[i] = true;
-                GetSubsetSum(numbers, index + 1, k);
-                usedNumbers[i] = false;
+                denominator *= i;
             }
+
+            return (nominator / denominator);
+        }
+
+        static long CalcSum(int[] numbers)
+        {
+            long sum = 0;
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                sum += numbers[i];
+            }
+
+            return sum;
         }
 
         static int[] ParseStringInput(string numsAsString)
@@ -79,9 +83,9 @@ namespace SubsetsSum
 
         static void Print()
         {
-            for (int i = 0; i < allSums.Count; i++)
+            for (int i = 0; i < sums.Count; i++)
             {
-                Console.WriteLine(allSums[i]);
+                Console.WriteLine(sums[i]);
             }
         }
     }

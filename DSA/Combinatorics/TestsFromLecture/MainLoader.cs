@@ -16,11 +16,11 @@ namespace TestsFromLecture
             PermWithRepRecursive permWithRep = new PermWithRepRecursive(3);
             //permWithRep.GeneratePerm(0);
 
-            CombinationsWithoutRep nonRepCombinations = new CombinationsWithoutRep(5, 3);
-            //nonRepCombinations.GenerateComb(1, 0);
-
-            CombinationsWithRep combWithRep = new CombinationsWithRep(3, 3);
-            combWithRep.GenerateComb(0);
+            CombinationsWithoutRep nonRepCombinations = new CombinationsWithoutRep(2, 4);
+            nonRepCombinations.GenerateComb(4, 2);
+            
+            //CombinationsWithRep combWithRep = new CombinationsWithRep(3, 3);
+            //combWithRep.GenerateComb(0);
         }
 
         static void Print(List<int[]> collection)

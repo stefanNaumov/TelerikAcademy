@@ -1,0 +1,1 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyOctober2012\05.Zig-ZagLines\bin\Debug\05.Zig-ZagLines.exe.config

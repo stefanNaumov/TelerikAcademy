@@ -23,6 +23,7 @@ namespace TestsFromLecture
         {
             if (startPos > this.elementsInCombination)
             {
+                this.Print();
                 return;
             }
 
