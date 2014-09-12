@@ -1,0 +1,5 @@
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\08.LinkedOut\bin\Debug\08.LinkedOut.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\08.LinkedOut\bin\Debug\08.LinkedOut.pdb
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\08.LinkedOut\obj\Debug\08.LinkedOut.csprojResolveAssemblyReference.cache
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\08.LinkedOut\obj\Debug\08.LinkedOut.exe
+D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\08.LinkedOut\obj\Debug\08.LinkedOut.pdb
