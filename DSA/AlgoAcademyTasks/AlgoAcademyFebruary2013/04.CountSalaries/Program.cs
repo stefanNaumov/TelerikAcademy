@@ -9,9 +9,9 @@ namespace _04.CountSalaries
     {
         static bool[,] adjMatrix;
         static int numberOfEmployees;
-        static bool[] usedEmployees; 
+        static bool[] usedEmployees;
         static long[] sums;
-
+            
         static void Main()
         {
             numberOfEmployees = int.Parse(Console.ReadLine());
@@ -40,25 +40,22 @@ namespace _04.CountSalaries
             Console.WriteLine(sum);
         }
 
-        
-
         static long CountSums(int employee)
         {
             if (sums[employee] > 0)
             {
                 return sums[employee];
             }
-
             long sum = 0;
 
             for (int i = 0; i < numberOfEmployees; i++)
             {
-                if (adjMatrix[employee,i])
+                if (adjMatrix[employee, i])
                 {
                     sum += CountSums(i);
-
                 }
             }
+
             if (sum == 0)
             {
                 sum = 1;
