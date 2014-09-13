@@ -3,3 +3,8 @@ D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\0
 D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.csprojResolveAssemblyReference.cache
 D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.exe
 D:\Telerik\telerik\TelerikAcademy\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\bin\Debug\02.InaBoyfriend.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\bin\Debug\02.InaBoyfriend.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\02.InaBoyfriend\obj\Debug\02.InaBoyfriend.pdb

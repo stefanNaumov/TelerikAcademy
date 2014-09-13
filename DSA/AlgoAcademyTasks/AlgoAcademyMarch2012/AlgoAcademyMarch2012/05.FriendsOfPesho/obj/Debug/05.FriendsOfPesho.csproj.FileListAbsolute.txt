@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyMarch2012\AlgoAcademyMarch2012\05.FriendsOfPesho\bin\Debug\05.FriendsOfPesho.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyMarch2012\AlgoAcademyMarch2012\05.FriendsOfPesho\bin\Debug\05.FriendsOfPesho.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyMarch2012\AlgoAcademyMarch2012\05.FriendsOfPesho\bin\Debug\05.FriendsOfPesho.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyMarch2012\AlgoAcademyMarch2012\05.FriendsOfPesho\obj\Debug\05.FriendsOfPesho.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyMarch2012\AlgoAcademyMarch2012\05.FriendsOfPesho\obj\Debug\05.FriendsOfPesho.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyMarch2012\AlgoAcademyMarch2012\05.FriendsOfPesho\obj\Debug\05.FriendsOfPesho.pdb

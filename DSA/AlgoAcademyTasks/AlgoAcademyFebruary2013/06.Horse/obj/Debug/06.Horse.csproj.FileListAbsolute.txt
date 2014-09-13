@@ -1,0 +1,6 @@
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\06.Horse\bin\Debug\06.Horse.exe.config
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\06.Horse\bin\Debug\06.Horse.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\06.Horse\bin\Debug\06.Horse.pdb
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\06.Horse\obj\Debug\06.Horse.csprojResolveAssemblyReference.cache
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\06.Horse\obj\Debug\06.Horse.exe
+D:\telerik\Projects\DSA\AlgoAcademyTasks\AlgoAcademyFebruary2013\06.Horse\obj\Debug\06.Horse.pdb
