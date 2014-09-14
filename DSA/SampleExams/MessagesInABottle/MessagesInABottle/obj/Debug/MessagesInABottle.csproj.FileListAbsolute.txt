@@ -7,3 +7,6 @@ D:\telerik\Projects\DSA\AlgoAcademyTasks\MessagesInABottle\MessagesInABottle\obj
 D:\telerik\Projects\DSA\SampleExams\MessagesInABottle\MessagesInABottle\bin\Debug\MessagesInABottle.exe.config
 D:\telerik\Projects\DSA\SampleExams\MessagesInABottle\MessagesInABottle\obj\Debug\MessagesInABottle.exe
 D:\telerik\Projects\DSA\SampleExams\MessagesInABottle\MessagesInABottle\obj\Debug\MessagesInABottle.pdb
+D:\telerik\Projects\DSA\SampleExams\MessagesInABottle\MessagesInABottle\bin\Debug\MessagesInABottle.exe
+D:\telerik\Projects\DSA\SampleExams\MessagesInABottle\MessagesInABottle\bin\Debug\MessagesInABottle.pdb
+D:\telerik\Projects\DSA\SampleExams\MessagesInABottle\MessagesInABottle\obj\Debug\MessagesInABottle.csprojResolveAssemblyReference.cache
