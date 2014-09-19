@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9823AF
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicStore.ConsoleClient", "MusicStore.ConsoleClient\MusicStore.ConsoleClient.csproj", "{6F1BC756-6486-41DA-8E5E-623A6A698CFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,10 @@ Global
 		{731571C5-8260-4D14-8EFB-BCC84124FA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731571C5-8260-4D14-8EFB-BCC84124FA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731571C5-8260-4D14-8EFB-BCC84124FA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1BC756-6486-41DA-8E5E-623A6A698CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1BC756-6486-41DA-8E5E-623A6A698CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1BC756-6486-41DA-8E5E-623A6A698CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1BC756-6486-41DA-8E5E-623A6A698CFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

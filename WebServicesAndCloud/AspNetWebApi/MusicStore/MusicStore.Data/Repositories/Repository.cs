@@ -23,7 +23,7 @@ namespace MusicStore.Data.Repositories
         }
         public IQueryable<T> All()
         {
-            throw new NotImplementedException();
+            return this.set;
         }
 
         public void Add(T entity)

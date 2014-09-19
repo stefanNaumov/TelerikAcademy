@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DateTimeGetter.DateTimeGetter" CodeBehind="DateTimeGetter.svc.cs" %>
