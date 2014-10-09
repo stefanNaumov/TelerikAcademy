@@ -39,7 +39,7 @@ public class MediaPlayerService extends Service implements OnCompletionListener{
 		if (!player.isPlaying()) {
 			player.setAudioStreamType(AudioManager.STREAM_MUSIC);  
 			try {
-				player.setDataSource("http://www.youtube.com/watch?v=ZboOGKb7vFU");
+				//player.setDataSource();
 			} catch (IllegalArgumentException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -47,9 +47,6 @@ public class MediaPlayerService extends Service implements OnCompletionListener{
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			} catch (IllegalStateException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}  
