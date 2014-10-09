@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=ActivitiesHW/src&lt;com.example.activitieshw{SecondActivity.java[SecondActivity" modifiers="1" timestamp="1412417309755"/>
+<typeInfo handle="=AsyncTests/src&lt;com.example.asynctests{SecondActivity.java[SecondActivity" modifiers="1" timestamp="1412507450358"/>
+<typeInfo handle="=ServiceTesting/src&lt;com.example.servicetesting{MyService.java[MyService" modifiers="1" timestamp="1412707184808"/>
+</typeInfoHistroy>
