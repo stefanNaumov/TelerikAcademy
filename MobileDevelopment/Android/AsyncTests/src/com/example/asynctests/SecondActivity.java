@@ -44,12 +44,12 @@ public class SecondActivity extends Activity implements OnClickListener{
 		//t.show();
 		
 		AlertDialog.Builder dialog = new AlertDialog.Builder(this);
-		dialog.setMessage("Da go preeba li?");
+		dialog.setMessage("Break it?");
 		dialog.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
 			
 			@Override
 			public void onClick(DialogInterface dialog, int which) {
-				Toast t = Toast.makeText(SecondActivity.this, "E sa si eba mamata", Toast.LENGTH_SHORT);
+				Toast t = Toast.makeText(SecondActivity.this, "You broke it", Toast.LENGTH_SHORT);
 				t.show();
 				
 			}
@@ -58,7 +58,7 @@ public class SecondActivity extends Activity implements OnClickListener{
 			
 			@Override
 			public void onClick(DialogInterface dialog, int which) {
-				Toast t = Toast.makeText(SecondActivity.this, "Nqma da si ebe mamata", Toast.LENGTH_SHORT);
+				Toast t = Toast.makeText(SecondActivity.this, "You didn't broke it", Toast.LENGTH_SHORT);
 				t.show();
 				
 			}
