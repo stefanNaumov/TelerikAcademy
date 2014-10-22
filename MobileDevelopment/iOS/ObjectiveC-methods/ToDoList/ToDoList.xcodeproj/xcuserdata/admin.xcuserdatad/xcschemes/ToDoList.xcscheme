@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8498AFC519F7C4780046934B"
-               BuildableName = "ObjectiveC-methods"
-               BlueprintName = "ObjectiveC-methods"
-               ReferencedContainer = "container:ObjectiveC-methods.xcodeproj">
+               BlueprintIdentifier = "8495DF7919F80A7B009DCB73"
+               BuildableName = "ToDoList"
+               BlueprintName = "ToDoList"
+               ReferencedContainer = "container:ToDoList.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8498AFC519F7C4780046934B"
-            BuildableName = "ObjectiveC-methods"
-            BlueprintName = "ObjectiveC-methods"
-            ReferencedContainer = "container:ObjectiveC-methods.xcodeproj">
+            BlueprintIdentifier = "8495DF7919F80A7B009DCB73"
+            BuildableName = "ToDoList"
+            BlueprintName = "ToDoList"
+            ReferencedContainer = "container:ToDoList.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8498AFC519F7C4780046934B"
-            BuildableName = "ObjectiveC-methods"
-            BlueprintName = "ObjectiveC-methods"
-            ReferencedContainer = "container:ObjectiveC-methods.xcodeproj">
+            BlueprintIdentifier = "8495DF7919F80A7B009DCB73"
+            BuildableName = "ToDoList"
+            BlueprintName = "ToDoList"
+            ReferencedContainer = "container:ToDoList.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8498AFC519F7C4780046934B"
-            BuildableName = "ObjectiveC-methods"
-            BlueprintName = "ObjectiveC-methods"
-            ReferencedContainer = "container:ObjectiveC-methods.xcodeproj">
+            BlueprintIdentifier = "8495DF7919F80A7B009DCB73"
+            BuildableName = "ToDoList"
+            BlueprintName = "ToDoList"
+            ReferencedContainer = "container:ToDoList.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ObjectiveC-methods.xcscheme</key>
+		<key>Calculator.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8498AFC519F7C4780046934B</key>
+		<key>8497E68319F8599500E2E264</key>
 		<dict>
 			<key>primary</key>
 			<true/>
