@@ -10,13 +10,20 @@
 #import "Todo.h"
 
 @interface TodoList : NSObject{
+<<<<<<< HEAD
 
     NSMutableArray *todoList;
 
+=======
+    //NSMutableArray
+>>>>>>> 6b361d6125acc00eb340ba9b9cea02bb1ece3bd8
 }
 
 -(void) addTodo:(Todo*) todo;
 
 -(NSArray*) getTodoList;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6b361d6125acc00eb340ba9b9cea02bb1ece3bd8
 @end

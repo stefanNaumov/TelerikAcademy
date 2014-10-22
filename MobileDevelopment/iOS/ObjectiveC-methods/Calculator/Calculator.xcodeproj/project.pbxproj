@@ -11,6 +11,16 @@
 		8497E69019F859CA00E2E264 /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 8497E68F19F859CA00E2E264 /* Calculator.m */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		8495DF8819F80A7D009DCB73 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 8495DF7A19F80A7B009DCB73;
+			remoteInfo = ToDoList;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		8497E68219F8599500E2E264 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,10 +34,18 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD:MobileDevelopment/iOS/ObjectiveC-methods/Calculator/Calculator.xcodeproj/project.pbxproj
 		8497E68419F8599500E2E264 /* Calculator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Calculator; sourceTree = BUILT_PRODUCTS_DIR; };
 		8497E68719F8599500E2E264 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8497E68E19F859C100E2E264 /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Calculator.h; path = ../Calculator.h; sourceTree = "<group>"; };
 		8497E68F19F859CA00E2E264 /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Calculator.m; path = ../Calculator.m; sourceTree = "<group>"; };
+=======
+		8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ToDoList.xcodeproj; path = ToDoList/ToDoList.xcodeproj; sourceTree = "<group>"; };
+		8498AFC619F7C4780046934B /* ObjectiveC-methods */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ObjectiveC-methods"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8498AFC919F7C4780046934B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8498AFD119F7F5DF0046934B /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		8498AFD219F7F5E00046934B /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
+>>>>>>> 6b361d6125acc00eb340ba9b9cea02bb1ece3bd8:MobileDevelopment/iOS/ObjectiveC-methods/ObjectiveC-methods.xcodeproj/project.pbxproj
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +59,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+<<<<<<< HEAD:MobileDevelopment/iOS/ObjectiveC-methods/Calculator/Calculator.xcodeproj/project.pbxproj
 		8497E67B19F8599500E2E264 = {
 			isa = PBXGroup;
 			children = (
@@ -48,6 +67,24 @@
 				8497E68E19F859C100E2E264 /* Calculator.h */,
 				8497E68619F8599500E2E264 /* Calculator */,
 				8497E68519F8599500E2E264 /* Products */,
+=======
+		8495DF8519F80A7B009DCB73 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8495DF8919F80A7D009DCB73 /* ToDoList */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8498AFBD19F7C4780046934B = {
+			isa = PBXGroup;
+			children = (
+				8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */,
+				8498AFD119F7F5DF0046934B /* Calculator.h */,
+				8498AFD219F7F5E00046934B /* Calculator.m */,
+				8498AFC819F7C4780046934B /* ObjectiveC-methods */,
+				8498AFC719F7C4780046934B /* Products */,
+>>>>>>> 6b361d6125acc00eb340ba9b9cea02bb1ece3bd8:MobileDevelopment/iOS/ObjectiveC-methods/ObjectiveC-methods.xcodeproj/project.pbxproj
 			);
 			sourceTree = "<group>";
 		};
@@ -111,12 +148,28 @@
 			mainGroup = 8497E67B19F8599500E2E264;
 			productRefGroup = 8497E68519F8599500E2E264 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 8495DF8519F80A7B009DCB73 /* Products */;
+					ProjectRef = 8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				8497E68319F8599500E2E264 /* Calculator */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		8495DF8919F80A7D009DCB73 /* ToDoList */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = ToDoList;
+			remoteRef = 8495DF8819F80A7D009DCB73 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXSourcesBuildPhase section */
 		8497E68019F8599500E2E264 /* Sources */ = {

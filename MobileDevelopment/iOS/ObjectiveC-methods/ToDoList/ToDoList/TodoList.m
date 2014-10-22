@@ -12,6 +12,7 @@
 
 @implementation TodoList
 
+<<<<<<< HEAD
 NSMutableArray *todoList;
 
 -(void)addTodo:(Todo *)todo{
@@ -23,4 +24,15 @@ NSMutableArray *todoList;
     return todoList;
 }
 
+=======
+NSMutableArray *arr;
+
+-(void)addTodo:(Todo *)todo{
+    
+}
+
+-(NSArray*) getTodoList{
+    
+}
+>>>>>>> 6b361d6125acc00eb340ba9b9cea02bb1ece3bd8
 @end
