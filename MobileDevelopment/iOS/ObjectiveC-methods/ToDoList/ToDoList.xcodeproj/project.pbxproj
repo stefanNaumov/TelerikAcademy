@@ -7,22 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8498AFCA19F7C4780046934B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498AFC919F7C4780046934B /* main.m */; };
-		8498AFD319F7F5E20046934B /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498AFD219F7F5E00046934B /* Calculator.m */; };
+		8495DF7E19F80A7B009DCB73 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8495DF7D19F80A7B009DCB73 /* main.m */; };
+		8495DF8C19F80AA6009DCB73 /* Todo.m in Sources */ = {isa = PBXBuildFile; fileRef = 8495DF8B19F80AA6009DCB73 /* Todo.m */; };
+		8495DF8F19F81A17009DCB73 /* TodoList.m in Sources */ = {isa = PBXBuildFile; fileRef = 8495DF8E19F81A17009DCB73 /* TodoList.m */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		8495DF8819F80A7D009DCB73 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = 8495DF7A19F80A7B009DCB73;
-			remoteInfo = ToDoList;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXCopyFilesBuildPhase section */
-		8498AFC419F7C4780046934B /* CopyFiles */ = {
+		8495DF7819F80A7B009DCB73 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -34,15 +25,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ToDoList.xcodeproj; path = ToDoList/ToDoList.xcodeproj; sourceTree = "<group>"; };
-		8498AFC619F7C4780046934B /* ObjectiveC-methods */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ObjectiveC-methods"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8498AFC919F7C4780046934B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8498AFD119F7F5DF0046934B /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
-		8498AFD219F7F5E00046934B /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
+		8495DF7A19F80A7B009DCB73 /* ToDoList */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ToDoList; sourceTree = BUILT_PRODUCTS_DIR; };
+		8495DF7D19F80A7B009DCB73 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8495DF8A19F80AA6009DCB73 /* Todo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Todo.h; sourceTree = "<group>"; };
+		8495DF8B19F80AA6009DCB73 /* Todo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Todo.m; sourceTree = "<group>"; };
+		8495DF8D19F81A17009DCB73 /* TodoList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TodoList.h; sourceTree = "<group>"; };
+		8495DF8E19F81A17009DCB73 /* TodoList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TodoList.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8498AFC319F7C4780046934B /* Frameworks */ = {
+		8495DF7719F80A7B009DCB73 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -52,122 +44,100 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8495DF8519F80A7B009DCB73 /* Products */ = {
+		8495DF7119F80A7B009DCB73 = {
 			isa = PBXGroup;
 			children = (
-				8495DF8919F80A7D009DCB73 /* ToDoList */,
+				8495DF7C19F80A7B009DCB73 /* ToDoList */,
+				8495DF7B19F80A7B009DCB73 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8495DF7B19F80A7B009DCB73 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8495DF7A19F80A7B009DCB73 /* ToDoList */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8498AFBD19F7C4780046934B = {
+		8495DF7C19F80A7B009DCB73 /* ToDoList */ = {
 			isa = PBXGroup;
 			children = (
-				8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */,
-				8498AFD119F7F5DF0046934B /* Calculator.h */,
-				8498AFD219F7F5E00046934B /* Calculator.m */,
-				8498AFC819F7C4780046934B /* ObjectiveC-methods */,
-				8498AFC719F7C4780046934B /* Products */,
+				8495DF7D19F80A7B009DCB73 /* main.m */,
+				8495DF8A19F80AA6009DCB73 /* Todo.h */,
+				8495DF8B19F80AA6009DCB73 /* Todo.m */,
+				8495DF8D19F81A17009DCB73 /* TodoList.h */,
+				8495DF8E19F81A17009DCB73 /* TodoList.m */,
 			);
-			sourceTree = "<group>";
-		};
-		8498AFC719F7C4780046934B /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				8498AFC619F7C4780046934B /* ObjectiveC-methods */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		8498AFC819F7C4780046934B /* ObjectiveC-methods */ = {
-			isa = PBXGroup;
-			children = (
-				8498AFC919F7C4780046934B /* main.m */,
-			);
-			path = "ObjectiveC-methods";
+			path = ToDoList;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8498AFC519F7C4780046934B /* ObjectiveC-methods */ = {
+		8495DF7919F80A7B009DCB73 /* ToDoList */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8498AFCD19F7C4780046934B /* Build configuration list for PBXNativeTarget "ObjectiveC-methods" */;
+			buildConfigurationList = 8495DF8119F80A7B009DCB73 /* Build configuration list for PBXNativeTarget "ToDoList" */;
 			buildPhases = (
-				8498AFC219F7C4780046934B /* Sources */,
-				8498AFC319F7C4780046934B /* Frameworks */,
-				8498AFC419F7C4780046934B /* CopyFiles */,
+				8495DF7619F80A7B009DCB73 /* Sources */,
+				8495DF7719F80A7B009DCB73 /* Frameworks */,
+				8495DF7819F80A7B009DCB73 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "ObjectiveC-methods";
-			productName = "ObjectiveC-methods";
-			productReference = 8498AFC619F7C4780046934B /* ObjectiveC-methods */;
+			name = ToDoList;
+			productName = ToDoList;
+			productReference = 8495DF7A19F80A7B009DCB73 /* ToDoList */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8498AFBE19F7C4780046934B /* Project object */ = {
+		8495DF7219F80A7B009DCB73 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = admin;
 				TargetAttributes = {
-					8498AFC519F7C4780046934B = {
+					8495DF7919F80A7B009DCB73 = {
 						CreatedOnToolsVersion = 6.1;
 					};
 				};
 			};
-			buildConfigurationList = 8498AFC119F7C4780046934B /* Build configuration list for PBXProject "ObjectiveC-methods" */;
+			buildConfigurationList = 8495DF7519F80A7B009DCB73 /* Build configuration list for PBXProject "ToDoList" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 8498AFBD19F7C4780046934B;
-			productRefGroup = 8498AFC719F7C4780046934B /* Products */;
+			mainGroup = 8495DF7119F80A7B009DCB73;
+			productRefGroup = 8495DF7B19F80A7B009DCB73 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = 8495DF8519F80A7B009DCB73 /* Products */;
-					ProjectRef = 8495DF8419F80A7B009DCB73 /* ToDoList.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
-				8498AFC519F7C4780046934B /* ObjectiveC-methods */,
+				8495DF7919F80A7B009DCB73 /* ToDoList */,
 			);
 		};
 /* End PBXProject section */
 
-/* Begin PBXReferenceProxy section */
-		8495DF8919F80A7D009DCB73 /* ToDoList */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = ToDoList;
-			remoteRef = 8495DF8819F80A7D009DCB73 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
-
 /* Begin PBXSourcesBuildPhase section */
-		8498AFC219F7C4780046934B /* Sources */ = {
+		8495DF7619F80A7B009DCB73 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8498AFCA19F7C4780046934B /* main.m in Sources */,
-				8498AFD319F7F5E20046934B /* Calculator.m in Sources */,
+				8495DF7E19F80A7B009DCB73 /* main.m in Sources */,
+				8495DF8F19F81A17009DCB73 /* TodoList.m in Sources */,
+				8495DF8C19F80AA6009DCB73 /* Todo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		8498AFCB19F7C4780046934B /* Debug */ = {
+		8495DF7F19F80A7B009DCB73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -207,7 +177,7 @@
 			};
 			name = Debug;
 		};
-		8498AFCC19F7C4780046934B /* Release */ = {
+		8495DF8019F80A7B009DCB73 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -241,14 +211,14 @@
 			};
 			name = Release;
 		};
-		8498AFCE19F7C4780046934B /* Debug */ = {
+		8495DF8219F80A7B009DCB73 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		8498AFCF19F7C4780046934B /* Release */ = {
+		8495DF8319F80A7B009DCB73 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -258,25 +228,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8498AFC119F7C4780046934B /* Build configuration list for PBXProject "ObjectiveC-methods" */ = {
+		8495DF7519F80A7B009DCB73 /* Build configuration list for PBXProject "ToDoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8498AFCB19F7C4780046934B /* Debug */,
-				8498AFCC19F7C4780046934B /* Release */,
+				8495DF7F19F80A7B009DCB73 /* Debug */,
+				8495DF8019F80A7B009DCB73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8498AFCD19F7C4780046934B /* Build configuration list for PBXNativeTarget "ObjectiveC-methods" */ = {
+		8495DF8119F80A7B009DCB73 /* Build configuration list for PBXNativeTarget "ToDoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8498AFCE19F7C4780046934B /* Debug */,
-				8498AFCF19F7C4780046934B /* Release */,
+				8495DF8219F80A7B009DCB73 /* Debug */,
+				8495DF8319F80A7B009DCB73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 8498AFBE19F7C4780046934B /* Project object */;
+	rootObject = 8495DF7219F80A7B009DCB73 /* Project object */;
 }
