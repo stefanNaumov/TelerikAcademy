@@ -7,11 +7,19 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Calculator.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+        
+        Calculator *calc = [[Calculator alloc] init];
+        
+        
+        [calc addValueToResult:5];
+        NSLog(@"Result before save: %d",[calc getResult]);
+        
+        [calc saveResult];
+        NSLog(@"Result after save: %d",[calc getResult]);
     }
     return 0;
 }
