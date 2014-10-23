@@ -8,6 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface EventsListViewController : UIViewController
+@interface EventsListViewController : UIViewController{
+    NSMutableArray *eventsList;
+}
+@property (weak, nonatomic) IBOutlet UILabel *eventsLabel;
 
+-(void)setEventsList:(NSArray *)evs;
 @end

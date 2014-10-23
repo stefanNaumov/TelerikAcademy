@@ -9,16 +9,17 @@
 #import <Foundation/Foundation.h>
 #import "Event.h"
 
-@interface EventManager : NSObject
-
--(id)initWithTitle:(NSString *)title;
+@interface EventManager : NSObject{
+    NSMutableArray *_eventsList;
+}
 
 @property (nonatomic) NSString *title;
+
 @property( nonatomic) NSDate *date;
 
--(void) createEvent: (Event *) event;
+@property (nonatomic) NSArray *eventsList;
 
--(NSMutableArray *) listEvents;
+-(void) createEvent: (Event *) event;
 
 -(NSArray *) listEventsByCategory: (NSString *) category;
 

@@ -10,14 +10,11 @@
 
 @implementation EventManager
 
-NSMutableArray *eventsList;
-
-
--(id)initWithTitle:(NSString *)title{
+-(id)init{
     self = [super self];
     if (self) {
-        self.title = title;
-        eventsList = [[NSMutableArray alloc] init];
+        
+        _eventsList = [[NSMutableArray alloc] init];
     }
     
     return self;
@@ -28,16 +25,18 @@ NSMutableArray *eventsList;
 }
 
 -(void) createEvent: (Event *) event{
-    [eventsList addObject:event];
+    [_eventsList addObject:event];
+    
 }
 
--(NSMutableArray *) listEvents{
-    return eventsList;
+-(NSArray *) eventsList{
+    return _eventsList;
 }
+
 
 -(NSArray *) listEventsByCategory: (NSString *) category{
     NSPredicate *predicate = [NSPredicate predicateWithFormat:@"SELF.category LIKE [c] %@",category];
-    NSArray *filtered = [eventsList filteredArrayUsingPredicate:predicate];
+    NSArray *filtered = [_eventsList filteredArrayUsingPredicate:predicate];
     
     return filtered;
 }

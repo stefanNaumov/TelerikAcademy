@@ -36,8 +36,6 @@ NSDate *_date;
     else{
         [NSException raise:@"Cannot add empty guest name" format:@"Guest name %@ is invalid",guest];
     }
-    
-    
 }
 
 -(void) setTitle:(NSString *)title{

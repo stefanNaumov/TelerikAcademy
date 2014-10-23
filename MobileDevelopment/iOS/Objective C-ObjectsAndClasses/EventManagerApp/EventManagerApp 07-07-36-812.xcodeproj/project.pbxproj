@@ -16,6 +16,7 @@
 		849E03D619F92C6C00FDE544 /* EventManagerAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 849E03D519F92C6C00FDE544 /* EventManagerAppTests.m */; };
 		849E03F919F94ED100FDE544 /* Event.m in Sources */ = {isa = PBXBuildFile; fileRef = 849E03F619F94ED100FDE544 /* Event.m */; };
 		849E03FA19F94ED100FDE544 /* EventManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 849E03F819F94ED100FDE544 /* EventManager.m */; };
+		84E2E98A19F98FA000A02843 /* EventsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E2E98919F98FA000A02843 /* EventsListViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,8 @@
 		849E03F619F94ED100FDE544 /* Event.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Event.m; path = ../EventManager/EventManager/Event.m; sourceTree = "<group>"; };
 		849E03F719F94ED100FDE544 /* EventManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EventManager.h; path = ../EventManager/EventManager/EventManager.h; sourceTree = "<group>"; };
 		849E03F819F94ED100FDE544 /* EventManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EventManager.m; path = ../EventManager/EventManager/EventManager.m; sourceTree = "<group>"; };
+		84E2E98819F98FA000A02843 /* EventsListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventsListViewController.h; sourceTree = "<group>"; };
+		84E2E98919F98FA000A02843 /* EventsListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventsListViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,8 @@
 				849E03C619F92C6C00FDE544 /* Images.xcassets */,
 				849E03C819F92C6C00FDE544 /* LaunchScreen.xib */,
 				849E03B919F92C6C00FDE544 /* Supporting Files */,
+				84E2E98819F98FA000A02843 /* EventsListViewController.h */,
+				84E2E98919F98FA000A02843 /* EventsListViewController.m */,
 			);
 			path = EventManagerApp;
 			sourceTree = "<group>";
@@ -232,6 +237,7 @@
 				849E03F919F94ED100FDE544 /* Event.m in Sources */,
 				849E03C219F92C6C00FDE544 /* MainViewController.m in Sources */,
 				849E03BF19F92C6C00FDE544 /* AppDelegate.m in Sources */,
+				84E2E98A19F98FA000A02843 /* EventsListViewController.m in Sources */,
 				849E03BC19F92C6C00FDE544 /* main.m in Sources */,
 				849E03FA19F94ED100FDE544 /* EventManager.m in Sources */,
 			);

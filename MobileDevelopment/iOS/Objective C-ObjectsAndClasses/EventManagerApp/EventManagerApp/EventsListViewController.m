@@ -16,12 +16,24 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    NSMutableString *eventsTitles = [[NSMutableString alloc] init];
+    
+    for (int i = 0; i < eventsList.count; i++) {
+        [eventsTitles appendFormat:@"%@\n",[eventsList[i] title]];
+        
+    }
+    
+    self.eventsLabel.text = eventsTitles;
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+-(void) setEventsList:(NSMutableArray *)evs{
+    eventsList = evs;
 }
 
 /*

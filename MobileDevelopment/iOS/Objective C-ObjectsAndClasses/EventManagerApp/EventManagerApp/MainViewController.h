@@ -9,9 +9,11 @@
 #import <UIKit/UIKit.h>
 #import "EventManager.h"
 #import "Event.h"
+#import "EventsListViewController.h"
 
 @interface MainViewController : UIViewController{
     EventManager *eventManager;
+    __weak IBOutlet UIButton *viewEvents;
     __weak IBOutlet UIButton *addEvent;
     __weak IBOutlet UILabel *contentLabel;
    
@@ -20,6 +22,7 @@
 }
 - (IBAction)addEventClick:(id)sender;
 
+-(IBAction)unwindToMain:(UIStoryboardSegue *)segue;
 
 @end
 
