@@ -3,10 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
+	<dict>
+		<key>EventManagerApp.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>849E035E19F8F54C00FDE544</key>
+		<key>849E037A19F92B3A00FDE544</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>849E039319F92B3B00FDE544</key>
 		<dict>
 			<key>primary</key>
 			<true/>
