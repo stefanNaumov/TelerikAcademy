@@ -7,19 +7,16 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "SkillProtocol.h"
 
-//base class for all Skills
-@interface Skill : NSObject<SkillProtocol>{
-    NSString *_name;
-    int _powerConsumption;
-    int _damage;
-}
+@protocol SkillProtocol <NSObject>
 
+@required
 @property (nonatomic) NSString *name;
 
+@required
 @property int powerConsumption;
 
+@required
 @property int damage;
 
 @end

@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "Skill.h"
 
 @protocol CharacterProtocol <NSObject>
 
@@ -15,13 +14,13 @@
 @property (nonatomic) NSString *name;
 
 @required
-@property (nonatomic) NSArray *skills;
+@property (nonatomic) NSMutableArray *skills;
 
 @required
 @property int life;
 
 @required
-@property int power;
+@property (nonatomic) int power;
 
 @required
 @property BOOL isAlive;
@@ -30,7 +29,8 @@
 
 -(void) punch;
 
--(void) useSkill: (NSString *) skillName;
+//returns integer - the damage causing to opponent
+-(int) useSkill: (NSString *) skillName;
 
 -(void) takeHit: (int ) hitDamage;
 

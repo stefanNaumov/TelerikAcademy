@@ -14,11 +14,11 @@
 		<string>https://github.com/stefanNaumov/TelerikAcademy.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MobileDevelopment/iOS/Objective C-ObjectsAndClasses/OOP-Principles/MortalKombatGame/MortalKombatGame.xcodeproj</string>
+	<string>MobileDevelopment/iOS/OOP-Principles/MortalKombatGame/MortalKombatGame.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>59205E27863E98554F48DDA48B18E577FD5D641F</key>
-		<string>../../../../../../..</string>
+		<string>../../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/stefanNaumov/TelerikAcademy.git</string>

@@ -10,6 +10,10 @@
 		8493A97719FA976800679D43 /* Character.m in Sources */ = {isa = PBXBuildFile; fileRef = 8493A97619FA976800679D43 /* Character.m */; };
 		84967FA419FA5FA0008EAC69 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84967FA319FA5FA0008EAC69 /* main.m */; };
 		849EBE8519FA74110045B077 /* Zombie.m in Sources */ = {isa = PBXBuildFile; fileRef = 849EBE8419FA74110045B077 /* Zombie.m */; };
+		849F76FF19FAAB330016BF31 /* KarateFreak.m in Sources */ = {isa = PBXBuildFile; fileRef = 849F76FE19FAAB330016BF31 /* KarateFreak.m */; };
+		849F770219FAAD5E0016BF31 /* MegaPunch.m in Sources */ = {isa = PBXBuildFile; fileRef = 849F770119FAAD5E0016BF31 /* MegaPunch.m */; };
+		849F770519FAAEC10016BF31 /* Skill.m in Sources */ = {isa = PBXBuildFile; fileRef = 849F770419FAAEC10016BF31 /* Skill.m */; };
+		84A62F1019FAC44F00893DC7 /* KinGeriKick.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A62F0F19FAC44F00893DC7 /* KinGeriKick.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,10 +33,18 @@
 		8493A97619FA976800679D43 /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Character.m; sourceTree = "<group>"; };
 		84967FA019FA5F9F008EAC69 /* MortalKombatGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MortalKombatGame; sourceTree = BUILT_PRODUCTS_DIR; };
 		84967FA319FA5FA0008EAC69 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		849EBE8119FA69200045B077 /* Skill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Skill.h; sourceTree = "<group>"; };
+		849EBE8119FA69200045B077 /* SkillProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SkillProtocol.h; sourceTree = "<group>"; };
 		849EBE8319FA74110045B077 /* Zombie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Zombie.h; sourceTree = "<group>"; };
 		849EBE8419FA74110045B077 /* Zombie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Zombie.m; sourceTree = "<group>"; };
 		849EBE8619FA75330045B077 /* CharacterProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CharacterProtocol.h; sourceTree = "<group>"; };
+		849F76FD19FAAB330016BF31 /* KarateFreak.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KarateFreak.h; sourceTree = "<group>"; };
+		849F76FE19FAAB330016BF31 /* KarateFreak.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KarateFreak.m; sourceTree = "<group>"; };
+		849F770019FAAD5E0016BF31 /* MegaPunch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MegaPunch.h; sourceTree = "<group>"; };
+		849F770119FAAD5E0016BF31 /* MegaPunch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MegaPunch.m; sourceTree = "<group>"; };
+		849F770319FAAEC10016BF31 /* Skill.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Skill.h; sourceTree = "<group>"; };
+		849F770419FAAEC10016BF31 /* Skill.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Skill.m; sourceTree = "<group>"; };
+		84A62F0E19FAC44F00893DC7 /* KinGeriKick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KinGeriKick.h; sourceTree = "<group>"; };
+		84A62F0F19FAC44F00893DC7 /* KinGeriKick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KinGeriKick.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +61,10 @@
 		8493A97819FA9BA200679D43 /* Skills */ = {
 			isa = PBXGroup;
 			children = (
+				849F770019FAAD5E0016BF31 /* MegaPunch.h */,
+				849F770119FAAD5E0016BF31 /* MegaPunch.m */,
+				84A62F0E19FAC44F00893DC7 /* KinGeriKick.h */,
+				84A62F0F19FAC44F00893DC7 /* KinGeriKick.m */,
 			);
 			name = Skills;
 			sourceTree = "<group>";
@@ -75,10 +91,12 @@
 			isa = PBXGroup;
 			children = (
 				84967FA319FA5FA0008EAC69 /* main.m */,
-				849EBE8119FA69200045B077 /* Skill.h */,
+				849EBE8119FA69200045B077 /* SkillProtocol.h */,
 				849EBE8619FA75330045B077 /* CharacterProtocol.h */,
 				8493A97519FA976800679D43 /* Character.h */,
 				8493A97619FA976800679D43 /* Character.m */,
+				849F770319FAAEC10016BF31 /* Skill.h */,
+				849F770419FAAEC10016BF31 /* Skill.m */,
 			);
 			path = MortalKombatGame;
 			sourceTree = "<group>";
@@ -88,6 +106,8 @@
 			children = (
 				849EBE8319FA74110045B077 /* Zombie.h */,
 				849EBE8419FA74110045B077 /* Zombie.m */,
+				849F76FD19FAAB330016BF31 /* KarateFreak.h */,
+				849F76FE19FAAB330016BF31 /* KarateFreak.m */,
 			);
 			name = Characters;
 			sourceTree = "<group>";
@@ -149,6 +169,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				849EBE8519FA74110045B077 /* Zombie.m in Sources */,
+				849F770219FAAD5E0016BF31 /* MegaPunch.m in Sources */,
+				84A62F1019FAC44F00893DC7 /* KinGeriKick.m in Sources */,
+				849F76FF19FAAB330016BF31 /* KarateFreak.m in Sources */,
+				849F770519FAAEC10016BF31 /* Skill.m in Sources */,
 				84967FA419FA5FA0008EAC69 /* main.m in Sources */,
 				8493A97719FA976800679D43 /* Character.m in Sources */,
 			);

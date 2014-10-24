@@ -1,5 +1,5 @@
 //
-//  Zombie.h
+//  KinGeriKick.h
 //  MortalKombatGame
 //
 //  Created by admin on 10/24/14.
@@ -7,12 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "MortalKombatGame/Skill.h"
 
-#import "MortalKombatGame/Character.h"
-#import "KinGeriKick.h"
-
-@interface Zombie : Character{
-    
+@interface KinGeriKick : Skill{
 }
 
 @end

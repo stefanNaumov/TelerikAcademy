@@ -11,7 +11,7 @@
 @implementation Character
 
 int const kickDamage = 10;
-int const punchDamge = 5;
+int const punchDamage = 5;
 
 -(id)init{
     self = [super self];
@@ -25,17 +25,31 @@ int const punchDamge = 5;
     
     return self;
 }
+-(void) setPower:(int)power{
+    _power += power;
+    NSLog(@"test power");
+    if(_power < 0){
+        _power = 0;
+    }
+}
+-(NSMutableArray *) skills{
+    return _skills;
+}
+-(int) power{
+    return _power;
+}
 
 -(void) kick{
     _power += kickDamage;
 }
 
 -(void) punch{
-    _power += punchDamge;
+    _power += punchDamage;
 }
 
--(void) useSkill:(NSString *)skillName{
+-(int) useSkill:(NSString *)skillName{
     //no implementation logic in base class
+    return 0;
 }
 
 -(void) takeHit:(int)hitDamage{

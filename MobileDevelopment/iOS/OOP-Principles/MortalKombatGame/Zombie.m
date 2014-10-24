@@ -8,27 +8,46 @@
 
 #import "Zombie.h"
 
+
 @implementation Zombie
 
 -(id)init{
     self = [super self];
+    
     if (self) {
-        _skills = [[NSMutableArray alloc] init];
         
+        [self setName:@"Zombie"];
+        KinGeriKick *kick = [[KinGeriKick alloc] init];
+        
+        NSMutableArray *skills = [[NSMutableArray alloc] init];
+        [self setSkills:skills];
+        
+        //setting skills for particular character
+        [_skills addObject:kick];
     }
     
     return self;
 }
 
--(void) kick:(int) damage{
+-(int) useSkill:(NSString *)skillName{
+    Skill *currSkill;
     
-}
-
--(void) punch: (int) damage{
+    for (Skill *skill in [self skills]) {
+        
+        if ([[skill name] isEqualToString:[skillName lowercaseString]]) {
+            currSkill = skill;
+            break;
+        }
+    }
     
-}
-
--(void) useSkill:(NSString *)skillName{
-    
+    if (currSkill) {
+        [self setPower:-[currSkill powerConsumption]];
+        //_power -= [currSkill powerConsumption];
+     
+        return [currSkill damage];
+    }
+    else{
+        return 0;
+    }
 }
 @end

@@ -9,11 +9,12 @@
 #import <Foundation/Foundation.h>
 #import "CharacterProtocol.h"
 
+
 //base class for all characters
 @interface Character : NSObject <CharacterProtocol>{
     
     NSString *_name;
-    NSArray *_skills;
+    NSMutableArray *_skills;
     int _life;
     int _power;
     
@@ -21,11 +22,11 @@
 
 @property (nonatomic) NSString *name;
 
-@property (nonatomic) NSArray *skills;
+@property (nonatomic) NSMutableArray *skills;
 
 @property int life;
 
-@property int power;
+@property (nonatomic) int power;
 
 @property BOOL isAlive;
 
