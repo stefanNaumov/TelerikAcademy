@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "CharacterProtocol.h"
-
+#import "Skill.h"
 
 //base class for all characters
 @interface Character : NSObject <CharacterProtocol>{

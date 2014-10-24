@@ -25,16 +25,16 @@ int const punchDamage = 5;
     
     return self;
 }
+
 -(void) setPower:(int)power{
+    
     _power += power;
-    NSLog(@"test power");
-    if(_power < 0){
-        _power = 0;
-    }
 }
+
 -(NSMutableArray *) skills{
     return _skills;
 }
+
 -(int) power{
     return _power;
 }
@@ -48,8 +48,31 @@ int const punchDamage = 5;
 }
 
 -(int) useSkill:(NSString *)skillName{
-    //no implementation logic in base class
-    return 0;
+    Skill *currSkill;
+    
+    for (Skill *skill in [self skills]) {
+        
+        if ([[skill name] isEqualToString:[skillName lowercaseString]]) {
+            currSkill = skill;
+            break;
+        }
+    }
+    
+    if (currSkill) {
+        if([self power] >= [currSkill powerConsumption]){
+            
+            [self setPower:-[currSkill powerConsumption]];
+            
+            return [currSkill damage];
+        }
+        else{
+            return 0;
+        }
+        
+    }
+    else{
+        return 0;
+    }
 }
 
 -(void) takeHit:(int)hitDamage{

@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		8493A97719FA976800679D43 /* Character.m in Sources */ = {isa = PBXBuildFile; fileRef = 8493A97619FA976800679D43 /* Character.m */; };
+		8496493E19FAF8EC008C98BE /* KnockoutPunch.m in Sources */ = {isa = PBXBuildFile; fileRef = 8496493D19FAF8EC008C98BE /* KnockoutPunch.m */; };
+		8496494119FAFA3A008C98BE /* DrunkenKick.m in Sources */ = {isa = PBXBuildFile; fileRef = 8496494019FAFA3A008C98BE /* DrunkenKick.m */; };
+		8496494419FAFB26008C98BE /* TheBeardGuy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8496494319FAFB26008C98BE /* TheBeardGuy.m */; };
 		84967FA419FA5FA0008EAC69 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84967FA319FA5FA0008EAC69 /* main.m */; };
 		849EBE8519FA74110045B077 /* Zombie.m in Sources */ = {isa = PBXBuildFile; fileRef = 849EBE8419FA74110045B077 /* Zombie.m */; };
 		849F76FF19FAAB330016BF31 /* KarateFreak.m in Sources */ = {isa = PBXBuildFile; fileRef = 849F76FE19FAAB330016BF31 /* KarateFreak.m */; };
@@ -31,6 +34,12 @@
 /* Begin PBXFileReference section */
 		8493A97519FA976800679D43 /* Character.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Character.h; sourceTree = "<group>"; };
 		8493A97619FA976800679D43 /* Character.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Character.m; sourceTree = "<group>"; };
+		8496493C19FAF8EC008C98BE /* KnockoutPunch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KnockoutPunch.h; sourceTree = "<group>"; };
+		8496493D19FAF8EC008C98BE /* KnockoutPunch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KnockoutPunch.m; sourceTree = "<group>"; };
+		8496493F19FAFA3A008C98BE /* DrunkenKick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrunkenKick.h; sourceTree = "<group>"; };
+		8496494019FAFA3A008C98BE /* DrunkenKick.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrunkenKick.m; sourceTree = "<group>"; };
+		8496494219FAFB26008C98BE /* TheBeardGuy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TheBeardGuy.h; sourceTree = "<group>"; };
+		8496494319FAFB26008C98BE /* TheBeardGuy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TheBeardGuy.m; sourceTree = "<group>"; };
 		84967FA019FA5F9F008EAC69 /* MortalKombatGame */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MortalKombatGame; sourceTree = BUILT_PRODUCTS_DIR; };
 		84967FA319FA5FA0008EAC69 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		849EBE8119FA69200045B077 /* SkillProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SkillProtocol.h; sourceTree = "<group>"; };
@@ -65,6 +74,10 @@
 				849F770119FAAD5E0016BF31 /* MegaPunch.m */,
 				84A62F0E19FAC44F00893DC7 /* KinGeriKick.h */,
 				84A62F0F19FAC44F00893DC7 /* KinGeriKick.m */,
+				8496493C19FAF8EC008C98BE /* KnockoutPunch.h */,
+				8496493D19FAF8EC008C98BE /* KnockoutPunch.m */,
+				8496493F19FAFA3A008C98BE /* DrunkenKick.h */,
+				8496494019FAFA3A008C98BE /* DrunkenKick.m */,
 			);
 			name = Skills;
 			sourceTree = "<group>";
@@ -108,6 +121,8 @@
 				849EBE8419FA74110045B077 /* Zombie.m */,
 				849F76FD19FAAB330016BF31 /* KarateFreak.h */,
 				849F76FE19FAAB330016BF31 /* KarateFreak.m */,
+				8496494219FAFB26008C98BE /* TheBeardGuy.h */,
+				8496494319FAFB26008C98BE /* TheBeardGuy.m */,
 			);
 			name = Characters;
 			sourceTree = "<group>";
@@ -170,11 +185,14 @@
 			files = (
 				849EBE8519FA74110045B077 /* Zombie.m in Sources */,
 				849F770219FAAD5E0016BF31 /* MegaPunch.m in Sources */,
+				8496494419FAFB26008C98BE /* TheBeardGuy.m in Sources */,
 				84A62F1019FAC44F00893DC7 /* KinGeriKick.m in Sources */,
 				849F76FF19FAAB330016BF31 /* KarateFreak.m in Sources */,
 				849F770519FAAEC10016BF31 /* Skill.m in Sources */,
 				84967FA419FA5FA0008EAC69 /* main.m in Sources */,
+				8496493E19FAF8EC008C98BE /* KnockoutPunch.m in Sources */,
 				8493A97719FA976800679D43 /* Character.m in Sources */,
+				8496494119FAFA3A008C98BE /* DrunkenKick.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

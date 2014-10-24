@@ -29,25 +29,4 @@
     return self;
 }
 
--(int) useSkill:(NSString *)skillName{
-    Skill *currSkill;
-    
-    for (Skill *skill in [self skills]) {
-        
-        if ([[skill name] isEqualToString:[skillName lowercaseString]]) {
-            currSkill = skill;
-            break;
-        }
-    }
-    
-    if (currSkill) {
-        [self setPower:-[currSkill powerConsumption]];
-        //_power -= [currSkill powerConsumption];
-     
-        return [currSkill damage];
-    }
-    else{
-        return 0;
-    }
-}
 @end
