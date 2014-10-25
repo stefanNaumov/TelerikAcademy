@@ -11,16 +11,22 @@
 
 
 @implementation TodoList
-
-NSMutableArray *todoList;
+-(id)init{
+    self = [super self];
+    if (self) {
+        _todoList = [[NSMutableArray alloc] init];
+    }
+    
+    return self;
+}
 
 -(void)addTodo:(Todo *)todo{
-    todoList = [[NSMutableArray alloc] init];
-    [todoList addObject:todo];
+    
+    [_todoList addObject:todo];
 }
 
 -(NSArray*) getTodoList{
-    return todoList;
+    return _todoList;
 }
 
 @end

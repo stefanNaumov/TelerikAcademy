@@ -11,7 +11,7 @@
 
 @interface TodoList : NSObject{
 
-    NSMutableArray *todoList;
+    NSMutableArray *_todoList;
 
 }
 

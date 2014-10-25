@@ -13,12 +13,14 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         Todo *myTodo = [[Todo alloc] initWithEndDate:[[NSDate alloc] init]];
+        Todo *mySecondTodo = [[Todo alloc] initWithEndDate:[[NSDate alloc] init]];
         
         TodoList *todoList = [[TodoList alloc] init];
         
         [todoList addTodo:myTodo];
+        [todoList addTodo:mySecondTodo];
         
-        NSLog(@"%@",[todoList getTodoList]);
+        NSLog(@"Elements in list: %lu",(unsigned long)[[todoList getTodoList] count]);
     }
     return 0;
 }
