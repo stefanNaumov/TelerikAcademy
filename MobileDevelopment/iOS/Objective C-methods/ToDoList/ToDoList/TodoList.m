@@ -11,6 +11,9 @@
 
 
 @implementation TodoList
+
+NSMutableArray *_todoList;
+
 -(id)init{
     self = [super self];
     if (self) {

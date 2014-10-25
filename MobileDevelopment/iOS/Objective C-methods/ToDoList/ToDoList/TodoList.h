@@ -9,11 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "Todo.h"
 
-@interface TodoList : NSObject{
-
-    NSMutableArray *_todoList;
-
-}
+@interface TodoList : NSObject
 
 -(void) addTodo:(Todo*) todo;
 
