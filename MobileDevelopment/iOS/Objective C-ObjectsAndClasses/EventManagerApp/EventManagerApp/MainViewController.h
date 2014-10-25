@@ -20,6 +20,7 @@
     
     __weak IBOutlet UITextField *eventTitleInput;
 }
+@property (weak, nonatomic) IBOutlet UIDatePicker *datePicker;
 - (IBAction)addEventClick:(id)sender;
 
 -(IBAction)unwindToMain:(UIStoryboardSegue *)segue;

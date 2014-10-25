@@ -41,15 +41,26 @@
 - (IBAction)addEventClick:(id)sender {
     Event *newEvent = [[Event alloc] init];
     NSString *eventTitle = eventTitleInput.text;
+    NSDate *eventDate = [self.datePicker date];
     
     if ([trimAll(eventTitle) length] > 0) {
         eventTitleInput.text = @"";
         
         [newEvent setTitle:eventTitle];
-        
+        [newEvent setDate:eventDate];
+                
         [eventManager createEvent:newEvent];
     }
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"AddEvent" message:@"Added Event To List" delegate:nil cancelButtonTitle:@"Okay" otherButtonTitles:nil, nil];
+    [alert show];
+    [eventTitleInput resignFirstResponder];
     
+}
+
+-(BOOL)textFieldShouldReturn:(UITextField *)textField{
+    [eventTitleInput resignFirstResponder];
+    
+    return YES;
 }
 
 -(IBAction)unwindToMain:(UIStoryboardSegue *)segue{

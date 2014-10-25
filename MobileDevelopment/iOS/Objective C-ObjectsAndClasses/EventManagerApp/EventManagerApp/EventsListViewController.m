@@ -18,9 +18,12 @@
     [super viewDidLoad];
     
     NSMutableString *eventsTitles = [[NSMutableString alloc] init];
+    NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
+    [dateFormatter setDateFormat:@"EEE MMM dd"];
     
     for (int i = 0; i < eventsList.count; i++) {
-        [eventsTitles appendFormat:@"%@\n",[eventsList[i] title]];
+        [eventsTitles appendFormat:@"%@",[eventsList[i] title]];
+        [eventsTitles appendFormat:@" Day:%@\n",[dateFormatter stringFromDate:[eventsList[i] date]]];
         
     }
     
