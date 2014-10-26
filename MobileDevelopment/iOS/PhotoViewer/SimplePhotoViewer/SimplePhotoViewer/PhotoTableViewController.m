@@ -19,6 +19,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    self.title = @"Photos";
+    
     images = [[NSMutableArray alloc] init];
     
     [self initializeImages];

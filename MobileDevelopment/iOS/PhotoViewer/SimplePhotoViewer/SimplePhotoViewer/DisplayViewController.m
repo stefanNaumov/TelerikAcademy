@@ -19,6 +19,8 @@
     UIImage *image = [UIImage imageNamed:self.image.fileName];
     [self.currentImage setImage:image];
     
+    self.title = [self.image name];
+    
     // Do any additional setup after loading the view.
 }
 
