@@ -42,11 +42,21 @@
 }
 
 -(void) sortEventsByDate{
+    NSSortDescriptor *descriptor = [[NSSortDescriptor alloc] initWithKey:@"date" ascending:YES];
     
+    NSMutableArray *sortDescriptors = [NSMutableArray arrayWithObject:descriptor];
+    NSArray *sorted = [_eventsList sortedArrayUsingDescriptors:sortDescriptors];
+    
+    _eventsList = [sorted mutableCopy];
 }
 
 -(void) sortEventsByTitle{
+    NSSortDescriptor *descriptor = [[NSSortDescriptor alloc] initWithKey:@"title" ascending:YES];
     
+    NSMutableArray *sortDescriptors = [NSMutableArray arrayWithObject:descriptor];
+    NSArray *sorted = [_eventsList sortedArrayUsingDescriptors:sortDescriptors];
+    
+    _eventsList = [sorted mutableCopy];
 }
 
 @end
