@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8494EE1119FD80F4007D4806 /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8494EE1019FD80F4007D4806 /* Settings.bundle */; };
 		84C902C119FD04E200F63968 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C902C019FD04E200F63968 /* main.m */; };
 		84C902C419FD04E200F63968 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84C902C319FD04E200F63968 /* AppDelegate.m */; };
 		84C902CA19FD04E200F63968 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C902C819FD04E200F63968 /* Main.storyboard */; };
@@ -30,6 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8494EE1019FD80F4007D4806 /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		84C902BB19FD04E200F63968 /* SimplePhotoViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimplePhotoViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C902BF19FD04E200F63968 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84C902C019FD04E200F63968 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 		84C902B219FD04E200F63968 = {
 			isa = PBXGroup;
 			children = (
+				8494EE1019FD80F4007D4806 /* Settings.bundle */,
 				84C902BD19FD04E200F63968 /* SimplePhotoViewer */,
 				84C902D719FD04E600F63968 /* SimplePhotoViewerTests */,
 				84C902BC19FD04E200F63968 /* Products */,
@@ -214,6 +217,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8494EE1119FD80F4007D4806 /* Settings.bundle in Resources */,
 				84C902CA19FD04E200F63968 /* Main.storyboard in Resources */,
 				84C902CF19FD04E300F63968 /* LaunchScreen.xib in Resources */,
 				84C902CC19FD04E300F63968 /* Images.xcassets in Resources */,
@@ -432,6 +436,7 @@
 				84C902E019FD04E600F63968 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		84C902E119FD04E600F63968 /* Build configuration list for PBXNativeTarget "SimplePhotoViewerTests" */ = {
 			isa = XCConfigurationList;
@@ -440,6 +445,7 @@
 				84C902E319FD04E600F63968 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

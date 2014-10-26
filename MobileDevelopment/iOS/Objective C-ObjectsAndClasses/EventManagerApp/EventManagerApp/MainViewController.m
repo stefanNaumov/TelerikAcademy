@@ -50,9 +50,15 @@
         [newEvent setDate:eventDate];
                 
         [eventManager createEvent:newEvent];
+        
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"AddEvent"
+                                                        message:@"Added Event To List"
+                                                       delegate:nil
+                                                       cancelButtonTitle:@"Okay"
+                                                       otherButtonTitles:nil, nil];
+        [alert show];
     }
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"AddEvent" message:@"Added Event To List" delegate:nil cancelButtonTitle:@"Okay" otherButtonTitles:nil, nil];
-    [alert show];
+    
     [eventTitleInput resignFirstResponder];
     
 }
