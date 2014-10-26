@@ -57,14 +57,8 @@
     
 }
 
--(BOOL)textFieldShouldReturn:(UITextField *)textField{
-    [eventTitleInput resignFirstResponder];
-    
-    return YES;
-}
-
 -(IBAction)unwindToMain:(UIStoryboardSegue *)segue{
-    
+    NSLog(@"Test");
 }
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{

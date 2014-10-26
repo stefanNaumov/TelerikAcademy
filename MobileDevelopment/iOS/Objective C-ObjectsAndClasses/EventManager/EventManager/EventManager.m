@@ -21,7 +21,7 @@
 }
 
 -(void) setDate:(NSDate *)date{
-    self.date = [[NSDate alloc] init];
+    self.date = date;
 }
 
 -(void) createEvent: (Event *) event{
