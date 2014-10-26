@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "Image.h"
+#import "DetailsViewController.h"
 
 @interface DisplayViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UIImageView *currentImage;

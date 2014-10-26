@@ -27,7 +27,11 @@
     // Dispose of any resources that can be recreated.
 }
 
-
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    DetailsViewController *controller = [segue destinationViewController];
+    
+    controller.image = self.image;
+}
 /*
 #pragma mark - Navigation
 

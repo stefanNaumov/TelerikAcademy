@@ -9,9 +9,11 @@
 #import <UIKit/UIKit.h>
 #import "Image.h"
 
+
 @interface DetailsViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UILabel *detailsLabel;
 
 @property (nonatomic) Image *image;
+
 
 @end
