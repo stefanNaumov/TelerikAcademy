@@ -10,8 +10,8 @@
 
 @implementation KnockoutPunch
 
-int const knockoutPunchPowerConsumption = 70;
-int const knockoutDamageValue = 45;
+static int const knockoutPunchPowerConsumption = 70;
+static int const knockoutDamageValue = 45;
 -(id)init{
     self = [super self];
     if (self) {

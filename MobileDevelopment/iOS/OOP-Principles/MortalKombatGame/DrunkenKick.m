@@ -10,8 +10,8 @@
 
 @implementation DrunkenKick
 
-int const drunkenkickPowerConsumption = 80;
-int const drunkenkickDamageValue = 15;
+static int const drunkenkickPowerConsumption = 80;
+static int const drunkenkickDamageValue = 15;
 
 -(id)init{
     self = [super self];

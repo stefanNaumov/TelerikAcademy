@@ -10,8 +10,8 @@
 
 @implementation MegaPunch
 
-int const megapunchPowerConsumptionValue = 20;
-int const megapunchDamageValue = 20;
+static int const megapunchPowerConsumptionValue = 20;
+static int const megapunchDamageValue = 20;
 
 -(id)init{
     self = [super self];

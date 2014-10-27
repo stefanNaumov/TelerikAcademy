@@ -10,8 +10,8 @@
 
 @implementation KinGeriKick
 
-int const kingeriPowerConsumptionValue = 40;
-int const kingeriDamageValue = 60;
+static int const kingeriPowerConsumptionValue = 40;
+static int const kingeriDamageValue = 60;
 
 -(id)init{
     self = [super self];
