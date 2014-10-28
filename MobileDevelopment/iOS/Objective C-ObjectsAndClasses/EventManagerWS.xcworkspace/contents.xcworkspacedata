@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:EventManagerApp/EventManagerApp 07-07-36-812.xcodeproj">
+      location = "group:EventManagerApplication/EventManagerApplication.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:EventManager/EventManager.xcodeproj">

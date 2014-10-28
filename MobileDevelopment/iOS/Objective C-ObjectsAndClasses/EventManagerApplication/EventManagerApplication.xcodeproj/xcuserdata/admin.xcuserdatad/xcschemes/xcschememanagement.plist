@@ -4,20 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>EventManagerApp.xcscheme_^#shared#^_</key>
+		<key>EventManagerApplication.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>849E03B519F92C6B00FDE544</key>
+		<key>84907B091A0016B100B661F4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>849E03CE19F92C6C00FDE544</key>
+		<key>84907B221A0016B100B661F4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

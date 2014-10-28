@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 admin. All rights reserved.
 //
 
-#import "MainViewController.h"
+#import "ViewController.h"
 
-@interface MainViewController ()
+@interface ViewController ()
 
 @end
 
-@implementation MainViewController
+@implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
@@ -24,6 +24,4 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (IBAction)addEvent:(id)sender {
-}
 @end

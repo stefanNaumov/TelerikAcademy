@@ -1,6 +1,6 @@
 //
-//  EventManagerAppTests.m
-//  EventManagerAppTests
+//  EventManagerApplicationTests.m
+//  EventManagerApplicationTests
 //
 //  Created by admin on 10/28/14.
 //  Copyright (c) 2014 admin. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface EventManagerAppTests : XCTestCase
+@interface EventManagerApplicationTests : XCTestCase
 
 @end
 
-@implementation EventManagerAppTests
+@implementation EventManagerApplicationTests
 
 - (void)setUp {
     [super setUp];

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "849E03B519F92C6B00FDE544"
-               BuildableName = "EventManagerApp.app"
-               BlueprintName = "EventManagerApp"
-               ReferencedContainer = "container:EventManagerApp.xcodeproj">
+               BlueprintIdentifier = "84907B091A0016B100B661F4"
+               BuildableName = "EventManagerApplication.app"
+               BlueprintName = "EventManagerApplication"
+               ReferencedContainer = "container:EventManagerApplication.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "849E03CE19F92C6C00FDE544"
-               BuildableName = "EventManagerAppTests.xctest"
-               BlueprintName = "EventManagerAppTests"
-               ReferencedContainer = "container:EventManagerApp.xcodeproj">
+               BlueprintIdentifier = "84907B221A0016B100B661F4"
+               BuildableName = "EventManagerApplicationTests.xctest"
+               BlueprintName = "EventManagerApplicationTests"
+               ReferencedContainer = "container:EventManagerApplication.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "849E03CE19F92C6C00FDE544"
-               BuildableName = "EventManagerAppTests.xctest"
-               BlueprintName = "EventManagerAppTests"
-               ReferencedContainer = "container:EventManagerApp.xcodeproj">
+               BlueprintIdentifier = "84907B221A0016B100B661F4"
+               BuildableName = "EventManagerApplicationTests.xctest"
+               BlueprintName = "EventManagerApplicationTests"
+               ReferencedContainer = "container:EventManagerApplication.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "849E03B519F92C6B00FDE544"
-            BuildableName = "EventManagerApp.app"
-            BlueprintName = "EventManagerApp"
-            ReferencedContainer = "container:EventManagerApp 07-07-36-812.xcodeproj">
+            BlueprintIdentifier = "84907B091A0016B100B661F4"
+            BuildableName = "EventManagerApplication.app"
+            BlueprintName = "EventManagerApplication"
+            ReferencedContainer = "container:EventManagerApplication.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "849E03B519F92C6B00FDE544"
-            BuildableName = "EventManagerApp.app"
-            BlueprintName = "EventManagerApp"
-            ReferencedContainer = "container:EventManagerApp 07-07-36-812.xcodeproj">
+            BlueprintIdentifier = "84907B091A0016B100B661F4"
+            BuildableName = "EventManagerApplication.app"
+            BlueprintName = "EventManagerApplication"
+            ReferencedContainer = "container:EventManagerApplication.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "849E03B519F92C6B00FDE544"
-            BuildableName = "EventManagerApp.app"
-            BlueprintName = "EventManagerApp"
-            ReferencedContainer = "container:EventManagerApp.xcodeproj">
+            BlueprintIdentifier = "84907B091A0016B100B661F4"
+            BuildableName = "EventManagerApplication.app"
+            BlueprintName = "EventManagerApplication"
+            ReferencedContainer = "container:EventManagerApplication.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
