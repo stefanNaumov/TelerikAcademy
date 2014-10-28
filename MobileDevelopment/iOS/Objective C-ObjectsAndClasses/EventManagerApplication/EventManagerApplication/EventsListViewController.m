@@ -33,12 +33,18 @@
     NSLog(@"%lui",(unsigned long) [self.events count]);
     return [self.events count];
 }
+
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
     static NSString *identifier = @"Cell";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:identifier forIndexPath:indexPath];
     Event *event = [self.events objectAtIndex:indexPath.row];
-    NSLog(@"%@",[event title]);
-    cell.textLabel.text = [event title];
+    
+    NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
+    [formatter setDateFormat:@"dd MM yyyy EEEE"];
+    NSString *eventDate = [formatter stringFromDate:[event date]];
+    
+    NSString *eventInfo = [[NSString alloc]initWithFormat:@"%@ on %@",[event title],eventDate];
+    cell.textLabel.text = eventInfo;
     
     return cell;
 }
