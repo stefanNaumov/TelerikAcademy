@@ -7,9 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84928C901A018F47001DB5D2 /* PasswordsTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84928C8F1A018F47001DB5D2 /* PasswordsTableViewController.m */; };
+		84928C931A01A687001DB5D2 /* PasswordDecryptViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84928C921A01A687001DB5D2 /* PasswordDecryptViewController.m */; };
 		8498C9661A005DF70084E1E8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498C9651A005DF70084E1E8 /* main.m */; };
 		8498C9691A005DF70084E1E8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498C9681A005DF70084E1E8 /* AppDelegate.m */; };
-		8498C96C1A005DF70084E1E8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498C96B1A005DF70084E1E8 /* ViewController.m */; };
+		8498C96C1A005DF70084E1E8 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498C96B1A005DF70084E1E8 /* MainViewController.m */; };
 		8498C96F1A005DF70084E1E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8498C96D1A005DF70084E1E8 /* Main.storyboard */; };
 		8498C9711A005DF70084E1E8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8498C9701A005DF70084E1E8 /* Images.xcassets */; };
 		8498C9741A005DF70084E1E8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8498C9721A005DF70084E1E8 /* LaunchScreen.xib */; };
@@ -28,13 +30,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84928C8E1A018F47001DB5D2 /* PasswordsTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasswordsTableViewController.h; sourceTree = "<group>"; };
+		84928C8F1A018F47001DB5D2 /* PasswordsTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PasswordsTableViewController.m; sourceTree = "<group>"; };
+		84928C911A01A687001DB5D2 /* PasswordDecryptViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PasswordDecryptViewController.h; sourceTree = "<group>"; };
+		84928C921A01A687001DB5D2 /* PasswordDecryptViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PasswordDecryptViewController.m; sourceTree = "<group>"; };
 		8498C9601A005DF70084E1E8 /* PasswordsManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PasswordsManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8498C9641A005DF70084E1E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8498C9651A005DF70084E1E8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8498C9671A005DF70084E1E8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8498C9681A005DF70084E1E8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		8498C96A1A005DF70084E1E8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		8498C96B1A005DF70084E1E8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8498C96A1A005DF70084E1E8 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		8498C96B1A005DF70084E1E8 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		8498C96E1A005DF70084E1E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8498C9701A005DF70084E1E8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8498C9731A005DF70084E1E8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -87,12 +93,16 @@
 				8498C9891A005E3A0084E1E8 /* Models */,
 				8498C9671A005DF70084E1E8 /* AppDelegate.h */,
 				8498C9681A005DF70084E1E8 /* AppDelegate.m */,
-				8498C96A1A005DF70084E1E8 /* ViewController.h */,
-				8498C96B1A005DF70084E1E8 /* ViewController.m */,
+				8498C96A1A005DF70084E1E8 /* MainViewController.h */,
+				8498C96B1A005DF70084E1E8 /* MainViewController.m */,
 				8498C96D1A005DF70084E1E8 /* Main.storyboard */,
 				8498C9701A005DF70084E1E8 /* Images.xcassets */,
 				8498C9721A005DF70084E1E8 /* LaunchScreen.xib */,
 				8498C9631A005DF70084E1E8 /* Supporting Files */,
+				84928C8E1A018F47001DB5D2 /* PasswordsTableViewController.h */,
+				84928C8F1A018F47001DB5D2 /* PasswordsTableViewController.m */,
+				84928C911A01A687001DB5D2 /* PasswordDecryptViewController.h */,
+				84928C921A01A687001DB5D2 /* PasswordDecryptViewController.m */,
 			);
 			path = PasswordsManager;
 			sourceTree = "<group>";
@@ -233,9 +243,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				8498C98C1A005E570084E1E8 /* Password.m in Sources */,
-				8498C96C1A005DF70084E1E8 /* ViewController.m in Sources */,
+				84928C901A018F47001DB5D2 /* PasswordsTableViewController.m in Sources */,
+				8498C96C1A005DF70084E1E8 /* MainViewController.m in Sources */,
 				8498C9691A005DF70084E1E8 /* AppDelegate.m in Sources */,
 				8498C9661A005DF70084E1E8 /* main.m in Sources */,
+				84928C931A01A687001DB5D2 /* PasswordDecryptViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -426,6 +438,7 @@
 				8498C9851A005DF70084E1E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8498C9861A005DF70084E1E8 /* Build configuration list for PBXNativeTarget "PasswordsManagerTests" */ = {
 			isa = XCConfigurationList;
@@ -434,6 +447,7 @@
 				8498C9881A005DF70084E1E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
