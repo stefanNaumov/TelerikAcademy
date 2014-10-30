@@ -65,6 +65,24 @@
     }
 }
 
+- (IBAction)genRandomPassword:(id)sender {
+    NSString *randomPass = [self genRandomString];
+    self.password.text = randomPass;
+}
+
+-(NSString *)genRandomString{
+    static NSString *symbols = @"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    int length = arc4random_uniform(30);
+    
+    NSMutableString *randomStr = [[NSMutableString alloc] initWithCapacity:length];
+    
+    for (int i = 0; i < length; i++) {
+        [randomStr appendFormat:@"%C",[symbols characterAtIndex:arc4random() % length]];
+    }
+    
+    return randomStr;
+}
+
 -(NSString *)encryptPassword:(NSString *)password withKey:(NSString *)key{
     NSData *plainData = [password dataUsingEncoding:NSUTF8StringEncoding];
     NSData *encryptedData = [plainData AES256encryptWithKey:key];
@@ -73,6 +91,8 @@
     
     return encryptedStr;
 }
+
+
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
     PasswordsTableViewController *controller = [segue destinationViewController];

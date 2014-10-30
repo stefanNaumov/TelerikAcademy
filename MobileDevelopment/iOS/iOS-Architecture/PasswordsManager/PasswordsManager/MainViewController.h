@@ -19,6 +19,7 @@
 @property (nonatomic) NSMutableArray *passwords;
 
 - (IBAction)addPassword:(id)sender;
+- (IBAction)genRandomPassword:(id)sender;
 
 @end
 
