@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "Password.h"
 #import "PasswordsTableViewController.h"
+#import "AES256.h"
 
 @interface MainViewController : UIViewController
 @property (weak, nonatomic) IBOutlet UITextField *accountName;

@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "Password.h"
+#import "AES256.h"
 
 @interface PasswordDecryptViewController : UIViewController
 

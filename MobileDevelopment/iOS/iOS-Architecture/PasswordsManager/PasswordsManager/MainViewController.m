@@ -9,7 +9,6 @@
 #import "MainViewController.h"
 
 @interface MainViewController ()
-
 @end
 
 #define trimAll(object)[object stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]]
@@ -43,8 +42,10 @@
     
     if ([accountName length] > 0 && [password length] > 0 && [encryptionCode length] > 0) {
         Password *newPassword = [[Password alloc] init];
+        NSString *encryptedPass = [self encryptPassword:password withKey:encryptionCode];
+        
         [newPassword setAccountName:accountName];
-        [newPassword setPassword:password];
+        [newPassword setPassword:encryptedPass];
         [newPassword setEncryptionCode:encryptionCode];
         
         [self.passwords addObject:newPassword];
@@ -62,6 +63,15 @@
         UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Restriction" message:@"You must fill all fields" delegate:nil cancelButtonTitle:@"OK" otherButtonTitles:nil, nil];
         [alert show];
     }
+}
+
+-(NSString *)encryptPassword:(NSString *)password withKey:(NSString *)key{
+    NSData *plainData = [password dataUsingEncoding:NSUTF8StringEncoding];
+    NSData *encryptedData = [plainData AES256encryptWithKey:key];
+    
+    NSString *encryptedStr = [[NSString alloc] initWithData:encryptedData encoding:NSASCIIStringEncoding];
+    
+    return encryptedStr;
 }
 
 -(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{

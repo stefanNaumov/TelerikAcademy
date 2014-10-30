@@ -17,6 +17,7 @@
 		8498C9741A005DF70084E1E8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8498C9721A005DF70084E1E8 /* LaunchScreen.xib */; };
 		8498C9801A005DF70084E1E8 /* PasswordsManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498C97F1A005DF70084E1E8 /* PasswordsManagerTests.m */; };
 		8498C98C1A005E570084E1E8 /* Password.m in Sources */ = {isa = PBXBuildFile; fileRef = 8498C98B1A005E570084E1E8 /* Password.m */; };
+		84E301EF1A02609F008E6059 /* AES256.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E301EE1A02609F008E6059 /* AES256.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,8 @@
 		8498C97F1A005DF70084E1E8 /* PasswordsManagerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PasswordsManagerTests.m; sourceTree = "<group>"; };
 		8498C98A1A005E570084E1E8 /* Password.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Password.h; sourceTree = "<group>"; };
 		8498C98B1A005E570084E1E8 /* Password.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Password.m; sourceTree = "<group>"; };
+		84E301ED1A026089008E6059 /* AES256.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AES256.h; sourceTree = "<group>"; };
+		84E301EE1A02609F008E6059 /* AES256.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AES256.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +139,8 @@
 		8498C9891A005E3A0084E1E8 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				84E301EE1A02609F008E6059 /* AES256.m */,
+				84E301ED1A026089008E6059 /* AES256.h */,
 				8498C98A1A005E570084E1E8 /* Password.h */,
 				8498C98B1A005E570084E1E8 /* Password.m */,
 			);
@@ -245,6 +250,7 @@
 				8498C98C1A005E570084E1E8 /* Password.m in Sources */,
 				84928C901A018F47001DB5D2 /* PasswordsTableViewController.m in Sources */,
 				8498C96C1A005DF70084E1E8 /* MainViewController.m in Sources */,
+				84E301EF1A02609F008E6059 /* AES256.m in Sources */,
 				8498C9691A005DF70084E1E8 /* AppDelegate.m in Sources */,
 				8498C9661A005DF70084E1E8 /* main.m in Sources */,
 				84928C931A01A687001DB5D2 /* PasswordDecryptViewController.m in Sources */,

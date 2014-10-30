@@ -24,18 +24,26 @@
 - (IBAction)decrypt:(id)sender {
     
     NSString *encryptCodeInput = self.encryptionCode.text;
-    [self.encryptionCode resignFirstResponder];
+    NSString *password = [self.password password];
     
     if ([[self.password encryptionCode] isEqualToString:encryptCodeInput]) {
-        //TODO add decryption logic
-        NSLog(@"WORKING");
+        NSData *plainData = [password dataUsingEncoding:NSUTF8StringEncoding];
+        NSData *decryptedData = [plainData AES256decryptWithKey:encryptCodeInput];
+        
+        NSString *decryptedStr = [[NSString alloc] initWithData:decryptedData encoding:NSASCIIStringEncoding];
+        
+        self.decryptedPassword.text = decryptedStr;
+        
     }
     else{
         
     }
+    
+    [self.encryptionCode resignFirstResponder];
 }
 
 -(void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event{
     [self.view endEditing:TRUE];
 }
+
 @end
