@@ -59,9 +59,6 @@
     
     static NSString *identifier = @"Cell";
     NoteListUITableViewCell *cell = [self.tableView dequeueReusableCellWithIdentifier:identifier];
-    if (cell == nil) {
-        cell = [[NoteListUITableViewCell alloc] init];
-    }
     
     NotesList *currList = [self.listData getByIndex:indexPath.row];
     
