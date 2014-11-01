@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"%@",[self.notesList title]);
     
     self.titleOutputLabel.text = [self.notesList title];
     self.categoryOutputLabel.text = [self.notesList category];
@@ -29,8 +28,9 @@
 }
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
-    
+    NSLog(@"%lu",(unsigned long)[[self.notesList notes] count]);
     static NSString *identifier = @"noteCell";
+    
     UITableViewCell *cell = [self.notesTableView dequeueReusableCellWithIdentifier:identifier forIndexPath:indexPath];
     
     Note *currNote = [[self.notesList notes] objectAtIndex:indexPath.row];
@@ -44,15 +44,5 @@
     return [[self.notesList notes] count];
 }
 
-
-/*
-#pragma mark - Navigation
-
-// In a storyboard-based application, you will often want to do a little preparation before navigation
-- (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
-    // Get the new view controller using [segue destinationViewController].
-    // Pass the selected object to the new view controller.
-}
-*/
 
 @end

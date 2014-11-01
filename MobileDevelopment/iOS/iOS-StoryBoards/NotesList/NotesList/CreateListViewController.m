@@ -59,12 +59,12 @@
         [self.listTitleLabel resignFirstResponder];
         [self.listCategoryLabel resignFirstResponder];
         
-        MainViewController *mainViewController = [self.navigationController.viewControllers objectAtIndex:0];
-        NotesList *newList = [[NotesList alloc] initWithTitle:listTitle andCategory:listCategory];
-        
         //clear inputs
         self.listTitleLabel.text = @"";
         self.listCategoryLabel.text = @"";
+        
+        MainViewController *mainViewController = [self.navigationController.viewControllers objectAtIndex:0];
+        NotesList *newList = [[NotesList alloc] initWithTitle:listTitle andCategory:listCategory];
         
         [mainViewController.listData addList:newList];
         alert = [[UIAlertView alloc] initWithTitle:@"Success" message:@"Added list" delegate:nil cancelButtonTitle:@"Ok" otherButtonTitles:nil, nil];

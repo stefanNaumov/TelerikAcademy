@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "NotesList.h"
 #import "Note.h"
+#import "AddNoteViewController.h"
 
 @interface ListDetailsViewController : UIViewController<UITableViewDataSource,UITableViewDataSource>
 @property (weak, nonatomic) IBOutlet UILabel *titleOutputLabel;

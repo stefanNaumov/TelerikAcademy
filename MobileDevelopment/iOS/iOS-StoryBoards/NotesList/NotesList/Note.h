@@ -10,6 +10,10 @@
 
 @interface Note : NSObject
 
+-(id) initWithTitle: (NSString *) title andContent:(NSString *) content;
+
 @property (nonatomic) NSString *title;
+
+@property (nonatomic) NSString *content;
 
 @end

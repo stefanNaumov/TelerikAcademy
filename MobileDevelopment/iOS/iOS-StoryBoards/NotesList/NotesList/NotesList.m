@@ -16,6 +16,7 @@
     if (self) {
         [self setTitle:title];
         [self setCategory:category];
+        self.notes = [[NSMutableArray alloc] init];
     }
     
     return self;

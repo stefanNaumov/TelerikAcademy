@@ -10,4 +10,13 @@
 
 @implementation Note
 
+-(id) initWithTitle:(NSString *)title andContent:(NSString *)content{
+    self = [super self];
+    if (self) {
+        [self setTitle:title];
+        [self setContent:content];
+    }
+    
+    return self;
+}
 @end

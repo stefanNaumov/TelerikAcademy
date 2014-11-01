@@ -9,7 +9,9 @@
 #import <Foundation/Foundation.h>
 #import "Note.h"
 
-@interface NotesList : NSObject
+@interface NotesList : NSObject{
+    //NSMutableArray *_notes;
+}
 
 -(id) initWithTitle:(NSString *) title andCategory:(NSString *) category;
 
