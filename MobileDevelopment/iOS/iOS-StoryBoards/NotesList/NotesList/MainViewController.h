@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "ListData.h"
 #import "NotesList.h"
+#import "ListDetailsViewController.h"
 
 @interface MainViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
 

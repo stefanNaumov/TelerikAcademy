@@ -16,6 +16,7 @@
 		8491DCDF1A02F38500697C81 /* Note.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCDE1A02F38500697C81 /* Note.m */; };
 		8491DCE21A02F39800697C81 /* NotesList.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCE11A02F39800697C81 /* NotesList.m */; };
 		8491DCE51A02F72000697C81 /* ListData.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCE41A02F72000697C81 /* ListData.m */; };
+		84BCE6DD1A051BA00015F989 /* ListDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BCE6DC1A051BA00015F989 /* ListDetailsViewController.m */; };
 		84DC51FA1A04DCE900C4ACE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84DC51F81A04DCE800C4ACE9 /* Main.storyboard */; };
 		84DC51FD1A04E3D400C4ACE9 /* CreateListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DC51FC1A04E3D400C4ACE9 /* CreateListViewController.m */; };
 		84E6FD901A041AD1009B21D9 /* NoteListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84E6FD8F1A041AD1009B21D9 /* NoteListTableViewCell.xib */; };
@@ -51,6 +52,8 @@
 		8491DCE11A02F39800697C81 /* NotesList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotesList.m; sourceTree = "<group>"; };
 		8491DCE31A02F72000697C81 /* ListData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListData.h; sourceTree = "<group>"; };
 		8491DCE41A02F72000697C81 /* ListData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListData.m; sourceTree = "<group>"; };
+		84BCE6DB1A051BA00015F989 /* ListDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListDetailsViewController.h; sourceTree = "<group>"; };
+		84BCE6DC1A051BA00015F989 /* ListDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListDetailsViewController.m; sourceTree = "<group>"; };
 		84DC51F91A04DCE900C4ACE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		84DC51FB1A04E3D400C4ACE9 /* CreateListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateListViewController.h; sourceTree = "<group>"; };
 		84DC51FC1A04E3D400C4ACE9 /* CreateListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateListViewController.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				8491DCB61A02F2FB00697C81 /* Supporting Files */,
 				84DC51FB1A04E3D400C4ACE9 /* CreateListViewController.h */,
 				84DC51FC1A04E3D400C4ACE9 /* CreateListViewController.m */,
+				84BCE6DB1A051BA00015F989 /* ListDetailsViewController.h */,
+				84BCE6DC1A051BA00015F989 /* ListDetailsViewController.m */,
 			);
 			path = NotesList;
 			sourceTree = "<group>";
@@ -266,6 +271,7 @@
 			files = (
 				8491DCBF1A02F2FB00697C81 /* MainViewController.m in Sources */,
 				8491DCE51A02F72000697C81 /* ListData.m in Sources */,
+				84BCE6DD1A051BA00015F989 /* ListDetailsViewController.m in Sources */,
 				8491DCBC1A02F2FB00697C81 /* AppDelegate.m in Sources */,
 				8491DCB91A02F2FB00697C81 /* main.m in Sources */,
 				84DC51FD1A04E3D400C4ACE9 /* CreateListViewController.m in Sources */,

@@ -36,6 +36,17 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    if ([segue.identifier  isEqual: @"noteListDetailsSegue"]) {
+        ListDetailsViewController *detailsController = [segue destinationViewController];
+        NSIndexPath *path = [self.tableView indexPathForSelectedRow];
+        
+        NotesList *list = [self.listData getByIndex:path.row];
+        
+        [detailsController setNotesList:list];
+    }
+}
+
 -(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
     [self performSegueWithIdentifier:@"noteListDetailsSegue" sender:nil];
 }
@@ -45,7 +56,7 @@
 }
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
-    NSLog(@"%lu",(unsigned long)[self.listData count]);
+    
     static NSString *identifier = @"Cell";
     NoteListUITableViewCell *cell = [self.tableView dequeueReusableCellWithIdentifier:identifier];
     if (cell == nil) {
