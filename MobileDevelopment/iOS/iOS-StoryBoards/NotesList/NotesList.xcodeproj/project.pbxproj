@@ -10,13 +10,16 @@
 		8491DCB91A02F2FB00697C81 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCB81A02F2FB00697C81 /* main.m */; };
 		8491DCBC1A02F2FB00697C81 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCBB1A02F2FB00697C81 /* AppDelegate.m */; };
 		8491DCBF1A02F2FB00697C81 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCBE1A02F2FB00697C81 /* MainViewController.m */; };
-		8491DCC21A02F2FB00697C81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8491DCC01A02F2FB00697C81 /* Main.storyboard */; };
 		8491DCC41A02F2FB00697C81 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8491DCC31A02F2FB00697C81 /* Images.xcassets */; };
 		8491DCC71A02F2FB00697C81 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8491DCC51A02F2FB00697C81 /* LaunchScreen.xib */; };
 		8491DCD31A02F2FB00697C81 /* NotesListTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCD21A02F2FB00697C81 /* NotesListTests.m */; };
 		8491DCDF1A02F38500697C81 /* Note.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCDE1A02F38500697C81 /* Note.m */; };
 		8491DCE21A02F39800697C81 /* NotesList.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCE11A02F39800697C81 /* NotesList.m */; };
 		8491DCE51A02F72000697C81 /* ListData.m in Sources */ = {isa = PBXBuildFile; fileRef = 8491DCE41A02F72000697C81 /* ListData.m */; };
+		84DC51FA1A04DCE900C4ACE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84DC51F81A04DCE800C4ACE9 /* Main.storyboard */; };
+		84DC51FD1A04E3D400C4ACE9 /* CreateListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84DC51FC1A04E3D400C4ACE9 /* CreateListViewController.m */; };
+		84E6FD901A041AD1009B21D9 /* NoteListTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84E6FD8F1A041AD1009B21D9 /* NoteListTableViewCell.xib */; };
+		84E6FD931A041B16009B21D9 /* NoteListUITableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84E6FD921A041B16009B21D9 /* NoteListUITableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +40,6 @@
 		8491DCBB1A02F2FB00697C81 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8491DCBD1A02F2FB00697C81 /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		8491DCBE1A02F2FB00697C81 /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
-		8491DCC11A02F2FB00697C81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8491DCC31A02F2FB00697C81 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		8491DCC61A02F2FB00697C81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		8491DCCC1A02F2FB00697C81 /* NotesListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotesListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -49,6 +51,12 @@
 		8491DCE11A02F39800697C81 /* NotesList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NotesList.m; sourceTree = "<group>"; };
 		8491DCE31A02F72000697C81 /* ListData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListData.h; sourceTree = "<group>"; };
 		8491DCE41A02F72000697C81 /* ListData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListData.m; sourceTree = "<group>"; };
+		84DC51F91A04DCE900C4ACE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		84DC51FB1A04E3D400C4ACE9 /* CreateListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateListViewController.h; sourceTree = "<group>"; };
+		84DC51FC1A04E3D400C4ACE9 /* CreateListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateListViewController.m; sourceTree = "<group>"; };
+		84E6FD8F1A041AD1009B21D9 /* NoteListTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NoteListTableViewCell.xib; sourceTree = "<group>"; };
+		84E6FD911A041B16009B21D9 /* NoteListUITableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NoteListUITableViewCell.h; sourceTree = "<group>"; };
+		84E6FD921A041B16009B21D9 /* NoteListUITableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NoteListUITableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,15 +98,18 @@
 		8491DCB51A02F2FB00697C81 /* NotesList */ = {
 			isa = PBXGroup;
 			children = (
+				84E6FD891A040F67009B21D9 /* Views */,
 				8491DCDC1A02F35A00697C81 /* Models */,
 				8491DCBA1A02F2FB00697C81 /* AppDelegate.h */,
 				8491DCBB1A02F2FB00697C81 /* AppDelegate.m */,
+				84DC51F81A04DCE800C4ACE9 /* Main.storyboard */,
 				8491DCBD1A02F2FB00697C81 /* MainViewController.h */,
 				8491DCBE1A02F2FB00697C81 /* MainViewController.m */,
-				8491DCC01A02F2FB00697C81 /* Main.storyboard */,
 				8491DCC31A02F2FB00697C81 /* Images.xcassets */,
 				8491DCC51A02F2FB00697C81 /* LaunchScreen.xib */,
 				8491DCB61A02F2FB00697C81 /* Supporting Files */,
+				84DC51FB1A04E3D400C4ACE9 /* CreateListViewController.h */,
+				84DC51FC1A04E3D400C4ACE9 /* CreateListViewController.m */,
 			);
 			path = NotesList;
 			sourceTree = "<group>";
@@ -140,6 +151,16 @@
 				8491DCE41A02F72000697C81 /* ListData.m */,
 			);
 			name = Models;
+			sourceTree = "<group>";
+		};
+		84E6FD891A040F67009B21D9 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				84E6FD8F1A041AD1009B21D9 /* NoteListTableViewCell.xib */,
+				84E6FD911A041B16009B21D9 /* NoteListUITableViewCell.h */,
+				84E6FD921A041B16009B21D9 /* NoteListUITableViewCell.m */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -222,9 +243,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8491DCC21A02F2FB00697C81 /* Main.storyboard in Resources */,
 				8491DCC71A02F2FB00697C81 /* LaunchScreen.xib in Resources */,
 				8491DCC41A02F2FB00697C81 /* Images.xcassets in Resources */,
+				84E6FD901A041AD1009B21D9 /* NoteListTableViewCell.xib in Resources */,
+				84DC51FA1A04DCE900C4ACE9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,8 +268,10 @@
 				8491DCE51A02F72000697C81 /* ListData.m in Sources */,
 				8491DCBC1A02F2FB00697C81 /* AppDelegate.m in Sources */,
 				8491DCB91A02F2FB00697C81 /* main.m in Sources */,
+				84DC51FD1A04E3D400C4ACE9 /* CreateListViewController.m in Sources */,
 				8491DCE21A02F39800697C81 /* NotesList.m in Sources */,
 				8491DCDF1A02F38500697C81 /* Note.m in Sources */,
+				84E6FD931A041B16009B21D9 /* NoteListUITableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,20 +294,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		8491DCC01A02F2FB00697C81 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8491DCC11A02F2FB00697C81 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		8491DCC51A02F2FB00697C81 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
 				8491DCC61A02F2FB00697C81 /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		84DC51F81A04DCE800C4ACE9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				84DC51F91A04DCE900C4ACE9 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -438,6 +462,7 @@
 				8491DCD81A02F2FB00697C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8491DCD91A02F2FB00697C81 /* Build configuration list for PBXNativeTarget "NotesListTests" */ = {
 			isa = XCConfigurationList;
@@ -446,6 +471,7 @@
 				8491DCDB1A02F2FB00697C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

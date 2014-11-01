@@ -12,13 +12,15 @@
 
 @interface ListData : NSObject
 
+-(NSUInteger) count;
+
 -(void) addList:(NotesList *) list;
 
 -(NSMutableArray *) getAll;
 
 -(NotesList *) getByTitle: (NSString *) title;
 
--(NotesList *) getByIndex:(int) index;
+-(NotesList *) getByIndex:(NSUInteger) index;
 
 -(void) removeList: (NotesList *) list;
 

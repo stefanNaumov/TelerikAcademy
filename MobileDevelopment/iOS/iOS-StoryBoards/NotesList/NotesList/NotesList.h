@@ -11,6 +11,8 @@
 
 @interface NotesList : NSObject
 
+-(id) initWithTitle:(NSString *) title andCategory:(NSString *) category;
+
 @property (nonatomic) NSString *title;
 
 @property (nonatomic) NSString *category;

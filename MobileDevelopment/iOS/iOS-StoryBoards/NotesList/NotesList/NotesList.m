@@ -10,4 +10,14 @@
 
 @implementation NotesList
 
+-(id)initWithTitle:(NSString *)title andCategory:(NSString *)category{
+    self = [super self];
+    
+    if (self) {
+        [self setTitle:title];
+        [self setCategory:category];
+    }
+    
+    return self;
+}
 @end

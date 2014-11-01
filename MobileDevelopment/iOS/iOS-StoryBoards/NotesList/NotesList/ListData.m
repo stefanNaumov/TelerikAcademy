@@ -21,6 +21,10 @@
     return self;
 }
 
+-(NSUInteger) count{
+    return [notesLists count];
+}
+
 -(void) addList:(NotesList *)list{
     [notesLists addObject:list];
 }
@@ -29,8 +33,8 @@
     return notesLists;
 }
 
--(NotesList *) getByIndex:(int)index{
-    if (index >= 0 && index < [notesLists count]) {
+-(NotesList *) getByIndex:(NSUInteger)index{
+    if (index > 0 && index < [notesLists count]) {
         return [notesLists objectAtIndex:index];
     }
     else{

@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ListData.h"
+#import "NotesList.h"
 
-@interface MainViewController : UIViewController
+@interface MainViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
 
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
+
+@property (nonatomic) ListData *listData;
 
 @end
 

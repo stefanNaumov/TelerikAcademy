@@ -7,8 +7,11 @@
 //
 
 #import "MainViewController.h"
+#import "NoteListUITableViewCell.h"
 
-@interface MainViewController ()
+@interface MainViewController (){
+    
+}
 
 @end
 
@@ -16,12 +19,49 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.title = @"Notes List";
+    
+    //better done with synthesized property, only looking for the hard stuff
+    [self.tableView reloadData];
+    if (!self.listData) {
+        self.listData = [[ListData alloc] init];
+    }
+    
+    [self.tableView registerNib:[UINib nibWithNibName:@"NoteListTableViewCell" bundle:nil] forCellReuseIdentifier:@"Cell"];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
+    [self performSegueWithIdentifier:@"noteListDetailsSegue" sender:nil];
+}
+
+-(BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath{
+    return YES;
+}
+
+-(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
+    NSLog(@"%lu",(unsigned long)[self.listData count]);
+    static NSString *identifier = @"Cell";
+    NoteListUITableViewCell *cell = [self.tableView dequeueReusableCellWithIdentifier:identifier];
+    if (cell == nil) {
+        cell = [[NoteListUITableViewCell alloc] init];
+    }
+    
+    NotesList *currList = [self.listData getByIndex:indexPath.row];
+    
+    cell.titleLabel.text = currList.title;
+    cell.categoryLabel.text = currList.category;
+    
+    return cell;
+}
+
+-(NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
+    return [self.listData count];
 }
 
 @end
