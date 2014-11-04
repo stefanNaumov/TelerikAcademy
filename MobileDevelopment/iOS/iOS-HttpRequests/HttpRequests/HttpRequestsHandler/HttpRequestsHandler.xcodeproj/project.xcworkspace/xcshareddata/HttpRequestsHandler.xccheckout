@@ -5,20 +5,20 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>644522E1-9B38-442C-ACBC-FD14566BC760</string>
+	<string>1D91C0F1-96D5-4AC5-B91D-45AD71087C2E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>HttpRequests</string>
+	<string>HttpRequestsHandler</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>59205E27863E98554F48DDA48B18E577FD5D641F</key>
 		<string>https://github.com/stefanNaumov/TelerikAcademy.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MobileDevelopment/iOS/iOS-HttpRequests/HttpRequests/HttpRequests.xcodeproj</string>
+	<string>MobileDevelopment/iOS/iOS-HttpRequests/HttpRequests/HttpRequestsHandler/HttpRequestsHandler.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>59205E27863E98554F48DDA48B18E577FD5D641F</key>
-		<string>../../../../../..</string>
+		<string>../../../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/stefanNaumov/TelerikAcademy.git</string>

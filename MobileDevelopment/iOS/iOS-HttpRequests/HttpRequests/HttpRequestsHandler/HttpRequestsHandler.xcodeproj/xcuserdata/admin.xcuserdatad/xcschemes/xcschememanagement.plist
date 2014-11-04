@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>HttpRequests.xcscheme</key>
+		<key>HttpRequestsHandler.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>848AB03A1A0820D400F3B6E9</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>848AB04D1A0820D400F3B6E9</key>
+		<key>849142261A094E2D006B750C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

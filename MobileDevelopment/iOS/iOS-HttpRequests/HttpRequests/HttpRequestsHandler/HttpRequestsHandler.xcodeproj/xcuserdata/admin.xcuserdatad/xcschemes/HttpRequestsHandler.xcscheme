@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "848AB03A1A0820D400F3B6E9"
-               BuildableName = "HttpRequests.app"
-               BlueprintName = "HttpRequests"
-               ReferencedContainer = "container:HttpRequests.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "848AB04D1A0820D400F3B6E9"
-               BuildableName = "HttpRequestsTests.xctest"
-               BlueprintName = "HttpRequestsTests"
-               ReferencedContainer = "container:HttpRequests.xcodeproj">
+               BlueprintIdentifier = "849142261A094E2D006B750C"
+               BuildableName = "HttpRequestsHandler"
+               BlueprintName = "HttpRequestsHandler"
+               ReferencedContainer = "container:HttpRequestsHandler.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -42,24 +28,14 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "848AB04D1A0820D400F3B6E9"
-               BuildableName = "HttpRequestsTests.xctest"
-               BlueprintName = "HttpRequestsTests"
-               ReferencedContainer = "container:HttpRequests.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "848AB03A1A0820D400F3B6E9"
-            BuildableName = "HttpRequests.app"
-            BlueprintName = "HttpRequests"
-            ReferencedContainer = "container:HttpRequests.xcodeproj">
+            BlueprintIdentifier = "849142261A094E2D006B750C"
+            BuildableName = "HttpRequestsHandler"
+            BlueprintName = "HttpRequestsHandler"
+            ReferencedContainer = "container:HttpRequestsHandler.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "848AB03A1A0820D400F3B6E9"
-            BuildableName = "HttpRequests.app"
-            BlueprintName = "HttpRequests"
-            ReferencedContainer = "container:HttpRequests.xcodeproj">
+            BlueprintIdentifier = "849142261A094E2D006B750C"
+            BuildableName = "HttpRequestsHandler"
+            BlueprintName = "HttpRequestsHandler"
+            ReferencedContainer = "container:HttpRequestsHandler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "848AB03A1A0820D400F3B6E9"
-            BuildableName = "HttpRequests.app"
-            BlueprintName = "HttpRequests"
-            ReferencedContainer = "container:HttpRequests.xcodeproj">
+            BlueprintIdentifier = "849142261A094E2D006B750C"
+            BuildableName = "HttpRequestsHandler"
+            BlueprintName = "HttpRequestsHandler"
+            ReferencedContainer = "container:HttpRequestsHandler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
