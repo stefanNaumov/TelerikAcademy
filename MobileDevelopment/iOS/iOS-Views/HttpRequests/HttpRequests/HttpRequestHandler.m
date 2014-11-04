@@ -8,6 +8,7 @@
 
 #import "HttpRequestHandler.h"
 
+<<<<<<< HEAD
 @implementation HttpRequestHandler{
     NSMutableData *_data;
 }
@@ -30,5 +31,8 @@
     [_data appendData:data];
 }
 
+=======
+@implementation HttpRequestHandler
+>>>>>>> 4cdd5ef159b2ebb558c8cf47b81607ba4e4842b0
 
 @end
