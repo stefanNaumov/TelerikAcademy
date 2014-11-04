@@ -19,11 +19,15 @@
     NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:url];
     [request setAllHTTPHeaderFields:headers];
     
-    NSURLConnection *connection = [[NSURLConnection alloc] initWithRequest:request delegate:self];
+    //NSURLConnection *connection = [[NSURLConnection alloc] initWithRequest:request delegate:self];
     
-    if (connection) {
-        _data = [[NSMutableData alloc] init];
-    }
+    NSHTTPURLResponse *response = nil;
+    NSError *error = nil;
+    
+    [NSURLConnection sendSynchronousRequest:request returningResponse:&response error:&error];
+    
+    NSLog(@"%@",response);
+    
 }
 
 -(void) post:(NSString *)url data:(NSData *)data withHeaders:(NSDictionary *)headers{
@@ -35,9 +39,13 @@
     request.HTTPBody = data;
     request.HTTPMethod = @"POST";
     
-    NSURLConnection *conn = [[NSURLConnection alloc] initWithRequest:request delegate:self];
+    NSHTTPURLResponse *response = nil;
+    NSError *error = nil;
     
-    [conn start];
+    [NSURLConnection sendSynchronousRequest:request returningResponse:&response error:&error];
+    
+    NSLog(@"%@",response);
+    
 }
 
 -(void)connection:(NSString *)connection didReceiveData:(NSData *)data{

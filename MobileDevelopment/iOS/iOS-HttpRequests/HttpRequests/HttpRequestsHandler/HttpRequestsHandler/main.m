@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         NSMutableDictionary *headers = [[NSMutableDictionary alloc] init];
         
-        [headers setValue:nil forKey:@"Cookie"];
+        [headers setValue:@"application/json" forKey:@"Content-type"];
         
         HttpRequestHandler *handler = [[HttpRequestHandler alloc] init];
         
