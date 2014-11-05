@@ -1,7 +1,0 @@
-D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.exe
-D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.pdb
-D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\03.Trie\bin\Debug\PowerCollections.dll
-D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\03.Trie\bin\Debug\PowerCollections.xml
-D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.csprojResolveAssemblyReference.cache
-D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.exe
-D:\Telerik\telerik\TelerikAcademy\DSA\AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.pdb
